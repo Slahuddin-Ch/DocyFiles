@@ -1,0 +1,12 @@
+<map id="randomx_vm" name="randomx_vm">
+<area shape="rect" id="node2" href="$d1/d9f/structrandomx__cache.html" title="randomx_cache" alt="" coords="703,55,818,81"/>
+<area shape="rect" id="node3" href="$db/db1/classrandomx_1_1JitCompilerFallback.html" title="randomx::JitCompilerFallback" alt="" coords="283,5,478,32"/>
+<area shape="rect" id="node4" href="$d3/d7a/classrandomx_1_1SuperscalarProgram.html" title="randomx::SuperscalarProgram" alt="" coords="281,56,480,83"/>
+<area shape="rect" id="node5" href="$dc/d79/classrandomx_1_1Instruction.html" title="randomx::Instruction" alt="" coords="5,84,147,111"/>
+<area shape="rect" id="node7" href="$d7/dab/classrandomx_1_1Program.html" title="randomx::Program" alt="" coords="504,107,633,133"/>
+<area shape="rect" id="node6" href="$d9/d24/structrandomx_1_1MemoryRegisters.html" title="randomx::MemoryRegisters" alt="" coords="669,168,852,195"/>
+<area shape="rect" id="node8" href="$d2/d53/structrandomx_1_1ProgramConfiguration.html" title="randomx::ProgramConfiguration" alt="" coords="657,219,864,245"/>
+<area shape="rect" id="node9" href="$d2/d85/structrandomx__dataset.html" title="randomx_dataset" alt="" coords="699,269,822,296"/>
+<area shape="rect" id="node10" href="$dc/d59/structrandomx_1_1RegisterFile.html" title="randomx::RegisterFile" alt="" coords="685,320,836,347"/>
+<area shape="rect" id="node11" href="$d5/ded/structrandomx_1_1fpu__reg__t.html" title="randomx::fpu_reg_t" alt="" coords="313,320,448,347"/>
+</map>

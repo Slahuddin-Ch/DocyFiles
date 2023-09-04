@@ -1,0 +1,19 @@
+<map id="external/randomx/src/vm_compiled_light.hpp" name="external/randomx/src/vm_compiled_light.hpp">
+<area shape="rect" id="node3" href="$dd/dc1/vm__compiled_8hpp.html" title="vm_compiled.hpp" alt="" coords="149,95,273,121"/>
+<area shape="rect" id="node5" href="$d3/dca/virtual__machine_8hpp.html" title="virtual_machine.hpp" alt="" coords="323,169,461,196"/>
+<area shape="rect" id="node32" href="$da/d2d/jit__compiler_8hpp.html" title="jit_compiler.hpp" alt="" coords="677,169,790,196"/>
+<area shape="rect" id="node35" href="$d5/d61/allocator_8hpp.html" title="allocator.hpp" alt="" coords="245,244,341,271"/>
+<area shape="rect" id="node37" href="$dc/d6a/dataset_8hpp.html" title="dataset.hpp" alt="" coords="83,169,173,196"/>
+<area shape="rect" id="node6" href="$dd/d3a/common_8hpp.html" title="common.hpp" alt="" coords="765,319,862,345"/>
+<area shape="rect" id="node28" href="$d9/d44/program_8hpp.html" title="program.hpp" alt="" coords="609,244,703,271"/>
+<area shape="rect" id="node9" href="$d1/d84/endian_8h.html" title="blake2/endian.h" alt="" coords="883,393,997,420"/>
+<area shape="rect" id="node25" href="$d2/d2c/configuration_8h.html" title="configuration.h" alt="" coords="752,393,859,420"/>
+<area shape="rect" id="node26" href="$d7/dfa/randomx_8h.html" title="randomx.h" alt="" coords="645,393,728,420"/>
+<area shape="rect" id="node10" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="499,468,565,495"/>
+<area shape="rect" id="node13" href="$da/d66/string_8h.html" title="string.h" alt="" coords="929,468,994,495"/>
+<area shape="rect" id="node15" href="$dd/d50/serialization_8h.html" title="Simple DSL AAPI based on. " alt="" coords="1093,543,1195,569"/>
+<area shape="rect" id="node30" href="$d5/db2/instruction_8hpp.html" title="instruction.hpp" alt="" coords="439,319,545,345"/>
+<area shape="rect" id="node33" href="$d8/d2e/jit__compiler__fallback_8hpp.html" title="jit_compiler_fallback.hpp" alt="" coords="829,244,995,271"/>
+<area shape="rect" id="node38" href="$d3/d8d/superscalar__program_8hpp.html" title="superscalar_program.hpp" alt="" coords="416,244,584,271"/>
+<area shape="rect" id="node39" href="$d0/dbf/argon2_8h.html" title="argon2.h" alt="" coords="176,393,248,420"/>
+</map>

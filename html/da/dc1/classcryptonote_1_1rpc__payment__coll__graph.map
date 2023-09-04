@@ -1,0 +1,5 @@
+<map id="cryptonote::rpc_payment" name="cryptonote::rpc_payment">
+<area shape="rect" id="node2" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l cryptonote::rpc_payment\l::client_info \&gt;" alt="" coords="225,5,401,76"/>
+<area shape="rect" id="node4" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="245,100,382,141"/>
+<area shape="rect" id="node5" href="$da/de3/classserializable__map.html" title="serializable_map\&lt; uint64\l_t, uint64_t \&gt;" alt="" coords="230,165,397,207"/>
+</map>

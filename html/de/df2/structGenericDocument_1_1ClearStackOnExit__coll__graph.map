@@ -1,0 +1,14 @@
+<map id="GenericDocument&lt; Encoding, Allocator, StackAllocator &gt;::ClearStackOnExit" name="GenericDocument&lt; Encoding, Allocator, StackAllocator &gt;::ClearStackOnExit">
+<area shape="rect" id="node2" href="$da/dc7/classGenericDocument.html" title="A document for parsing JSON text as DOM. " alt="" coords="553,111,751,153"/>
+<area shape="rect" id="node3" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="226,234,397,275"/>
+<area shape="rect" id="node6" href="$d4/dbc/structGenericValue_1_1ArrayData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ArrayData" alt="" coords="567,369,737,410"/>
+<area shape="rect" id="node4" href="$d3/dbf/unionGenericValue_1_1Data.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Data" alt="" coords="831,434,1001,475"/>
+<area shape="rect" id="node5" href="$dc/d5a/structGenericValue_1_1String.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::String" alt="" coords="567,303,737,345"/>
+<area shape="rect" id="node7" href="$d7/da7/structGenericValue_1_1ObjectData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ObjectData" alt="" coords="567,434,737,475"/>
+<area shape="rect" id="node8" href="$d7/dac/structGenericMember.html" title="Name&#45;value pair in a JSON object value. " alt="" coords="219,434,403,475"/>
+<area shape="rect" id="node9" href="$d8/df4/unionGenericValue_1_1Number.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Number" alt="" coords="567,499,737,541"/>
+<area shape="rect" id="node11" href="$dc/dfe/structGenericValue_1_1ShortString.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ShortString" alt="" coords="567,565,737,606"/>
+<area shape="rect" id="node12" href="$de/df8/structGenericValue_1_1Flag.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Flag" alt="" coords="567,630,737,671"/>
+<area shape="rect" id="node13" href="$dc/dbb/structParseResult.html" title="Result of parsing (wraps ParseErrorCode) " alt="" coords="264,5,359,32"/>
+<area shape="rect" id="node16" href="$d3/dab/classinternal_1_1Stack.html" title="internal::Stack\&lt; StackAllocator \&gt;" alt="" coords="204,169,419,196"/>
+</map>

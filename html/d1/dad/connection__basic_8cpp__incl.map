@@ -1,0 +1,19 @@
+<map id="contrib/epee/src/connection_basic.cpp" name="contrib/epee/src/connection_basic.cpp">
+<area shape="rect" id="node2" href="$d8/d85/connection__basic_8hpp.html" title="base for connection, contains e.g. the ratelimit hooks " alt="" coords="466,184,636,211"/>
+<area shape="rect" id="node14" href="$de/de6/net__utils__base_8h.html" title="net/net_utils_base.h" alt="" coords="1515,266,1654,293"/>
+<area shape="rect" id="node21" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="2610,445,2716,471"/>
+<area shape="rect" id="node44" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="3578,266,3698,293"/>
+<area shape="rect" id="node48" href="$db/d39/network__throttle-detail_8hpp.html" title="implementaion for throttling of connection (count and rate&#45;limit speed etc) " alt="" coords="3186,95,3324,136"/>
+<area shape="rect" id="node8" href="$d3/ddf/byte__slice_8h.html" title="byte_slice.h" alt="" coords="405,355,497,382"/>
+<area shape="rect" id="node31" href="$dd/d94/net__ssl_8h.html" title="net/net_ssl.h" alt="" coords="846,355,944,382"/>
+<area shape="rect" id="node36" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="2548,266,2626,293"/>
+<area shape="rect" id="node12" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="502,445,563,471"/>
+<area shape="rect" id="node19" href="$d4/d29/contrib_2epee_2include_2net_2enums_8h.html" title="enums.h" alt="" coords="1060,355,1132,382"/>
+<area shape="rect" id="node22" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="1826,348,1972,389"/>
+<area shape="rect" id="node26" href="$d5/d78/int-util_8h.html" title="int&#45;util.h" alt="" coords="1682,355,1750,382"/>
+<area shape="rect" id="node25" href="$da/db4/keyvalue__serialization__overloads_8h.html" title="keyvalue_serialization\l_overloads.h" alt="" coords="2108,437,2258,479"/>
+<area shape="rect" id="node28" href="$d9/d5e/stdbool_8h.html" title="stdbool.h" alt="" coords="1756,445,1831,471"/>
+<area shape="rect" id="node29" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="1522,445,1588,471"/>
+<area shape="rect" id="node30" href="$da/d66/string_8h.html" title="string.h" alt="" coords="412,445,477,471"/>
+<area shape="rect" id="node50" href="$d4/d12/network__throttle_8hpp.html" title="interface for throttling of connection (count and rate&#45;limit speed etc) " alt="" coords="3008,184,3148,211"/>
+</map>

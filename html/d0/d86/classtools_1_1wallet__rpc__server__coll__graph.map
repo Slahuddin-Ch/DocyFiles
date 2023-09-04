@@ -1,0 +1,35 @@
+<map id="tools::wallet_rpc_server" name="tools::wallet_rpc_server">
+<area shape="rect" id="node2" href="$d6/da3/classepee_1_1http__server__impl__base.html" title="epee::http_server_impl\l_base\&lt; wallet_rpc_server \&gt;" alt="" coords="1349,123,1532,164"/>
+<area shape="rect" id="node3" href="$df/ddf/structepee_1_1net__utils_1_1http_1_1i__http__server__handler.html" title="epee::net_utils::http\l::i_http_server_handler\l\&lt; epee::net_utils::connection\l_context_base \&gt;" alt="" coords="947,5,1138,76"/>
+<area shape="rect" id="node4" href="$d3/ddd/classepee_1_1net__utils_1_1boosted__tcp__server.html" title="epee::net_utils::boosted\l_tcp_server\&lt; epee::net\l_utils::http::http_custom\l_handler\&lt; epee::net_utils\l::connection_context_base \&gt; \&gt;" alt="" coords="941,101,1144,186"/>
+<area shape="rect" id="node6" href="$df/d71/classepee_1_1critical__section.html" title="epee::critical_section" alt="" coords="565,114,710,141"/>
+<area shape="rect" id="node7" href="$df/d4e/classepee_1_1net__utils_1_1network__address.html" title="epee::net_utils::network\l_address" alt="" coords="557,165,718,207"/>
+<area shape="rect" id="node9" href="$de/d6e/classtools_1_1wallet2.html" title="tools::wallet2" alt="" coords="1391,942,1490,969"/>
+<area shape="rect" id="node32" href="$db/d53/classtools_1_1hashchain.html" title="tools::hashchain" alt="" coords="984,317,1101,343"/>
+<area shape="rect" id="node10" href="$df/d48/classserializable__unordered__multimap.html" title="serializable_unordered\l_multimap\&lt; crypto::hash,\l tools::wallet2::pool_payment\l_details \&gt;" alt="" coords="947,368,1139,439"/>
+<area shape="rect" id="node12" href="$d7/d07/classcryptonote_1_1checkpoints.html" title="A container for blockchain checkpoints. " alt="" coords="962,463,1123,490"/>
+<area shape="rect" id="node13" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, std\l::string \&gt;" alt="" coords="961,514,1125,570"/>
+<area shape="rect" id="node15" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="211,597,348,639"/>
+<area shape="rect" id="node22" href="$d9/dfd/structcryptonote_1_1account__keys.html" title="cryptonote::account_keys" alt="" coords="551,645,723,671"/>
+<area shape="rect" id="node16" href="$d0/d13/structtools_1_1rpc__payment__state__t.html" title="tools::rpc_payment\l_state_t" alt="" coords="571,696,704,737"/>
+<area shape="rect" id="node30" href="$de/dff/classtools_1_1NodeRPCProxy.html" title="tools::NodeRPCProxy" alt="" coords="967,773,1119,799"/>
+<area shape="rect" id="node17" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l crypto::key_image \&gt;" alt="" coords="955,890,1131,946"/>
+<area shape="rect" id="node19" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l cryptonote::subaddress\l_index \&gt;" alt="" coords="955,971,1131,1041"/>
+<area shape="rect" id="node21" href="$dc/d6a/classcryptonote_1_1account__base.html" title="cryptonote::account_base" alt="" coords="957,645,1129,671"/>
+<area shape="rect" id="node23" href="$d5/dec/classhw_1_1device.html" title="hw::device" alt="" coords="237,674,322,701"/>
+<area shape="rect" id="node24" href="$d1/da8/structepee_1_1mlocked.html" title="epee::mlocked\&lt; tools\l::scrubbed\&lt; ec_scalar \&gt; \&gt;" alt="" coords="192,820,367,861"/>
+<area shape="rect" id="node26" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; std::string, std\l::string \&gt;" alt="" coords="967,1066,1118,1122"/>
+<area shape="rect" id="node28" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::key_image,\l size_t \&gt;" alt="" coords="954,1146,1131,1202"/>
+<area shape="rect" id="node31" href="$d1/df6/classepee_1_1net__utils_1_1http_1_1abstract__http__client.html" title="epee::net_utils::http\l::abstract_http_client" alt="" coords="565,761,709,803"/>
+<area shape="rect" id="node33" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l serializable_map\&lt; uint64\l_t, crypto::key_image \&gt; \&gt;" alt="" coords="955,1227,1131,1297"/>
+<area shape="rect" id="node35" href="$d1/db4/classtools_1_1i__wallet2__callback.html" title="tools::i_wallet2_callback" alt="" coords="961,1322,1125,1349"/>
+<area shape="rect" id="node36" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l size_t \&gt;" alt="" coords="955,1373,1131,1429"/>
+<area shape="rect" id="node38" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, std\l::vector\&lt; epee::mlocked \&gt; \&gt;" alt="" coords="949,1453,1136,1509"/>
+<area shape="rect" id="node40" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, tools\l::wallet2::confirmed_transfer\l_details \&gt;" alt="" coords="949,1533,1136,1604"/>
+<area shape="rect" id="node42" href="$da/d0a/classmms_1_1message__store.html" title="mms::message_store" alt="" coords="969,1629,1117,1655"/>
+<area shape="rect" id="node43" href="$d3/d94/classmms_1_1message__transporter.html" title="mms::message_transporter" alt="" coords="547,1629,728,1655"/>
+<area shape="rect" id="node44" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, epee\l::mlocked \&gt;" alt="" coords="955,1679,1130,1735"/>
+<area shape="rect" id="node46" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, tools\l::wallet2::unconfirmed_transfer\l_details \&gt;" alt="" coords="942,1760,1143,1831"/>
+<area shape="rect" id="node48" href="$df/d48/classserializable__unordered__multimap.html" title="serializable_unordered\l_multimap\&lt; crypto::hash,\l payment_details \&gt;" alt="" coords="957,1855,1128,1911"/>
+<area shape="rect" id="node50" href="$de/d33/classtools_1_1private__file.html" title="A file restricted to process owner AND process. Deletes file on destruction. " alt="" coords="1380,993,1501,1019"/>
+</map>

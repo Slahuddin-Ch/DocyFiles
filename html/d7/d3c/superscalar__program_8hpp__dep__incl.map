@@ -1,0 +1,23 @@
+<map id="external/randomx/src/superscalar_program.hpp" name="external/randomx/src/superscalar_program.hpp">
+<area shape="rect" id="node2" href="$d4/d25/superscalar_8hpp.html" title="external/randomx/src\l/superscalar.hpp" alt="" coords="1898,95,2042,136"/>
+<area shape="rect" id="node13" href="$dc/d6a/dataset_8hpp.html" title="external/randomx/src\l/dataset.hpp" alt="" coords="811,95,955,136"/>
+<area shape="rect" id="node3" href="$dc/da8/assembly__generator__x86_8cpp.html" title="external/randomx/src\l/assembly_generator_x86.cpp" alt="" coords="1508,184,1704,225"/>
+<area shape="rect" id="node4" href="$dd/d75/dataset_8cpp.html" title="external/randomx/src\l/dataset.cpp" alt="" coords="1171,184,1315,225"/>
+<area shape="rect" id="node5" href="$dc/da1/jit__compiler__a64_8cpp.html" title="external/randomx/src\l/jit_compiler_a64.cpp" alt="" coords="1728,184,1873,225"/>
+<area shape="rect" id="node6" href="$d3/dbe/jit__compiler__x86_8cpp.html" title="external/randomx/src\l/jit_compiler_x86.cpp" alt="" coords="1897,184,2043,225"/>
+<area shape="rect" id="node7" href="$df/d22/superscalar_8cpp.html" title="external/randomx/src\l/superscalar.cpp" alt="" coords="2067,184,2211,225"/>
+<area shape="rect" id="node8" href="$da/d36/code-generator_8cpp.html" title="external/randomx/src\l/tests/code&#45;generator.cpp" alt="" coords="2235,184,2406,225"/>
+<area shape="rect" id="node9" href="$d7/d9f/superscalar-avalanche_8cpp.html" title="external/randomx/src\l/tests/superscalar&#45;avalanche.cpp" alt="" coords="2431,184,2645,225"/>
+<area shape="rect" id="node10" href="$d9/da5/superscalar-init_8cpp.html" title="external/randomx/src\l/tests/superscalar&#45;init.cpp" alt="" coords="2669,184,2841,225"/>
+<area shape="rect" id="node11" href="$d5/dc8/superscalar-stats_8cpp.html" title="external/randomx/src\l/tests/superscalar&#45;stats.cpp" alt="" coords="2866,184,3050,225"/>
+<area shape="rect" id="node12" href="$d9/d1e/tests_8cpp.html" title="external/randomx/src\l/tests/tests.cpp" alt="" coords="1339,184,1483,225"/>
+<area shape="rect" id="node14" href="$d4/d69/randomx_8cpp.html" title="external/randomx/src\l/randomx.cpp" alt="" coords="478,363,622,404"/>
+<area shape="rect" id="node15" href="$dd/dc1/vm__compiled_8hpp.html" title="external/randomx/src\l/vm_compiled.hpp" alt="" coords="369,184,513,225"/>
+<area shape="rect" id="node18" href="$d3/d97/runtime-distr_8cpp.html" title="external/randomx/src\l/tests/runtime&#45;distr.cpp" alt="" coords="5,273,161,315"/>
+<area shape="rect" id="node20" href="$d9/d2c/external_2randomx_2src_2tests_2benchmark_8cpp.html" title="external/randomx/src\l/tests/benchmark.cpp" alt="" coords="639,184,787,225"/>
+<area shape="rect" id="node21" href="$d4/d2a/vm__interpreted_8cpp.html" title="external/randomx/src\l/vm_interpreted.cpp" alt="" coords="811,184,955,225"/>
+<area shape="rect" id="node22" href="$d1/d56/vm__interpreted__light_8cpp.html" title="external/randomx/src\l/vm_interpreted_light.cpp" alt="" coords="979,184,1147,225"/>
+<area shape="rect" id="node16" href="$d8/d69/vm__compiled__light_8hpp.html" title="external/randomx/src\l/vm_compiled_light.hpp" alt="" coords="185,273,344,315"/>
+<area shape="rect" id="node19" href="$d9/db3/vm__compiled_8cpp.html" title="external/randomx/src\l/vm_compiled.cpp" alt="" coords="369,273,513,315"/>
+<area shape="rect" id="node17" href="$d4/d3c/vm__compiled__light_8cpp.html" title="external/randomx/src\l/vm_compiled_light.cpp" alt="" coords="185,363,344,404"/>
+</map>

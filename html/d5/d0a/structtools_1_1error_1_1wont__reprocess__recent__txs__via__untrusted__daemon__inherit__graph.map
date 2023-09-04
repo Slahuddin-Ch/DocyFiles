@@ -1,0 +1,4 @@
+<map id="tools::error::wont_reprocess_recent_txs_via_untrusted_daemon" name="tools::error::wont_reprocess_recent_txs_via_untrusted_daemon">
+<area shape="rect" id="node2" href="$d7/d84/structtools_1_1error_1_1scan__tx__error.html" title="tools::error::scan\l_tx_error" alt="" coords="25,155,145,196"/>
+<area shape="rect" id="node3" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_logic_error" alt="" coords="24,80,147,107"/>
+</map>

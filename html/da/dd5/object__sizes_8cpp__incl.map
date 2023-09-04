@@ -1,0 +1,40 @@
+<map id="src/debug_utilities/object_sizes.cpp" name="src/debug_utilities/object_sizes.cpp">
+<area shape="rect" id="node3" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic/cryptonote\l_basic.h" alt="" coords="512,303,699,344"/>
+<area shape="rect" id="node24" href="$db/d33/tx__extra_8h.html" title="cryptonote_basic/tx\l_extra.h" alt="" coords="432,102,568,143"/>
+<area shape="rect" id="node25" href="$df/d35/cryptonote__core_8h.html" title="cryptonote_core/cryptonote\l_core.h" alt="" coords="1305,102,1485,143"/>
+<area shape="rect" id="node37" href="$de/d65/blockchain_8h.html" title="blockchain.h" alt="" coords="473,213,567,240"/>
+<area shape="rect" id="node39" href="$d2/d5c/p2p__protocol__defs_8h.html" title="p2p/p2p_protocol_defs.h" alt="" coords="2638,399,2802,426"/>
+<area shape="rect" id="node40" href="$d8/d85/connection__basic_8hpp.html" title="base for connection, contains e.g. the ratelimit hooks " alt="" coords="2043,109,2213,136"/>
+<area shape="rect" id="node41" href="$d3/d4b/net__peerlist_8h.html" title="p2p/net_peerlist.h" alt="" coords="2828,310,2953,337"/>
+<area shape="rect" id="node42" href="$db/d3a/net__node_8h.html" title="p2p/net_node.h" alt="" coords="2649,213,2759,240"/>
+<area shape="rect" id="node43" href="$d0/d81/cryptonote__protocol__handler_8h.html" title="This is the original cryptonote protocol network&#45;events handler, modified by us. " alt="" coords="1878,95,2018,151"/>
+<area shape="rect" id="node44" href="$d7/d1c/db__lmdb_8h.html" title="blockchain_db/lmdb\l/db_lmdb.h" alt="" coords="774,303,911,344"/>
+<area shape="rect" id="node45" href="$df/d3f/wallet2_8h.html" title="wallet/wallet2.h" alt="" coords="2301,310,2413,337"/>
+<area shape="rect" id="node46" href="$d0/df4/wallet_8h.html" title="wallet/api/wallet.h" alt="" coords="2289,109,2415,136"/>
+<area shape="rect" id="node47" href="$d2/d55/transaction__info_8h.html" title="wallet/api/transaction\l_info.h" alt="" coords="1709,102,1854,143"/>
+<area shape="rect" id="node48" href="$d3/d29/transaction__history_8h.html" title="wallet/api/transaction\l_history.h" alt="" coords="2593,102,2738,143"/>
+<area shape="rect" id="node49" href="$db/d2f/unsigned__transaction_8h.html" title="wallet/api/unsigned\l_transaction.h" alt="" coords="2491,206,2624,247"/>
+<area shape="rect" id="node50" href="$df/df8/pending__transaction_8h.html" title="wallet/api/pending\l_transaction.h" alt="" coords="2339,206,2466,247"/>
+<area shape="rect" id="node10" href="$d6/d10/variant_8h.html" title="for dealing with variants " alt="" coords="279,667,425,694"/>
+<area shape="rect" id="node11" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="831,578,998,605"/>
+<area shape="rect" id="node12" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="319,571,449,612"/>
+<area shape="rect" id="node13" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="523,660,642,701"/>
+<area shape="rect" id="node14" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="517,571,648,612"/>
+<area shape="rect" id="node15" href="$dd/d1a/serialization_2crypto_8h.html" title="serialization/crypto.h" alt="" coords="1155,489,1298,515"/>
+<area shape="rect" id="node16" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="1088,578,1197,605"/>
+<area shape="rect" id="node17" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="1255,667,1316,694"/>
+<area shape="rect" id="node18" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="1373,481,1520,523"/>
+<area shape="rect" id="node19" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="2587,489,2723,515"/>
+<area shape="rect" id="node20" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="1924,489,2044,515"/>
+<area shape="rect" id="node21" href="$d0/d1d/rctTypes_8h.html" title="ringct/rctTypes.h" alt="" coords="855,489,975,515"/>
+<area shape="rect" id="node22" href="$d5/d08/device_8hpp.html" title="device/device.hpp" alt="" coords="953,399,1079,426"/>
+<area shape="rect" id="node23" href="$d1/d8f/src_2cryptonote__basic_2fwd_8h.html" title="cryptonote_basic/fwd.h" alt="" coords="1357,399,1515,426"/>
+<area shape="rect" id="node30" href="$dc/d2d/i__core__events_8h.html" title="cryptonote_core/i_core\l_events.h" alt="" coords="744,206,899,247"/>
+<area shape="rect" id="node31" href="$da/d9a/src_2cryptonote__protocol_2enums_8h.html" title="cryptonote_protocol\l/enums.h" alt="" coords="1055,303,1191,344"/>
+<area shape="rect" id="node32" href="$d2/d5a/cryptonote__protocol__handler__common_8h.html" title="cryptonote_protocol\l/cryptonote_protocol\l_handler_common.h" alt="" coords="1689,199,1829,255"/>
+<area shape="rect" id="node33" href="$da/d62/connection__context_8h.html" title="cryptonote_basic/connection\l_context.h" alt="" coords="1641,303,1829,344"/>
+<area shape="rect" id="node34" href="$dc/dfd/download_8h.html" title="common/download.h" alt="" coords="974,213,1117,240"/>
+<area shape="rect" id="node35" href="$d8/dfd/command__line_8h.html" title="common/command_line.h" alt="" coords="1955,310,2125,337"/>
+<area shape="rect" id="node36" href="$db/df4/src_2cryptonote__core_2tx__pool_8h.html" title="tx_pool.h" alt="" coords="1589,213,1664,240"/>
+<area shape="rect" id="node38" href="$de/d13/miner_8h.html" title="cryptonote_basic/miner.h" alt="" coords="1397,213,1565,240"/>
+</map>

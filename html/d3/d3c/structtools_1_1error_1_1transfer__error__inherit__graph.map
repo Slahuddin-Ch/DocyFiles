@@ -1,0 +1,13 @@
+<map id="tools::error::transfer_error" name="tools::error::transfer_error">
+<area shape="rect" id="node4" href="$d7/db0/structtools_1_1error_1_1not__enough__money.html" title="tools::error::not_enough\l_money" alt="" coords="501,5,660,47"/>
+<area shape="rect" id="node5" href="$db/d52/structtools_1_1error_1_1not__enough__outs__to__mix.html" title="tools::error::not_enough\l_outs_to_mix" alt="" coords="501,71,660,112"/>
+<area shape="rect" id="node6" href="$db/d85/structtools_1_1error_1_1not__enough__unlocked__money.html" title="tools::error::not_enough\l_unlocked_money" alt="" coords="501,136,660,177"/>
+<area shape="rect" id="node7" href="$d4/d19/structtools_1_1error_1_1tx__not__constructed.html" title="tools::error::tx_not\l_constructed" alt="" coords="517,201,645,243"/>
+<area shape="rect" id="node8" href="$db/d34/structtools_1_1error_1_1tx__not__possible.html" title="tools::error::tx_not\l_possible" alt="" coords="517,267,645,308"/>
+<area shape="rect" id="node9" href="$d2/d39/structtools_1_1error_1_1tx__rejected.html" title="tools::error::tx_rejected" alt="" coords="503,333,659,359"/>
+<area shape="rect" id="node10" href="$dc/d43/structtools_1_1error_1_1tx__sum__overflow.html" title="tools::error::tx_sum\l_overflow" alt="" coords="513,384,648,425"/>
+<area shape="rect" id="node11" href="$dc/d55/structtools_1_1error_1_1tx__too__big.html" title="tools::error::tx_too_big" alt="" coords="505,450,657,477"/>
+<area shape="rect" id="node12" href="$d8/d82/structtools_1_1error_1_1zero__amount.html" title="tools::error::zero\l_amount" alt="" coords="522,501,639,543"/>
+<area shape="rect" id="node13" href="$da/d27/structtools_1_1error_1_1zero__destination.html" title="tools::error::zero\l_destination" alt="" coords="522,567,639,608"/>
+<area shape="rect" id="node2" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_logic_error" alt="" coords="147,303,269,330"/>
+</map>

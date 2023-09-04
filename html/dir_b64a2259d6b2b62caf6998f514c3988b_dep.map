@@ -1,0 +1,41 @@
+<map id="src/device_trezor/trezor" name="src/device_trezor/trezor">
+<area shape="rect" id="node3" href="dir_4261af1259721e3e39e0d2dd7354b511.html" title="crypto" alt="" coords="245,447,317,495"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000086_000119.html" title="3" alt="" coords="241,420,249,435"/>
+<area shape="rect" id="node4" href="dir_e91c81f9be83f649fcd1d8691438a113.html" title="wallet" alt="" coords="259,159,331,207"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000086_000168.html" title="1" alt="" coords="259,132,267,147"/>
+<area shape="rect" id="node5" href="dir_3847941dc22744d30c1d316a1f1a60e2.html" title="contrib" alt="" coords="171,639,243,687"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000086_000001.html" title="1" alt="" coords="157,614,165,629"/>
+<area shape="rect" id="node6" href="dir_43acba02aa807b8aaba9ab3f764ff087.html" title="ringct" alt="" coords="347,351,419,399"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000086_000166.html" title="3" alt="" coords="391,326,399,340"/>
+<area shape="rect" id="node7" href="dir_397d9aeee4af8edecac90968d93b57df.html" title="external" alt="" coords="256,735,328,783"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000086_000013.html" title="3" alt="" coords="236,733,244,747"/>
+<area shape="rect" id="node8" href="dir_16dc92632bab467dc50b01bd02b3341a.html" title="device" alt="" coords="160,255,232,303"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000086_000155.html" title="1" alt="" coords="200,229,208,244"/>
+<area shape="rect" id="node9" href="dir_fdedb0aba14d44ce9d99bc100e026e6a.html" title="common" alt="" coords="392,543,464,591"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000086_000065.html" title="3" alt="" coords="480,540,488,554"/>
+<area shape="rect" id="node2" href="dir_47e585503c13bc44967648c77da96765.html" title="tools" alt="" coords="64,63,136,111"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000119_000001.html" title="21" alt="" coords="223,617,238,632"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000119_000013.html" title="31" alt="" coords="285,708,300,723"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000119_000065.html" title="3" alt="" coords="376,524,384,538"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000168_000119.html" title="15" alt="" coords="284,421,299,436"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000168_000001.html" title="40" alt="" coords="212,614,226,629"/>
+<area shape="rect" id="edge13-headlabel" href="dir_000168_000166.html" title="3" alt="" coords="374,323,382,338"/>
+<area shape="rect" id="edge14-headlabel" href="dir_000168_000013.html" title="6" alt="" coords="344,747,352,761"/>
+<area shape="rect" id="edge15-headlabel" href="dir_000168_000155.html" title="1" alt="" coords="228,240,236,254"/>
+<area shape="rect" id="edge16-headlabel" href="dir_000168_000065.html" title="38" alt="" coords="437,518,452,533"/>
+<area shape="rect" id="edge17-headlabel" href="dir_000001_000013.html" title="3" alt="" coords="260,708,268,722"/>
+<area shape="rect" id="edge18-headlabel" href="dir_000166_000119.html" title="20" alt="" coords="319,433,333,447"/>
+<area shape="rect" id="edge19-headlabel" href="dir_000166_000001.html" title="14" alt="" coords="237,622,252,637"/>
+<area shape="rect" id="edge20-headlabel" href="dir_000166_000013.html" title="1" alt="" coords="344,729,352,744"/>
+<area shape="rect" id="edge21-headlabel" href="dir_000166_000065.html" title="6" alt="" coords="422,516,430,530"/>
+<area shape="rect" id="edge22-headlabel" href="dir_000013_000119.html" title="12" alt="" coords="274,506,288,521"/>
+<area shape="rect" id="edge23-headlabel" href="dir_000155_000119.html" title="4" alt="" coords="267,419,275,434"/>
+<area shape="rect" id="edge24-headlabel" href="dir_000155_000168.html" title="1" alt="" coords="255,207,263,222"/>
+<area shape="rect" id="edge25-headlabel" href="dir_000155_000001.html" title="3" alt="" coords="178,611,186,626"/>
+<area shape="rect" id="edge26-headlabel" href="dir_000155_000166.html" title="4" alt="" coords="330,333,338,348"/>
+<area shape="rect" id="edge27-headlabel" href="dir_000065_000119.html" title="5" alt="" coords="325,499,333,514"/>
+<area shape="rect" id="edge28-headlabel" href="dir_000065_000001.html" title="33" alt="" coords="256,640,270,655"/>
+<area shape="rect" id="edge29-headlabel" href="dir_000065_000013.html" title="8" alt="" coords="322,717,330,732"/>
+<area shape="rect" id="clust2" href="dir_b64a2259d6b2b62caf6998f514c3988b.html" alt="" coords="53,52,243,121"/>
+<area shape="rect" id="clust1" href="dir_0c51ffe13cbbd3c6c239d14c6c389544.html" title="device_trezor" alt="" coords="43,16,253,132"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="src/cryptonote_basic/account_boost_serialization.h" name="src/cryptonote_basic/account_boost_serialization.h">
+<area shape="rect" id="node2" href="$de/d26/account_8h.html" title="account.h" alt="" coords="1393,95,1472,121"/>
+<area shape="rect" id="node39" href="$df/d48/cryptonote__boost__serialization_8h.html" title="cryptonote_boost_serialization.h" alt="" coords="2187,95,2396,121"/>
+<area shape="rect" id="node3" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic.h" alt="" coords="1263,177,1395,203"/>
+<area shape="rect" id="node19" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="1857,445,1966,471"/>
+<area shape="rect" id="node30" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="223,259,370,300"/>
+<area shape="rect" id="node10" href="$d6/d10/variant_8h.html" title="for dealing with variants " alt="" coords="661,534,807,561"/>
+<area shape="rect" id="node11" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="819,445,985,471"/>
+<area shape="rect" id="node12" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="1474,437,1605,479"/>
+<area shape="rect" id="node16" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="1123,527,1241,568"/>
+<area shape="rect" id="node17" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="1111,437,1242,479"/>
+<area shape="rect" id="node18" href="$dd/d1a/serialization_2crypto_8h.html" title="serialization/crypto.h" alt="" coords="1341,355,1484,382"/>
+<area shape="rect" id="node28" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="1469,534,1530,561"/>
+<area shape="rect" id="node34" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="1586,355,1722,382"/>
+<area shape="rect" id="node35" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="394,266,514,293"/>
+<area shape="rect" id="node36" href="$d0/d1d/rctTypes_8h.html" title="ringct/rctTypes.h" alt="" coords="1949,355,2069,382"/>
+<area shape="rect" id="node37" href="$d5/d08/device_8hpp.html" title="device/device.hpp" alt="" coords="1637,266,1764,293"/>
+<area shape="rect" id="node38" href="$d1/d8f/src_2cryptonote__basic_2fwd_8h.html" title="cryptonote_basic/fwd.h" alt="" coords="639,266,797,293"/>
+<area shape="rect" id="node14" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="1659,691,1721,717"/>
+<area shape="rect" id="node23" href="$db/d68/pod-class_8h.html" title="common/pod&#45;class.h" alt="" coords="1496,616,1639,643"/>
+<area shape="rect" id="node24" href="$d8/d78/memwipe_8h.html" title="memwipe.h" alt="" coords="2153,534,2243,561"/>
+<area shape="rect" id="node25" href="$d5/df4/mlocker_8h.html" title="mlocker.h" alt="" coords="1897,534,1976,561"/>
+<area shape="rect" id="node26" href="$d3/d3f/generic-ops_8h.html" title="generic&#45;ops.h" alt="" coords="2511,616,2611,643"/>
+<area shape="rect" id="node27" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="1663,616,1717,643"/>
+<area shape="rect" id="node29" href="$d1/d79/random_8h.html" title="random.h" alt="" coords="2471,534,2547,561"/>
+<area shape="rect" id="node33" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="157,355,263,382"/>
+<area shape="rect" id="node46" href="$d4/daa/portable__binary__iarchive_8hpp.html" title="boost/archive/portable\l_binary_iarchive.hpp" alt="" coords="2988,169,3139,211"/>
+<area shape="rect" id="node47" href="$db/d69/portable__binary__oarchive_8hpp.html" title="boost/archive/portable\l_binary_oarchive.hpp" alt="" coords="3163,169,3313,211"/>
+<area shape="rect" id="node48" href="$de/dbb/difficulty_8h.html" title="difficulty.h" alt="" coords="1266,445,1349,471"/>
+<area shape="rect" id="node49" href="$de/de9/unordered__containers__boost__serialization_8h.html" title="common/unordered_containers\l_boost_serialization.h" alt="" coords="1650,169,1850,211"/>
+<area shape="rect" id="node50" href="$d2/d9d/rctOps_8h.html" title="ringct/rctOps.h" alt="" coords="2567,266,2675,293"/>
+</map>

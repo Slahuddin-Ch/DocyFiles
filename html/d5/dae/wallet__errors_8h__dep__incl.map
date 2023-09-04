@@ -1,0 +1,51 @@
+<map id="src/wallet/wallet_errors.h" name="src/wallet/wallet_errors.h">
+<area shape="rect" id="node2" href="$da/d1c/message__store_8cpp.html" title="src/wallet/message\l_store.cpp" alt="" coords="1812,80,1947,121"/>
+<area shape="rect" id="node3" href="$d5/d3d/message__transporter_8cpp.html" title="src/wallet/message\l_transporter.cpp" alt="" coords="1971,80,2105,121"/>
+<area shape="rect" id="node4" href="$d8/d07/src_2wallet_2ringdb_8cpp.html" title="src/wallet/ringdb.cpp" alt="" coords="2129,87,2272,114"/>
+<area shape="rect" id="node5" href="$df/d3f/wallet2_8h.html" title="src/wallet/wallet2.h" alt="" coords="2296,87,2431,114"/>
+<area shape="rect" id="node6" href="$da/de8/object__sizes_8cpp.html" title="src/debug_utilities\l/object_sizes.cpp" alt="" coords="5,273,132,315"/>
+<area shape="rect" id="node7" href="$de/dd5/device__cold_8hpp.html" title="src/device/device_cold.hpp" alt="" coords="1857,184,2037,211"/>
+<area shape="rect" id="node9" href="$d8/dd1/protocol_8hpp.html" title="src/device_trezor/trezor\l/protocol.hpp" alt="" coords="1868,273,2027,315"/>
+<area shape="rect" id="node11" href="$d8/da4/wallet2_8cpp.html" title="src/wallet/wallet2.cpp" alt="" coords="2291,281,2439,307"/>
+<area shape="rect" id="node13" href="$d4/d44/gen__multisig_8cpp.html" title="Generates a set of multisig wallets. " alt="" coords="2292,177,2435,218"/>
+<area shape="rect" id="node14" href="$d6/d17/simplewallet_8h.html" title="Header file that declares simple_wallet class. " alt="" coords="2459,184,2662,211"/>
+<area shape="rect" id="node16" href="$d6/d56/address__from__url_8cpp.html" title="tests/unit_tests/address\l_from_url.cpp" alt="" coords="3034,273,3197,315"/>
+<area shape="rect" id="node17" href="$d7/d21/address__book_8h.html" title="src/wallet/api/address\l_book.h" alt="" coords="685,177,834,218"/>
+<area shape="rect" id="node18" href="$da/dcd/address__book_8cpp.html" title="src/wallet/api/address\l_book.cpp" alt="" coords="507,273,657,315"/>
+<area shape="rect" id="node20" href="$d0/df4/wallet_8h.html" title="src/wallet/api/wallet.h" alt="" coords="859,184,1007,211"/>
+<area shape="rect" id="node22" href="$d5/d86/src_2wallet_2api_2subaddress_8cpp.html" title="src/wallet/api/subaddress.cpp" alt="" coords="1417,281,1611,307"/>
+<area shape="rect" id="node23" href="$de/d56/subaddress__account_8cpp.html" title="src/wallet/api/subaddress\l_account.cpp" alt="" coords="1030,273,1201,315"/>
+<area shape="rect" id="node24" href="$dd/d9a/transaction__history_8cpp.html" title="src/wallet/api/transaction\l_history.cpp" alt="" coords="1225,273,1392,315"/>
+<area shape="rect" id="node27" href="$df/df8/pending__transaction_8h.html" title="src/wallet/api/pending\l_transaction.h" alt="" coords="156,177,304,218"/>
+<area shape="rect" id="node28" href="$de/d41/subaddress_8h.html" title="src/wallet/api/subaddress.h" alt="" coords="1550,184,1731,211"/>
+<area shape="rect" id="node29" href="$d9/d8d/tests_2unit__tests_2subaddress_8cpp.html" title="tests/unit_tests/subaddress.cpp" alt="" coords="1635,281,1843,307"/>
+<area shape="rect" id="node30" href="$df/def/subaddress__account_8h.html" title="src/wallet/api/subaddress\l_account.h" alt="" coords="1031,177,1202,218"/>
+<area shape="rect" id="node31" href="$db/d2f/unsigned__transaction_8h.html" title="src/wallet/api/unsigned\l_transaction.h" alt="" coords="375,177,530,218"/>
+<area shape="rect" id="node32" href="$d1/dd5/wallet__rpc__payments_8cpp.html" title="src/wallet/wallet_rpc\l_payments.cpp" alt="" coords="2737,177,2878,218"/>
+<area shape="rect" id="node33" href="$dc/de0/wallet__rpc__server_8h.html" title="src/wallet/wallet_rpc\l_server.h" alt="" coords="2902,177,3043,218"/>
+<area shape="rect" id="node35" href="$d1/d6b/wallet__tools_8h.html" title="tests/core_tests/wallet\l_tools.h" alt="" coords="2113,177,2267,218"/>
+<area shape="rect" id="node38" href="$d8/dcc/transactions__flow__test_8cpp.html" title="tests/functional_tests\l/transactions_flow_test.cpp" alt="" coords="3068,177,3251,218"/>
+<area shape="rect" id="node39" href="$dc/d01/transactions__generation__from__blockchain_8cpp.html" title="tests/functional_tests\l/transactions_generation\l_from_blockchain.cpp" alt="" coords="3275,169,3439,225"/>
+<area shape="rect" id="node40" href="$dd/d5a/cold-outputs_8cpp.html" title="tests/fuzz/cold&#45;outputs.cpp" alt="" coords="3463,184,3643,211"/>
+<area shape="rect" id="node41" href="$d8/d39/cold-transaction_8cpp.html" title="tests/fuzz/cold&#45;transaction.cpp" alt="" coords="3667,184,3868,211"/>
+<area shape="rect" id="node42" href="$d0/d74/signature_8cpp.html" title="tests/fuzz/signature.cpp" alt="" coords="3893,184,4055,211"/>
+<area shape="rect" id="node43" href="$d8/d78/tests_2libwallet__api__tests_2main_8cpp.html" title="tests/libwallet_api\l_tests/main.cpp" alt="" coords="4080,177,4207,218"/>
+<area shape="rect" id="node44" href="$d4/dec/subaddress__expand_8h.html" title="tests/performance_tests\l/subaddress_expand.h" alt="" coords="4231,177,4394,218"/>
+<area shape="rect" id="node46" href="$d0/d09/hashchain_8cpp.html" title="tests/unit_tests/hashchain.cpp" alt="" coords="4418,184,4618,211"/>
+<area shape="rect" id="node47" href="$d4/dc7/tests_2unit__tests_2multisig_8cpp.html" title="tests/unit_tests/multisig.cpp" alt="" coords="4642,184,4829,211"/>
+<area shape="rect" id="node48" href="$d9/df4/output__selection_8cpp.html" title="tests/unit_tests/output\l_selection.cpp" alt="" coords="4853,177,5005,218"/>
+<area shape="rect" id="node49" href="$d6/d5a/serialization_8cpp.html" title="tests/unit_tests/serialization.cpp" alt="" coords="5029,184,5239,211"/>
+<area shape="rect" id="node50" href="$d8/dd2/uri_8cpp.html" title="tests/unit_tests/uri.cpp" alt="" coords="5263,184,5418,211"/>
+<area shape="rect" id="node8" href="$d2/dc1/device__trezor__base_8hpp.html" title="src/device_trezor/device\l_trezor_base.hpp" alt="" coords="2051,273,2215,315"/>
+<area shape="rect" id="node12" href="$da/d6c/trezor__tests_8cpp.html" title="tests/trezor/trezor\l_tests.cpp" alt="" coords="2326,363,2451,404"/>
+<area shape="rect" id="node10" href="$d4/d25/protocol_8cpp.html" title="src/device_trezor/trezor\l/protocol.cpp" alt="" coords="1868,363,2027,404"/>
+<area shape="rect" id="node15" href="$d4/d6b/simplewallet_8cpp.html" title="Source file that defines simple_wallet class. " alt="" coords="2792,281,3009,307"/>
+<area shape="rect" id="node19" href="$d7/de1/wallet_8cpp.html" title="src/wallet/api/wallet.cpp" alt="" coords="681,281,843,307"/>
+<area shape="rect" id="node21" href="$de/dcf/pending__transaction_8cpp.html" title="src/wallet/api/pending\l_transaction.cpp" alt="" coords="156,273,304,315"/>
+<area shape="rect" id="node25" href="$d3/d42/unsigned__transaction_8cpp.html" title="src/wallet/api/unsigned\l_transaction.cpp" alt="" coords="329,273,483,315"/>
+<area shape="rect" id="node26" href="$d9/d37/wallet__manager_8cpp.html" title="src/wallet/api/wallet\l_manager.cpp" alt="" coords="868,273,1005,315"/>
+<area shape="rect" id="node34" href="$d9/d54/wallet__rpc__server_8cpp.html" title="src/wallet/wallet_rpc\l_server.cpp" alt="" coords="3221,273,3362,315"/>
+<area shape="rect" id="node36" href="$da/df0/wallet__tools_8cpp.html" title="tests/core_tests/wallet\l_tools.cpp" alt="" coords="2613,273,2767,315"/>
+<area shape="rect" id="node37" href="$d4/d89/trezor__tests_8h.html" title="tests/trezor/trezor\l_tests.h" alt="" coords="2463,273,2589,315"/>
+<area shape="rect" id="node45" href="$d1/df5/tests_2performance__tests_2main_8cpp.html" title="tests/performance_tests\l/main.cpp" alt="" coords="4231,273,4394,315"/>
+</map>

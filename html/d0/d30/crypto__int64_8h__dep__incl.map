@@ -1,0 +1,15 @@
+<map id="src/crypto/crypto_ops_builder/include/sodium/crypto_int64.h" name="src/crypto/crypto_ops_builder/include/sodium/crypto_int64.h">
+<area shape="rect" id="node2" href="$da/d7e/fe__frombytes_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/fe_frombytes.c" alt="" coords="5,117,196,158"/>
+<area shape="rect" id="node3" href="$d0/d57/fe__mul_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/fe_mul.c" alt="" coords="221,117,375,158"/>
+<area shape="rect" id="node4" href="$da/d55/fe__sq_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/fe_sq.c" alt="" coords="400,117,548,158"/>
+<area shape="rect" id="node5" href="$d8/d11/fe__sq2_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/fe_sq2.c" alt="" coords="573,117,727,158"/>
+<area shape="rect" id="node6" href="$d1/d9e/sc__muladd_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/sc_muladd.c" alt="" coords="751,117,930,158"/>
+<area shape="rect" id="node7" href="$d5/d85/sc__reduce_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/sc_reduce.c" alt="" coords="955,117,1129,158"/>
+<area shape="rect" id="node8" href="$db/d7e/ommentedCombined_2fe__frombytes_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/fe_frombytes.c" alt="" coords="1153,109,1384,165"/>
+<area shape="rect" id="node9" href="$d6/d30/ommentedCombined_2fe__mul_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/fe_mul.c" alt="" coords="1408,109,1639,165"/>
+<area shape="rect" id="node10" href="$d0/da6/ommentedCombined_2fe__sq_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/fe_sq.c" alt="" coords="1663,109,1893,165"/>
+<area shape="rect" id="node11" href="$db/dc7/ommentedCombined_2fe__sq2_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/fe_sq2.c" alt="" coords="1917,109,2148,165"/>
+<area shape="rect" id="node12" href="$d1/dcd/ommentedCombined_2sc__muladd_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/sc_muladd.c" alt="" coords="2172,109,2403,165"/>
+<area shape="rect" id="node13" href="$d4/d1a/ommentedCombined_2sc__reduce_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/sc_reduce.c" alt="" coords="2427,109,2657,165"/>
+<area shape="rect" id="node14" href="$db/d5e/sc__sub_8xmr_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/sc_sub.xmr.c" alt="" coords="2681,109,2912,165"/>
+</map>

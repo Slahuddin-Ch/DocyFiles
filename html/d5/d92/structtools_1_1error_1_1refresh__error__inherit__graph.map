@@ -1,0 +1,10 @@
+<map id="tools::error::refresh_error" name="tools::error::refresh_error">
+<area shape="rect" id="node4" href="$d2/d3a/structtools_1_1error_1_1acc__outs__lookup__error.html" title="tools::error::acc_outs\l_lookup_error" alt="" coords="510,5,655,47"/>
+<area shape="rect" id="node5" href="$d1/dc2/structtools_1_1error_1_1block__parse__error.html" title="tools::error::block\l_parse_error" alt="" coords="521,71,644,112"/>
+<area shape="rect" id="node6" href="$dd/d6b/structtools_1_1error_1_1get__tx__pool__error.html" title="tools::error::get_tx\l_pool_error" alt="" coords="519,136,647,177"/>
+<area shape="rect" id="node7" href="$d9/df3/structtools_1_1error_1_1incorrect__fork__version.html" title="tools::error::incorrect\l_fork_version" alt="" coords="511,201,654,243"/>
+<area shape="rect" id="node8" href="$df/df5/structtools_1_1error_1_1out__of__hashchain__bounds__error.html" title="tools::error::out_of\l_hashchain_bounds_error" alt="" coords="497,267,668,308"/>
+<area shape="rect" id="node9" href="$dd/d43/structtools_1_1error_1_1reorg__depth__error.html" title="tools::error::reorg\l_depth_error" alt="" coords="522,332,643,373"/>
+<area shape="rect" id="node10" href="$db/dc8/structtools_1_1error_1_1tx__parse__error.html" title="tools::error::tx_parse\l_error" alt="" coords="511,397,654,439"/>
+<area shape="rect" id="node2" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_logic_error" alt="" coords="147,209,269,235"/>
+</map>

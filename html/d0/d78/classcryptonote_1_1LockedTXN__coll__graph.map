@@ -1,0 +1,5 @@
+<map id="cryptonote::LockedTXN" name="cryptonote::LockedTXN">
+<area shape="rect" id="node2" href="$de/db3/classcryptonote_1_1BlockchainDB.html" title="The BlockchainDB backing store interface declaration/contract. " alt="" coords="53,95,227,121"/>
+<area shape="rect" id="node4" href="$d0/d61/classcryptonote_1_1HardFork.html" title="cryptonote::HardFork" alt="" coords="205,213,350,240"/>
+<area shape="rect" id="node3" href="$df/d71/classepee_1_1critical__section.html" title="epee::critical_section" alt="" coords="137,5,282,32"/>
+</map>

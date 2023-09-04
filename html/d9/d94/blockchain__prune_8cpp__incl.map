@@ -1,0 +1,25 @@
+<map id="src/blockchain_utilities/blockchain_prune.cpp" name="src/blockchain_utilities/blockchain_prune.cpp">
+<area shape="rect" id="node3" href="$db/d52/lmdb_8h.html" title="Lightning memory&#45;mapped database library. " alt="" coords="3608,199,3669,225"/>
+<area shape="rect" id="node11" href="$d8/dfd/command__line_8h.html" title="common/command_line.h" alt="" coords="363,385,533,411"/>
+<area shape="rect" id="node20" href="$df/dac/pruning_8h.html" title="common/pruning.h" alt="" coords="2295,102,2425,129"/>
+<area shape="rect" id="node21" href="$df/d35/cryptonote__core_8h.html" title="cryptonote_core/cryptonote\l_core.h" alt="" coords="843,95,1023,136"/>
+<area shape="rect" id="node36" href="$d9/d5c/blockchain__db_8h.html" title="blockchain_db/blockchain_db.h" alt="" coords="1261,295,1464,322"/>
+<area shape="rect" id="node37" href="$de/d65/blockchain_8h.html" title="blockchain.h" alt="" coords="2225,199,2319,225"/>
+<area shape="rect" id="node49" href="$d7/d1c/db__lmdb_8h.html" title="blockchain_db/lmdb\l/db_lmdb.h" alt="" coords="2031,95,2169,136"/>
+<area shape="rect" id="node50" href="$df/dfc/version_8h.html" title="version.h" alt="" coords="2968,102,3043,129"/>
+<area shape="rect" id="node5" href="$d3/dd6/inttypes_8h.html" title="inttypes.h" alt="" coords="3759,295,3838,322"/>
+<area shape="rect" id="node6" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="3766,385,3831,411"/>
+<area shape="rect" id="node19" href="$d5/dcc/include__base__utils_8h.html" title="include_base_utils.h" alt="" coords="769,474,909,501"/>
+<area shape="rect" id="node24" href="$d1/d8f/src_2cryptonote__basic_2fwd_8h.html" title="cryptonote_basic/fwd.h" alt="" coords="1228,199,1385,225"/>
+<area shape="rect" id="node25" href="$dc/d2d/i__core__events_8h.html" title="cryptonote_core/i_core\l_events.h" alt="" coords="464,288,619,329"/>
+<area shape="rect" id="node26" href="$da/d9a/src_2cryptonote__protocol_2enums_8h.html" title="cryptonote_protocol\l/enums.h" alt="" coords="659,377,795,419"/>
+<area shape="rect" id="node27" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="1133,474,1195,501"/>
+<area shape="rect" id="node28" href="$d2/d5a/cryptonote__protocol__handler__common_8h.html" title="cryptonote_protocol\l/cryptonote_protocol\l_handler_common.h" alt="" coords="630,184,770,240"/>
+<area shape="rect" id="node29" href="$da/d62/connection__context_8h.html" title="cryptonote_basic/connection\l_context.h" alt="" coords="897,288,1085,329"/>
+<area shape="rect" id="node31" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="1075,385,1136,411"/>
+<area shape="rect" id="node32" href="$dc/dfd/download_8h.html" title="common/download.h" alt="" coords="1410,199,1553,225"/>
+<area shape="rect" id="node33" href="$db/df4/src_2cryptonote__core_2tx__pool_8h.html" title="tx_pool.h" alt="" coords="896,199,971,225"/>
+<area shape="rect" id="node46" href="$de/d13/miner_8h.html" title="cryptonote_basic/miner.h" alt="" coords="1788,199,1956,225"/>
+<area shape="rect" id="node47" href="$dc/d9e/warnings_8h.html" title="warnings.h" alt="" coords="1577,199,1663,225"/>
+<area shape="rect" id="node48" href="$d4/d4f/src_2rpc_2fwd_8h.html" title="rpc/fwd.h" alt="" coords="1687,199,1763,225"/>
+</map>

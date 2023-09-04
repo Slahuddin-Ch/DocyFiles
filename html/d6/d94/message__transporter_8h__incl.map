@@ -1,0 +1,34 @@
+<map id="src/wallet/message_transporter.h" name="src/wallet/message_transporter.h">
+<area shape="rect" id="node2" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="777,363,924,404"/>
+<area shape="rect" id="node9" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic/cryptonote\l_basic.h" alt="" coords="1445,273,1632,315"/>
+<area shape="rect" id="node28" href="$df/d48/cryptonote__boost__serialization_8h.html" title="cryptonote_basic/cryptonote\l_boost_serialization.h" alt="" coords="2256,184,2443,225"/>
+<area shape="rect" id="node40" href="$d6/da4/account__boost__serialization_8h.html" title="cryptonote_basic/account\l_boost_serialization.h" alt="" coords="1576,95,1747,136"/>
+<area shape="rect" id="node42" href="$d1/d3f/http__server__impl__base_8h.html" title="net/http_server_impl\l_base.h" alt="" coords="354,184,494,225"/>
+<area shape="rect" id="node47" href="$d9/df2/http__client_8h.html" title="net/http_client.h" alt="" coords="3549,102,3664,129"/>
+<area shape="rect" id="node48" href="$d4/d4a/abstract__http__client_8h.html" title="abstract_http_client.h" alt="" coords="3516,191,3663,218"/>
+<area shape="rect" id="node49" href="$d2/db6/common_2util_8h.html" title="common/util.h" alt="" coords="3300,370,3404,397"/>
+<area shape="rect" id="node50" href="$d5/de3/wipeable__string_8h.html" title="wipeable_string.h" alt="" coords="839,102,961,129"/>
+<area shape="rect" id="node6" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="819,459,925,486"/>
+<area shape="rect" id="node7" href="$da/db4/keyvalue__serialization__overloads_8h.html" title="keyvalue_serialization\l_overloads.h" alt="" coords="695,541,846,583"/>
+<area shape="rect" id="node15" href="$d6/d10/variant_8h.html" title="for dealing with variants " alt="" coords="1495,638,1641,665"/>
+<area shape="rect" id="node16" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="1251,549,1418,575"/>
+<area shape="rect" id="node17" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="2019,541,2149,583"/>
+<area shape="rect" id="node18" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="1922,631,2041,672"/>
+<area shape="rect" id="node19" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="1572,541,1703,583"/>
+<area shape="rect" id="node20" href="$dd/d1a/serialization_2crypto_8h.html" title="serialization/crypto.h" alt="" coords="1566,459,1709,486"/>
+<area shape="rect" id="node21" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="2173,549,2283,575"/>
+<area shape="rect" id="node22" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="2993,638,3055,665"/>
+<area shape="rect" id="node23" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="2265,459,2401,486"/>
+<area shape="rect" id="node24" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="948,370,1068,397"/>
+<area shape="rect" id="node25" href="$d0/d1d/rctTypes_8h.html" title="ringct/rctTypes.h" alt="" coords="1971,459,2091,486"/>
+<area shape="rect" id="node26" href="$d5/d08/device_8hpp.html" title="device/device.hpp" alt="" coords="2125,370,2251,397"/>
+<area shape="rect" id="node27" href="$d1/d8f/src_2cryptonote__basic_2fwd_8h.html" title="cryptonote_basic/fwd.h" alt="" coords="1575,370,1732,397"/>
+<area shape="rect" id="node35" href="$d4/daa/portable__binary__iarchive_8hpp.html" title="boost/archive/portable\l_binary_iarchive.hpp" alt="" coords="3222,273,3373,315"/>
+<area shape="rect" id="node36" href="$db/d69/portable__binary__oarchive_8hpp.html" title="boost/archive/portable\l_binary_oarchive.hpp" alt="" coords="1810,273,1961,315"/>
+<area shape="rect" id="node37" href="$de/dbb/difficulty_8h.html" title="difficulty.h" alt="" coords="2983,549,3065,575"/>
+<area shape="rect" id="node38" href="$de/de9/unordered__containers__boost__serialization_8h.html" title="common/unordered_containers\l_boost_serialization.h" alt="" coords="1985,273,2185,315"/>
+<area shape="rect" id="node39" href="$d2/d9d/rctOps_8h.html" title="ringct/rctOps.h" alt="" coords="2429,370,2537,397"/>
+<area shape="rect" id="node41" href="$de/d26/account_8h.html" title="account.h" alt="" coords="1599,191,1678,218"/>
+<area shape="rect" id="node45" href="$d5/d26/abstract__tcp__server2_8h.html" title="the connection templated&#45;class for one peer connection " alt="" coords="527,281,705,307"/>
+<area shape="rect" id="node46" href="$db/db3/http__protocol__handler_8h.html" title="http_protocol_handler.h" alt="" coords="345,281,503,307"/>
+</map>

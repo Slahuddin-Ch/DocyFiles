@@ -1,0 +1,23 @@
+<map id="src/device_trezor/trezor/protocol.hpp" name="src/device_trezor/trezor/protocol.hpp">
+<area shape="rect" id="node2" href="$db/d7c/trezor__defs_8hpp.html" title="trezor_defs.hpp" alt="" coords="2291,266,2403,293"/>
+<area shape="rect" id="node3" href="$de/dd5/device__cold_8hpp.html" title="device/device_cold.hpp" alt="" coords="2039,95,2198,121"/>
+<area shape="rect" id="node4" href="$df/d3f/wallet2_8h.html" title="wallet/wallet2.h" alt="" coords="1437,177,1549,203"/>
+<area shape="rect" id="node30" href="$d2/d3a/messages__map_8hpp.html" title="messages_map.hpp" alt="" coords="2652,177,2791,203"/>
+<area shape="rect" id="node40" href="$de/d0b/transport_8hpp.html" title="transport.hpp" alt="" coords="3412,95,3511,121"/>
+<area shape="rect" id="node14" href="$d5/dcc/include__base__utils_8h.html" title="include_base_utils.h" alt="" coords="425,445,565,471"/>
+<area shape="rect" id="node15" href="$de/d26/account_8h.html" title="cryptonote_basic/account.h" alt="" coords="1373,445,1555,471"/>
+<area shape="rect" id="node16" href="$d6/da4/account__boost__serialization_8h.html" title="cryptonote_basic/account\l_boost_serialization.h" alt="" coords="1501,348,1672,389"/>
+<area shape="rect" id="node17" href="$d3/d11/cryptonote__basic__impl_8h.html" title="cryptonote_basic/cryptonote\l_basic_impl.h" alt="" coords="1599,437,1785,479"/>
+<area shape="rect" id="node18" href="$dd/d56/http_8h.html" title="net/http.h" alt="" coords="1960,266,2037,293"/>
+<area shape="rect" id="node22" href="$db/def/http__abstract__invoke_8h.html" title="storages/http_abstract\l_invoke.h" alt="" coords="2477,259,2629,300"/>
+<area shape="rect" id="node24" href="$dd/daf/core__rpc__server__commands__defs_8h.html" title="rpc/core_rpc_server\l_commands_defs.h" alt="" coords="1798,259,1935,300"/>
+<area shape="rect" id="node25" href="$d1/d9a/cryptonote__format__utils_8h.html" title="cryptonote_basic/cryptonote\l_format_utils.h" alt="" coords="925,348,1112,389"/>
+<area shape="rect" id="node26" href="$da/d84/cryptonote__tx__utils_8h.html" title="cryptonote_core/cryptonote\l_tx_utils.h" alt="" coords="283,259,463,300"/>
+<area shape="rect" id="node27" href="$de/de9/unordered__containers__boost__serialization_8h.html" title="common/unordered_containers\l_boost_serialization.h" alt="" coords="59,259,259,300"/>
+<area shape="rect" id="node28" href="$d2/db6/common_2util_8h.html" title="common/util.h" alt="" coords="2163,266,2267,293"/>
+<area shape="rect" id="node19" href="$d9/df2/http__client_8h.html" title="net/http_client.h" alt="" coords="2112,355,2227,382"/>
+<area shape="rect" id="node32" href="$da/d49/exceptions_8hpp.html" title="exceptions.hpp" alt="" coords="3878,266,3989,293"/>
+<area shape="rect" id="node45" href="$db/df5/document_8h.html" title="rapidjson/document.h" alt="" coords="3333,177,3480,203"/>
+<area shape="rect" id="node46" href="$d9/d53/writer_8h.html" title="rapidjson/writer.h" alt="" coords="4435,177,4557,203"/>
+<area shape="rect" id="node47" href="$d7/dde/stringbuffer_8h.html" title="stringbuffer.h" alt="" coords="4492,266,4591,293"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="GenericReader&lt; SourceEncoding, TargetEncoding, StackAllocator &gt;::ClearStackOnExit" name="GenericReader&lt; SourceEncoding, TargetEncoding, StackAllocator &gt;::ClearStackOnExit">
+<area shape="rect" id="node2" href="$dc/d9e/classGenericReader.html" title="SAX&#45;style JSON parser. Use Reader for UTF8 encoding and default allocator. " alt="" coords="103,184,325,225"/>
+<area shape="rect" id="node3" href="$dc/dbb/structParseResult.html" title="Result of parsing (wraps ParseErrorCode) " alt="" coords="167,95,261,121"/>
+<area shape="rect" id="node5" href="$d3/dab/classinternal_1_1Stack.html" title="internal::Stack\&lt; StackAllocator \&gt;" alt="" coords="285,95,500,121"/>
+</map>

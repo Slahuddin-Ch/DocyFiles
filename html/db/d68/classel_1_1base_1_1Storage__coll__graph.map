@@ -1,0 +1,16 @@
+<map id="el::base::Storage" name="el::base::Storage">
+<area shape="rect" id="node2" href="$db/d41/classel_1_1base_1_1NoCopy.html" title="Internal helper class that prevent copy constructor for class. " alt="" coords="5,121,129,148"/>
+<area shape="rect" id="node4" href="$d7/d15/classel_1_1base_1_1threading_1_1internal_1_1Mutex.html" title="A mutex wrapper for compiler that dont yet support std::recursive_mutex. " alt="" coords="179,114,308,155"/>
+<area shape="rect" id="node12" href="$de/d00/classel_1_1base_1_1VRegistry.html" title="Represents registries for verbose logging. " alt="" coords="640,441,775,468"/>
+<area shape="rect" id="node3" href="$d9/d2e/classel_1_1base_1_1threading_1_1ThreadSafe.html" title="Base of thread safe class, this class is inheritable&#45;only. " alt="" coords="415,221,544,262"/>
+<area shape="rect" id="node8" href="$df/d45/classel_1_1base_1_1utils_1_1AbstractRegistry.html" title="el::base::utils::Abstract\lRegistry\&lt; Logger, std::\lunordered_map\&lt; std::string,\l Logger *\&gt; \&gt;" alt="" coords="615,266,800,337"/>
+<area shape="rect" id="node11" href="$df/d45/classel_1_1base_1_1utils_1_1AbstractRegistry.html" title="el::base::utils::Abstract\lRegistry\&lt; Configuration,\l std::vector\&lt; Configuration *\&gt; \&gt;" alt="" coords="604,361,811,417"/>
+<area shape="rect" id="node15" href="$df/d45/classel_1_1base_1_1utils_1_1AbstractRegistry.html" title="el::base::utils::Abstract\lRegistry\&lt; base::HitCounter,\l std::vector\&lt; base::HitCounter *\&gt; \&gt;" alt="" coords="593,185,821,241"/>
+<area shape="rect" id="node5" href="$dc/d6e/classel_1_1base_1_1utils_1_1CommandLineArgs.html" title="Command line arguments for application if specified using el::Helpers::setArgs(..) or START_EASYLOGGI..." alt="" coords="1666,186,1834,227"/>
+<area shape="rect" id="node6" href="$de/d7c/classel_1_1base_1_1RegisteredLoggers.html" title="Loggers repository. " alt="" coords="1657,315,1843,341"/>
+<area shape="rect" id="node7" href="$dc/de0/classel_1_1base_1_1utils_1_1Registry.html" title="el::base::utils::Registry\l\&lt; Logger, std::string \&gt;" alt="" coords="1095,293,1252,334"/>
+<area shape="rect" id="node9" href="$d0/d64/classel_1_1Configurations.html" title="Thread&#45;safe Configuration repository. " alt="" coords="1276,357,1400,384"/>
+<area shape="rect" id="node10" href="$d7/d3a/classel_1_1base_1_1utils_1_1RegistryWithPred.html" title="el::base::utils::Registry\lWithPred\&lt; Configuration,\l Configuration::Predicate \&gt;" alt="" coords="881,352,1060,408"/>
+<area shape="rect" id="node13" href="$db/dc6/classel_1_1base_1_1RegisteredHitCounters.html" title="Repository for hit counters used across the application. " alt="" coords="1424,248,1633,275"/>
+<area shape="rect" id="node14" href="$d7/d3a/classel_1_1base_1_1utils_1_1RegistryWithPred.html" title="el::base::utils::Registry\lWithPred\&lt; base::HitCounter,\l base::HitCounter::Predicate \&gt;" alt="" coords="871,207,1071,263"/>
+</map>

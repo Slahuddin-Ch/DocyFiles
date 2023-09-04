@@ -1,0 +1,6 @@
+<map id="cryptonote::json::JSON_ERROR" name="cryptonote::json::JSON_ERROR">
+<area shape="rect" id="node3" href="$d9/db3/structcryptonote_1_1json_1_1BAD__INPUT.html" title="cryptonote::json::BAD\l_INPUT" alt="" coords="373,5,523,47"/>
+<area shape="rect" id="node4" href="$d2/d1d/structcryptonote_1_1json_1_1MISSING__KEY.html" title="cryptonote::json::MISSING_KEY" alt="" coords="341,71,555,98"/>
+<area shape="rect" id="node5" href="$d8/df6/structcryptonote_1_1json_1_1PARSE__FAIL.html" title="cryptonote::json::PARSE_FAIL" alt="" coords="346,122,550,149"/>
+<area shape="rect" id="node6" href="$d3/dd7/structcryptonote_1_1json_1_1WRONG__TYPE.html" title="cryptonote::json::WRONG_TYPE" alt="" coords="339,173,557,199"/>
+</map>

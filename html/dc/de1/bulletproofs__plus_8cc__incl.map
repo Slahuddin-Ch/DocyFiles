@@ -1,0 +1,28 @@
+<map id="src/ringct/bulletproofs_plus.cc" name="src/ringct/bulletproofs_plus.cc">
+<area shape="rect" id="node5" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="559,169,665,196"/>
+<area shape="rect" id="node6" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="620,497,681,524"/>
+<area shape="rect" id="node11" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="407,95,543,121"/>
+<area shape="rect" id="node15" href="$de/d75/crypto-ops_8h.html" title="crypto/crypto&#45;ops.h" alt="" coords="2411,251,2546,278"/>
+<area shape="rect" id="node16" href="$d2/d9d/rctOps_8h.html" title="rctOps.h" alt="" coords="2148,95,2220,121"/>
+<area shape="rect" id="node49" href="$df/dcf/src_2ringct_2multiexp_8h.html" title="multiexp.h" alt="" coords="661,95,744,121"/>
+<area shape="rect" id="node50" href="$da/d6a/bulletproofs__plus_8h.html" title="bulletproofs_plus.h" alt="" coords="1152,95,1283,121"/>
+<area shape="rect" id="node19" href="$d3/d3f/generic-ops_8h.html" title="crypto/generic&#45;ops.h" alt="" coords="1282,423,1422,449"/>
+<area shape="rect" id="node25" href="$d1/d79/random_8h.html" title="crypto/random.h" alt="" coords="1787,341,1903,367"/>
+<area shape="rect" id="node26" href="$d6/dd8/keccak_8h.html" title="crypto/keccak.h" alt="" coords="2272,251,2387,278"/>
+<area shape="rect" id="node33" href="$d7/d7b/rctCryptoOps_8h.html" title="rctCryptoOps.h" alt="" coords="2398,169,2509,196"/>
+<area shape="rect" id="node34" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="1055,251,1164,278"/>
+<area shape="rect" id="node43" href="$d0/d1d/rctTypes_8h.html" title="rctTypes.h" alt="" coords="1559,169,1643,196"/>
+<area shape="rect" id="node22" href="$d7/d40/include_2sodium_2crypto__verify__32_8h.html" title="sodium/crypto_verify_32.h" alt="" coords="2273,497,2447,524"/>
+<area shape="rect" id="node27" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="2414,341,2479,367"/>
+<area shape="rect" id="node30" href="$da/d66/string_8h.html" title="string.h" alt="" coords="2273,341,2338,367"/>
+<area shape="rect" id="node31" href="$dd/d50/serialization_8h.html" title="Simple DSL AAPI based on. " alt="" coords="1799,423,1902,449"/>
+<area shape="rect" id="node38" href="$db/d68/pod-class_8h.html" title="common/pod&#45;class.h" alt="" coords="859,423,1002,449"/>
+<area shape="rect" id="node39" href="$d8/d78/memwipe_8h.html" title="memwipe.h" alt="" coords="1441,341,1530,367"/>
+<area shape="rect" id="node40" href="$d5/df4/mlocker_8h.html" title="mlocker.h" alt="" coords="449,341,527,367"/>
+<area shape="rect" id="node41" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="729,423,783,449"/>
+<area shape="rect" id="node42" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="909,341,971,367"/>
+<area shape="rect" id="node45" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="1979,341,2146,367"/>
+<area shape="rect" id="node46" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="1664,244,1795,285"/>
+<area shape="rect" id="node47" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="1656,341,1763,367"/>
+<area shape="rect" id="node48" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="552,333,683,375"/>
+</map>

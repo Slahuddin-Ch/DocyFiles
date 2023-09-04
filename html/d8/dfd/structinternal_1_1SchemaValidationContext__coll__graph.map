@@ -1,0 +1,20 @@
+<map id="internal::SchemaValidationContext&lt; SchemaDocumentType &gt;" name="internal::SchemaValidationContext&lt; SchemaDocumentType &gt;">
+<area shape="rect" id="node2" href="$d2/ddb/classinternal_1_1Schema.html" title="internal::Schema\&lt; Schema\lDocumentType \&gt;" alt="" coords="1116,444,1296,485"/>
+<area shape="rect" id="node3" href="$db/d33/structinternal_1_1Schema_1_1Property.html" title="internal::Schema\&lt; Schema\lDocumentType \&gt;::Property" alt="" coords="1535,292,1715,333"/>
+<area shape="rect" id="node15" href="$d5/d4a/structinternal_1_1Schema_1_1SchemaArray.html" title="internal::Schema\&lt; Schema\lDocumentType \&gt;::SchemaArray" alt="" coords="1520,449,1731,491"/>
+<area shape="rect" id="node17" href="$d4/d9a/structinternal_1_1Schema_1_1PatternProperty.html" title="internal::Schema\&lt; Schema\lDocumentType \&gt;::PatternProperty" alt="" coords="1514,563,1737,604"/>
+<area shape="rect" id="node4" href="$d4/dc1/classGenericValue.html" title="GenericValue\&lt; EncodingType,\l AllocatorType \&gt;" alt="" coords="789,444,988,485"/>
+<area shape="rect" id="node5" href="$d3/dbf/unionGenericValue_1_1Data.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Data" alt="" coords="533,640,704,681"/>
+<area shape="rect" id="node8" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="803,709,974,751"/>
+<area shape="rect" id="node6" href="$dc/d5a/structGenericValue_1_1String.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::String" alt="" coords="296,509,467,551"/>
+<area shape="rect" id="node7" href="$d4/dbc/structGenericValue_1_1ArrayData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ArrayData" alt="" coords="1121,684,1291,725"/>
+<area shape="rect" id="node9" href="$d7/da7/structGenericValue_1_1ObjectData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ObjectData" alt="" coords="296,575,467,616"/>
+<area shape="rect" id="node10" href="$d7/dac/structGenericMember.html" title="Name&#45;value pair in a JSON object value. " alt="" coords="5,575,189,616"/>
+<area shape="rect" id="node11" href="$d8/df4/unionGenericValue_1_1Number.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Number" alt="" coords="296,640,467,681"/>
+<area shape="rect" id="node13" href="$dc/dfe/structGenericValue_1_1ShortString.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ShortString" alt="" coords="296,705,467,747"/>
+<area shape="rect" id="node14" href="$de/df8/structGenericValue_1_1Flag.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Flag" alt="" coords="296,771,467,812"/>
+<area shape="rect" id="node16" href="$d8/dff/classinternal_1_1GenericRegex.html" title="Regular expression engine with subset of ECMAscript grammar. " alt="" coords="809,544,968,585"/>
+<area shape="rect" id="node18" href="$db/def/classinternal_1_1ISchemaStateFactory.html" title="internal::ISchemaStateFactory\l\&lt; SchemaType \&gt;" alt="" coords="1107,5,1305,47"/>
+<area shape="rect" id="node19" href="$d2/d8a/classinternal_1_1IValidationErrorHandler.html" title="internal::IValidationError\lHandler\&lt; SchemaType \&gt;" alt="" coords="1122,71,1290,112"/>
+<area shape="rect" id="node20" href="$d8/d89/classinternal_1_1ISchemaValidator.html" title="internal::ISchemaValidator" alt="" coords="1119,138,1293,165"/>
+</map>

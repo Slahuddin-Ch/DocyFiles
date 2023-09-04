@@ -1,0 +1,7 @@
+<map id="epee::net_utils::connection&lt; t_protocol_handler &gt;" name="epee::net_utils::connection&lt; t_protocol_handler &gt;">
+<area shape="rect" id="node4" href="$de/db7/structepee_1_1net__utils_1_1i__service__endpoint.html" title="epee::net_utils::i\l_service_endpoint" alt="" coords="367,137,494,178"/>
+<area shape="rect" id="node5" href="$d2/de6/classepee_1_1net__utils_1_1connection__basic.html" title="epee::net_utils::connection\l_basic" alt="" coords="341,202,520,243"/>
+<area shape="rect" id="node6" href="$df/d71/classepee_1_1critical__section.html" title="epee::critical_section" alt="" coords="22,209,167,236"/>
+<area shape="rect" id="node8" href="$d6/d4a/structepee_1_1net__utils_1_1connection_1_1timers__t.html" title="epee::net_utils::connection\l\&lt; t_protocol_handler \&gt;::\ltimers_t" alt="" coords="341,319,520,375"/>
+<area shape="rect" id="node9" href="$d3/dc2/structepee_1_1net__utils_1_1connection_1_1timers__t_1_1throttle__t.html" title="epee::net_utils::connection\l\&lt; t_protocol_handler \&gt;::\ltimers_t::throttle_t" alt="" coords="5,319,184,375"/>
+</map>

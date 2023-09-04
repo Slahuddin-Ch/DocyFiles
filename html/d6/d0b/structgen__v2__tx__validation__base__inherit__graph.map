@@ -1,0 +1,9 @@
+<map id="gen_v2_tx_validation_base" name="gen_v2_tx_validation_base">
+<area shape="rect" id="node3" href="$d3/df0/structgen__v2__tx__dust.html" title="gen_v2_tx_dust" alt="" coords="457,5,572,32"/>
+<area shape="rect" id="node4" href="$d6/d61/structgen__v2__tx__mixable__0__mixin.html" title="gen_v2_tx_mixable_0\l_mixin" alt="" coords="441,57,589,98"/>
+<area shape="rect" id="node5" href="$df/d86/structgen__v2__tx__mixable__low__mixin.html" title="gen_v2_tx_mixable_low\l_mixin" alt="" coords="434,122,595,163"/>
+<area shape="rect" id="node6" href="$da/d1a/structgen__v2__tx__unmixable__one.html" title="gen_v2_tx_unmixable_one" alt="" coords="427,188,603,215"/>
+<area shape="rect" id="node7" href="$d3/d0b/structgen__v2__tx__unmixable__only.html" title="gen_v2_tx_unmixable_only" alt="" coords="425,239,604,265"/>
+<area shape="rect" id="node8" href="$d8/dcc/structgen__v2__tx__unmixable__two.html" title="gen_v2_tx_unmixable_two" alt="" coords="427,289,603,316"/>
+<area shape="rect" id="node2" href="$de/dc9/classtest__chain__unit__base.html" title="test_chain_unit_base" alt="" coords="5,159,151,185"/>
+</map>

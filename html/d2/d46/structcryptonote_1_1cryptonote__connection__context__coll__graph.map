@@ -1,0 +1,6 @@
+<map id="cryptonote::cryptonote_connection_context" name="cryptonote::cryptonote_connection_context">
+<area shape="rect" id="node2" href="$d1/d2b/structepee_1_1net__utils_1_1connection__context__base.html" title="epee::net_utils::connection\l_context_base" alt="" coords="343,5,521,47"/>
+<area shape="rect" id="node3" href="$df/d4e/classepee_1_1net__utils_1_1network__address.html" title="epee::net_utils::network\l_address" alt="" coords="5,5,167,47"/>
+<area shape="rect" id="node4" href="$dd/d8c/classcryptonote_1_1cryptonote__connection__context_1_1copyable__atomic.html" title="cryptonote::cryptonote\l_connection_context::copyable\l_atomic" alt="" coords="331,71,533,127"/>
+<area shape="rect" id="node6" href="$d4/d88/structstate.html" title="state" alt="" coords="407,151,457,178"/>
+</map>

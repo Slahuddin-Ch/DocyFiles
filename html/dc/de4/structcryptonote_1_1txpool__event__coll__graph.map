@@ -1,0 +1,8 @@
+<map id="cryptonote::txpool_event" name="cryptonote::txpool_event">
+<area shape="rect" id="node2" href="$dc/d00/classcryptonote_1_1transaction.html" title="cryptonote::transaction" alt="" coords="84,288,239,315"/>
+<area shape="rect" id="node3" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="84,184,239,225"/>
+<area shape="rect" id="node5" href="$d1/d1e/structrct_1_1rctSig.html" title="rct::rctSig" alt="" coords="263,191,342,218"/>
+<area shape="rect" id="node6" href="$de/dcb/structrct_1_1rctSigBase.html" title="rct::rctSigBase" alt="" coords="144,95,253,121"/>
+<area shape="rect" id="node7" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="165,5,232,32"/>
+<area shape="rect" id="node8" href="$d0/d39/structrct_1_1rctSigPrunable.html" title="rct::rctSigPrunable" alt="" coords="277,95,408,121"/>
+</map>

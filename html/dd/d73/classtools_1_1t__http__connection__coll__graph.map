@@ -1,0 +1,9 @@
+<map id="tools::t_http_connection" name="tools::t_http_connection">
+<area shape="rect" id="node2" href="$db/d0a/classepee_1_1net__utils_1_1http_1_1http__simple__client__template.html" title="epee::net_utils::http\l::http_simple_client\l_template\&lt; net_client\l_type \&gt;" alt="" coords="591,144,737,215"/>
+<area shape="rect" id="node3" href="$df/d6b/structepee_1_1net__utils_1_1i__target__handler.html" title="epee::net_utils::i\l_target_handler" alt="" coords="293,5,412,47"/>
+<area shape="rect" id="node4" href="$d1/df6/classepee_1_1net__utils_1_1http_1_1abstract__http__client.html" title="epee::net_utils::http\l::abstract_http_client" alt="" coords="281,71,425,112"/>
+<area shape="rect" id="node5" href="$df/d71/classepee_1_1critical__section.html" title="epee::critical_section" alt="" coords="280,137,425,163"/>
+<area shape="rect" id="node6" href="$d7/d80/classepee_1_1net__utils_1_1http_1_1http__client__auth.html" title="Implements RFC 2617 digest auth. Digests from RFC 7616 can be added. " alt="" coords="284,188,421,229"/>
+<area shape="rect" id="node8" href="$da/deb/structepee_1_1net__utils_1_1http_1_1http__response__info.html" title="epee::net_utils::http\l::http_response_info" alt="" coords="283,305,423,347"/>
+<area shape="rect" id="node9" href="$d8/da5/structepee_1_1net__utils_1_1http_1_1http__header__info.html" title="epee::net_utils::http\l::http_header_info" alt="" coords="5,305,143,347"/>
+</map>

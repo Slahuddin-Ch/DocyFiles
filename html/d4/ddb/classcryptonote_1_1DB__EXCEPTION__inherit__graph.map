@@ -1,0 +1,16 @@
+<map id="cryptonote::DB_EXCEPTION" name="cryptonote::DB_EXCEPTION">
+<area shape="rect" id="node3" href="$d6/d4a/classcryptonote_1_1BLOCK__DNE.html" title="thrown when a requested block does not exist " alt="" coords="406,5,578,32"/>
+<area shape="rect" id="node4" href="$d1/d8e/classcryptonote_1_1BLOCK__EXISTS.html" title="thrown when a block exists, but shouldn&#39;t, namely when adding a block " alt="" coords="397,56,587,83"/>
+<area shape="rect" id="node5" href="$d6/d3c/classcryptonote_1_1BLOCK__INVALID.html" title="thrown when something is wrong with the block to be added " alt="" coords="394,107,590,133"/>
+<area shape="rect" id="node6" href="$d1/d83/classcryptonote_1_1BLOCK__PARENT__DNE.html" title="thrown when a block&#39;s parent does not exist (and it needed to) " alt="" coords="375,157,609,184"/>
+<area shape="rect" id="node7" href="$d6/de7/classcryptonote_1_1DB__CREATE__FAILURE.html" title="thrown when creating the BlockchainDB fails " alt="" coords="406,209,578,250"/>
+<area shape="rect" id="node8" href="$d4/d8d/classcryptonote_1_1DB__ERROR.html" title="A generic BlockchainDB exception. " alt="" coords="409,275,575,301"/>
+<area shape="rect" id="node9" href="$dd/dd3/classcryptonote_1_1DB__ERROR__TXN__START.html" title="thrown when there is an error starting a DB transaction " alt="" coords="409,326,575,367"/>
+<area shape="rect" id="node10" href="$d1/dca/classcryptonote_1_1DB__OPEN__FAILURE.html" title="thrown when opening the BlockchainDB fails " alt="" coords="415,391,569,433"/>
+<area shape="rect" id="node11" href="$df/d9e/classcryptonote_1_1DB__SYNC__FAILURE.html" title="thrown when synchronizing the BlockchainDB to disk fails " alt="" coords="415,457,569,498"/>
+<area shape="rect" id="node12" href="$d3/d63/classcryptonote_1_1KEY__IMAGE__EXISTS.html" title="thrown when a spent key image exists, but shouldn&#39;t, namely when adding a block " alt="" coords="408,522,576,563"/>
+<area shape="rect" id="node13" href="$d4/dca/classcryptonote_1_1OUTPUT__DNE.html" title="thrown when a requested output does not exist " alt="" coords="401,588,583,615"/>
+<area shape="rect" id="node14" href="$d9/d00/classcryptonote_1_1OUTPUT__EXISTS.html" title="thrown when an output exists, but shouldn&#39;t, namely when adding a block " alt="" coords="419,639,565,681"/>
+<area shape="rect" id="node15" href="$dc/d7d/classcryptonote_1_1TX__DNE.html" title="thrown when a requested transaction does not exist " alt="" coords="420,705,564,732"/>
+<area shape="rect" id="node16" href="$d2/d0d/classcryptonote_1_1TX__EXISTS.html" title="thrown when a transaction exists, but shouldn&#39;t, namely when adding a block " alt="" coords="411,756,573,783"/>
+</map>

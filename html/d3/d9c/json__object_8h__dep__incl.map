@@ -1,0 +1,8 @@
+<map id="src/serialization/json_object.h" name="src/serialization/json_object.h">
+<area shape="rect" id="node2" href="$d0/d9e/daemon__messages_8cpp.html" title="src/rpc/daemon_messages.cpp" alt="" coords="5,102,209,129"/>
+<area shape="rect" id="node3" href="$d8/d6a/message_8cpp.html" title="src/rpc/message.cpp" alt="" coords="234,102,378,129"/>
+<area shape="rect" id="node4" href="$d0/de3/zmq__pub_8cpp.html" title="src/rpc/zmq_pub.cpp" alt="" coords="402,102,546,129"/>
+<area shape="rect" id="node5" href="$df/d94/json__object_8cpp.html" title="src/serialization/json\l_object.cpp" alt="" coords="570,95,711,136"/>
+<area shape="rect" id="node6" href="$d3/d2f/json__serialization_8cpp.html" title="tests/unit_tests/json\l_serialization.cpp" alt="" coords="736,95,876,136"/>
+<area shape="rect" id="node7" href="$df/d8c/zmq__rpc_8cpp.html" title="tests/unit_tests/zmq\l_rpc.cpp" alt="" coords="901,95,1042,136"/>
+</map>

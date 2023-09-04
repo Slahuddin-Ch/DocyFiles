@@ -1,0 +1,20 @@
+<map id="external/randomx/src/intrin_portable.h" name="external/randomx/src/intrin_portable.h">
+<area shape="rect" id="node2" href="$d2/dad/soft__aes_8h.html" title="external/randomx/src\l/soft_aes.h" alt="" coords="173,95,317,136"/>
+<area shape="rect" id="node5" href="$d6/d89/allocator_8cpp.html" title="external/randomx/src\l/allocator.cpp" alt="" coords="512,95,656,136"/>
+<area shape="rect" id="node6" href="$d7/d19/bytecode__machine_8hpp.html" title="external/randomx/src\l/bytecode_machine.hpp" alt="" coords="731,95,891,136"/>
+<area shape="rect" id="node8" href="$de/d78/vm__interpreted_8hpp.html" title="external/randomx/src\l/vm_interpreted.hpp" alt="" coords="341,184,485,225"/>
+<area shape="rect" id="node12" href="$d4/d2a/vm__interpreted_8cpp.html" title="external/randomx/src\l/vm_interpreted.cpp" alt="" coords="760,273,904,315"/>
+<area shape="rect" id="node14" href="$d9/d1e/tests_8cpp.html" title="external/randomx/src\l/tests/tests.cpp" alt="" coords="888,184,1032,225"/>
+<area shape="rect" id="node15" href="$dd/d75/dataset_8cpp.html" title="external/randomx/src\l/dataset.cpp" alt="" coords="1048,95,1192,136"/>
+<area shape="rect" id="node16" href="$dd/d83/instructions__portable_8cpp.html" title="external/randomx/src\l/instructions_portable.cpp" alt="" coords="1216,95,1387,136"/>
+<area shape="rect" id="node17" href="$df/d22/superscalar_8cpp.html" title="external/randomx/src\l/superscalar.cpp" alt="" coords="1411,95,1555,136"/>
+<area shape="rect" id="node18" href="$d7/d9f/superscalar-avalanche_8cpp.html" title="external/randomx/src\l/tests/superscalar&#45;avalanche.cpp" alt="" coords="1579,95,1794,136"/>
+<area shape="rect" id="node19" href="$d3/d25/virtual__machine_8cpp.html" title="external/randomx/src\l/virtual_machine.cpp" alt="" coords="1819,95,1963,136"/>
+<area shape="rect" id="node3" href="$d9/d65/aes__hash_8cpp.html" title="external/randomx/src\l/aes_hash.cpp" alt="" coords="5,184,149,225"/>
+<area shape="rect" id="node4" href="$d3/dd2/soft__aes_8cpp.html" title="external/randomx/src\l/soft_aes.cpp" alt="" coords="173,184,317,225"/>
+<area shape="rect" id="node7" href="$d9/da3/bytecode__machine_8cpp.html" title="external/randomx/src\l/bytecode_machine.cpp" alt="" coords="509,184,669,225"/>
+<area shape="rect" id="node13" href="$d6/dd9/perf-simulation_8cpp.html" title="external/randomx/src\l/tests/perf&#45;simulation.cpp" alt="" coords="694,184,863,225"/>
+<area shape="rect" id="node9" href="$d4/d69/randomx_8cpp.html" title="external/randomx/src\l/randomx.cpp" alt="" coords="281,363,425,404"/>
+<area shape="rect" id="node10" href="$d1/dc8/vm__interpreted__light_8hpp.html" title="external/randomx/src\l/vm_interpreted_light.hpp" alt="" coords="391,273,559,315"/>
+<area shape="rect" id="node11" href="$d1/d56/vm__interpreted__light_8cpp.html" title="external/randomx/src\l/vm_interpreted_light.cpp" alt="" coords="449,363,617,404"/>
+</map>

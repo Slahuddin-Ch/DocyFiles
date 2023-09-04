@@ -1,0 +1,8 @@
+<map id="tx_source_info_crate_t" name="tx_source_info_crate_t">
+<area shape="rect" id="node2" href="$dd/d8a/structcryptonote_1_1tx__source__entry.html" title="cryptonote::tx_source\l_entry" alt="" coords="481,73,629,114"/>
+<area shape="rect" id="node3" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="5,80,72,107"/>
+<area shape="rect" id="node4" href="$dd/da4/structrct_1_1multisig__kLRki.html" title="rct::multisig_kLRki" alt="" coords="181,28,311,55"/>
+<area shape="rect" id="node5" href="$d4/dcd/structtools_1_1wallet2_1_1transfer__details.html" title="tools::wallet2::transfer\l_details" alt="" coords="480,202,631,243"/>
+<area shape="rect" id="node6" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="169,271,323,313"/>
+<area shape="rect" id="node8" href="$d0/dad/structcryptonote_1_1subaddress__index.html" title="cryptonote::subaddress\l_index" alt="" coords="167,142,325,183"/>
+</map>

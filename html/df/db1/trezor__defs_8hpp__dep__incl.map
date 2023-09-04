@@ -1,0 +1,18 @@
+<map id="src/device_trezor/trezor/trezor_defs.hpp" name="src/device_trezor/trezor/trezor_defs.hpp">
+<area shape="rect" id="node2" href="$d3/d86/trezor_8hpp.html" title="src/device_trezor/trezor.hpp" alt="" coords="557,102,741,129"/>
+<area shape="rect" id="node10" href="$de/d0b/transport_8hpp.html" title="src/device_trezor/trezor\l/transport.hpp" alt="" coords="937,184,1096,225"/>
+<area shape="rect" id="node13" href="$d8/dd1/protocol_8hpp.html" title="src/device_trezor/trezor\l/protocol.hpp" alt="" coords="1120,273,1279,315"/>
+<area shape="rect" id="node16" href="$d2/d3a/messages__map_8hpp.html" title="src/device_trezor/trezor\l/messages_map.hpp" alt="" coords="1172,95,1331,136"/>
+<area shape="rect" id="node3" href="$d2/d46/device__trezor_8hpp.html" title="src/device_trezor/device\l_trezor.hpp" alt="" coords="297,184,461,225"/>
+<area shape="rect" id="node8" href="$d2/dc1/device__trezor__base_8hpp.html" title="src/device_trezor/device\l_trezor_base.hpp" alt="" coords="567,184,731,225"/>
+<area shape="rect" id="node4" href="$dc/dd0/device__trezor_8cpp.html" title="src/device_trezor/device\l_trezor.cpp" alt="" coords="5,273,169,315"/>
+<area shape="rect" id="node5" href="$d8/da4/wallet2_8cpp.html" title="src/wallet/wallet2.cpp" alt="" coords="193,281,341,307"/>
+<area shape="rect" id="node6" href="$d4/d89/trezor__tests_8h.html" title="tests/trezor/trezor\l_tests.h" alt="" coords="417,273,542,315"/>
+<area shape="rect" id="node7" href="$da/d6c/trezor__tests_8cpp.html" title="tests/trezor/trezor\l_tests.cpp" alt="" coords="367,363,493,404"/>
+<area shape="rect" id="node9" href="$d5/d52/device__trezor__base_8cpp.html" title="src/device_trezor/device\l_trezor_base.cpp" alt="" coords="567,273,731,315"/>
+<area shape="rect" id="node11" href="$d3/d85/debug__link_8hpp.html" title="src/device_trezor/trezor\l/debug_link.hpp" alt="" coords="755,273,913,315"/>
+<area shape="rect" id="node15" href="$d1/da9/transport_8cpp.html" title="src/device_trezor/trezor\l/transport.cpp" alt="" coords="937,273,1096,315"/>
+<area shape="rect" id="node12" href="$d4/d9d/debug__link_8cpp.html" title="src/device_trezor/trezor\l/debug_link.cpp" alt="" coords="755,363,913,404"/>
+<area shape="rect" id="node14" href="$d4/d25/protocol_8cpp.html" title="src/device_trezor/trezor\l/protocol.cpp" alt="" coords="1120,363,1279,404"/>
+<area shape="rect" id="node17" href="$d1/df4/messages__map_8cpp.html" title="src/device_trezor/trezor\l/messages_map.cpp" alt="" coords="1237,184,1396,225"/>
+</map>

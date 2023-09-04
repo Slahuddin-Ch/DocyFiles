@@ -1,0 +1,24 @@
+<map id="contrib/epee/include/storages/levin_abstract_invoke2.h" name="contrib/epee/include/storages/levin_abstract_invoke2.h">
+<area shape="rect" id="node2" href="$dd/de8/portable__storage__template__helper_8h.html" title="portable_storage_template\l_helper.h" alt="" coords="794,109,969,151"/>
+<area shape="rect" id="node4" href="$d3/ddf/byte__slice_8h.html" title="byte_slice.h" alt="" coords="1314,281,1406,307"/>
+<area shape="rect" id="node9" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="1200,370,1261,397"/>
+<area shape="rect" id="node33" href="$d2/da4/levin__base_8h.html" title="net/levin_base.h" alt="" coords="1607,117,1724,143"/>
+<area shape="rect" id="node12" href="$df/dac/parserse__base__utils_8h.html" title="parserse_base_utils.h" alt="" coords="179,370,328,397"/>
+<area shape="rect" id="node14" href="$de/d05/portable__storage_8h.html" title="portable_storage.h" alt="" coords="817,199,946,225"/>
+<area shape="rect" id="node29" href="$db/d02/file__io__utils_8h.html" title="file_io_utils.h" alt="" coords="5,370,104,397"/>
+<area shape="rect" id="node15" href="$d3/da2/portable__storage__base_8h.html" title="portable_storage_base.h" alt="" coords="353,370,517,397"/>
+<area shape="rect" id="node19" href="$d5/da1/portable__storage__val__converters_8h.html" title="portable_storage_val\l_converters.h" alt="" coords="810,273,953,315"/>
+<area shape="rect" id="node24" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="1773,370,1880,397"/>
+<area shape="rect" id="node21" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="808,370,928,397"/>
+<area shape="rect" id="node23" href="$dc/d9e/warnings_8h.html" title="warnings.h" alt="" coords="1091,370,1176,397"/>
+<area shape="rect" id="node34" href="$df/d2d/byte__stream_8h.html" title="byte_stream.h" alt="" coords="1506,199,1611,225"/>
+<area shape="rect" id="node37" href="$de/de6/net__utils__base_8h.html" title="net_utils_base.h" alt="" coords="2124,199,2241,225"/>
+<area shape="rect" id="node41" href="$d4/d29/contrib_2epee_2include_2net_2enums_8h.html" title="enums.h" alt="" coords="2903,281,2975,307"/>
+<area shape="rect" id="node42" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="2327,273,2473,315"/>
+<area shape="rect" id="node45" href="$d5/d78/int-util_8h.html" title="int&#45;util.h" alt="" coords="2149,281,2217,307"/>
+<area shape="rect" id="node44" href="$da/db4/keyvalue__serialization__overloads_8h.html" title="keyvalue_serialization\l_overloads.h" alt="" coords="2395,363,2546,404"/>
+<area shape="rect" id="node47" href="$d9/d5e/stdbool_8h.html" title="stdbool.h" alt="" coords="2088,370,2163,397"/>
+<area shape="rect" id="node48" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="2187,370,2253,397"/>
+<area shape="rect" id="node49" href="$da/d66/string_8h.html" title="string.h" alt="" coords="1905,370,1970,397"/>
+<area shape="rect" id="node50" href="$d5/d33/param_8h.html" title="sys/param.h" alt="" coords="2277,370,2371,397"/>
+</map>

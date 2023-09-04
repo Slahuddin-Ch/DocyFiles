@@ -1,0 +1,16 @@
+<map id="internal::Schema&lt; SchemaDocumentType &gt;" name="internal::Schema&lt; SchemaDocumentType &gt;">
+<area shape="rect" id="node2" href="$db/d33/structinternal_1_1Schema_1_1Property.html" title="internal::Schema\&lt; Schema\lDocumentType \&gt;::Property" alt="" coords="1485,293,1665,334"/>
+<area shape="rect" id="node14" href="$d5/d4a/structinternal_1_1Schema_1_1SchemaArray.html" title="internal::Schema\&lt; Schema\lDocumentType \&gt;::SchemaArray" alt="" coords="1470,165,1681,206"/>
+<area shape="rect" id="node16" href="$d4/d9a/structinternal_1_1Schema_1_1PatternProperty.html" title="internal::Schema\&lt; Schema\lDocumentType \&gt;::PatternProperty" alt="" coords="1464,22,1687,63"/>
+<area shape="rect" id="node3" href="$d4/dc1/classGenericValue.html" title="GenericValue\&lt; EncodingType,\l AllocatorType \&gt;" alt="" coords="789,322,988,363"/>
+<area shape="rect" id="node4" href="$d3/dbf/unionGenericValue_1_1Data.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Data" alt="" coords="533,382,704,423"/>
+<area shape="rect" id="node7" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="803,451,974,493"/>
+<area shape="rect" id="node5" href="$dc/d5a/structGenericValue_1_1String.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::String" alt="" coords="296,251,467,293"/>
+<area shape="rect" id="node6" href="$d4/dbc/structGenericValue_1_1ArrayData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ArrayData" alt="" coords="1111,414,1282,455"/>
+<area shape="rect" id="node8" href="$d7/da7/structGenericValue_1_1ObjectData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ObjectData" alt="" coords="296,317,467,358"/>
+<area shape="rect" id="node9" href="$d7/dac/structGenericMember.html" title="Name&#45;value pair in a JSON object value. " alt="" coords="5,317,189,358"/>
+<area shape="rect" id="node10" href="$d8/df4/unionGenericValue_1_1Number.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Number" alt="" coords="296,382,467,423"/>
+<area shape="rect" id="node12" href="$dc/dfe/structGenericValue_1_1ShortString.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ShortString" alt="" coords="296,447,467,489"/>
+<area shape="rect" id="node13" href="$de/df8/structGenericValue_1_1Flag.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Flag" alt="" coords="296,513,467,554"/>
+<area shape="rect" id="node15" href="$d8/dff/classinternal_1_1GenericRegex.html" title="Regular expression engine with subset of ECMAscript grammar. " alt="" coords="809,43,968,85"/>
+</map>

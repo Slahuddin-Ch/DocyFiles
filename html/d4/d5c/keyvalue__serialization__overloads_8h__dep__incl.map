@@ -1,0 +1,51 @@
+<map id="contrib/epee/include/serialization/keyvalue_serialization_overloads.h" name="contrib/epee/include/serialization/keyvalue_serialization_overloads.h">
+<area shape="rect" id="node2" href="$d8/d5a/keyvalue__serialization_8h.html" title="contrib/epee/include\l/serialization/keyvalue\l_serialization.h" alt="" coords="3889,109,4040,165"/>
+<area shape="rect" id="node3" href="$de/de6/net__utils__base_8h.html" title="contrib/epee/include\l/net/net_utils_base.h" alt="" coords="1527,213,1669,255"/>
+<area shape="rect" id="node7" href="$db/d2c/net__load__tests_8h.html" title="tests/net_load_tests\l/net_load_tests.h" alt="" coords="5,511,145,552"/>
+<area shape="rect" id="node20" href="$dd/d84/net_8cpp.html" title="tests/unit_tests/net.cpp" alt="" coords="3059,518,3217,545"/>
+<area shape="rect" id="node23" href="$d2/d5c/p2p__protocol__defs_8h.html" title="src/p2p/p2p_protocol\l_defs.h" alt="" coords="2803,310,2945,351"/>
+<area shape="rect" id="node29" href="$d2/df5/jsonrpc__structs_8h.html" title="contrib/epee/include\l/net/jsonrpc_structs.h" alt="" coords="3239,213,3387,255"/>
+<area shape="rect" id="node31" href="$d3/dac/src_2checkpoints_2checkpoints_8cpp.html" title="src/checkpoints/checkpoints.cpp" alt="" coords="3455,221,3669,247"/>
+<area shape="rect" id="node33" href="$d8/d86/cryptonote__basic_8h.html" title="src/cryptonote_basic\l/cryptonote_basic.h" alt="" coords="4303,213,4445,255"/>
+<area shape="rect" id="node38" href="$de/d26/account_8h.html" title="src/cryptonote_basic\l/account.h" alt="" coords="3893,310,4036,351"/>
+<area shape="rect" id="node41" href="$d0/dd5/message__transporter_8h.html" title="src/wallet/message\l_transporter.h" alt="" coords="5268,414,5403,455"/>
+<area shape="rect" id="node45" href="$d7/d49/cryptonote__protocol__defs_8h.html" title="src/cryptonote_protocol\l/cryptonote_protocol_defs.h" alt="" coords="3635,310,3817,351"/>
+<area shape="rect" id="node46" href="$db/d48/subaddress__index_8h.html" title="src/cryptonote_basic\l/subaddress_index.h" alt="" coords="4521,213,4664,255"/>
+<area shape="rect" id="node47" href="$d6/dd6/i2p__address_8cpp.html" title="src/net/i2p_address.cpp" alt="" coords="4688,221,4849,247"/>
+<area shape="rect" id="node48" href="$de/d39/tor__address_8cpp.html" title="src/net/tor_address.cpp" alt="" coords="4873,221,5032,247"/>
+<area shape="rect" id="node49" href="$d4/dc2/load__from__binary_8cpp.html" title="tests/fuzz/load_from\l_binary.cpp" alt="" coords="5057,213,5198,255"/>
+<area shape="rect" id="node50" href="$d0/dfd/load__from__json_8cpp.html" title="tests/fuzz/load_from\l_json.cpp" alt="" coords="5222,213,5363,255"/>
+<area shape="rect" id="node4" href="$d5/d26/abstract__tcp__server2_8h.html" title="the connection templated&#45;class for one peer connection " alt="" coords="163,414,345,455"/>
+<area shape="rect" id="node5" href="$dc/d94/network__throttle-detail_8cpp.html" title="implementaion for throttling of connection (count and rate&#45;limit speed etc) " alt="" coords="170,511,335,552"/>
+<area shape="rect" id="node6" href="$df/dd9/fuzz_2levin_8cpp.html" title="tests/fuzz/levin.cpp" alt="" coords="441,518,577,545"/>
+<area shape="rect" id="node8" href="$d8/d85/connection__basic_8hpp.html" title="base for connection, contains e.g. the ratelimit hooks " alt="" coords="352,310,527,351"/>
+<area shape="rect" id="node9" href="$d8/deb/connection__basic_8cpp.html" title="base for connection, contains e.g. the ratelimit hooks " alt="" coords="369,414,552,455"/>
+<area shape="rect" id="node10" href="$d4/d12/network__throttle_8hpp.html" title="interface for throttling of connection (count and rate&#45;limit speed etc) " alt="" coords="1101,310,1268,351"/>
+<area shape="rect" id="node11" href="$d9/dfa/cryptonote__protocol__handler-base_8cpp.html" title="This is the place to implement our handlers for protocol network actions, e.g. for ratelimit for down..." alt="" coords="1070,407,1259,463"/>
+<area shape="rect" id="node12" href="$d7/dce/net__helper_8h.html" title="contrib/epee/include\l/net/net_helper.h" alt="" coords="1343,310,1482,351"/>
+<area shape="rect" id="node13" href="$db/db3/http__protocol__handler_8h.html" title="contrib/epee/include\l/net/http_protocol_handler.h" alt="" coords="1507,310,1689,351"/>
+<area shape="rect" id="node14" href="$d2/da4/levin__base_8h.html" title="contrib/epee/include\l/net/levin_base.h" alt="" coords="1714,310,1853,351"/>
+<area shape="rect" id="node15" href="$dd/de8/net__utils__base_8cpp.html" title="contrib/epee/src/net\l_utils_base.cpp" alt="" coords="1877,310,2015,351"/>
+<area shape="rect" id="node16" href="$da/d62/connection__context_8h.html" title="src/cryptonote_basic\l/connection_context.h" alt="" coords="2039,310,2189,351"/>
+<area shape="rect" id="node17" href="$df/dc4/block__queue_8h.html" title="src/cryptonote_protocol\l/block_queue.h" alt="" coords="2213,310,2372,351"/>
+<area shape="rect" id="node18" href="$d4/d2b/parse_8h.html" title="src/net/parse.h" alt="" coords="3021,317,3130,344"/>
+<area shape="rect" id="node19" href="$df/d90/net__node_8cpp.html" title="src/p2p/net_node.cpp" alt="" coords="2915,421,3062,448"/>
+<area shape="rect" id="node21" href="$d6/dc0/socks_8cpp.html" title="src/net/socks.cpp" alt="" coords="2448,317,2575,344"/>
+<area shape="rect" id="node22" href="$d7/da4/socks__connect_8cpp.html" title="src/net/socks_connect.cpp" alt="" coords="2599,317,2778,344"/>
+<area shape="rect" id="node24" href="$d8/dc1/net__node__common_8h.html" title="src/p2p/net_node_common.h" alt="" coords="1905,421,2096,448"/>
+<area shape="rect" id="node25" href="$d4/d23/net__peerlist__boost__serialization_8h.html" title="src/p2p/net_peerlist\l_boost_serialization.h" alt="" coords="2539,414,2687,455"/>
+<area shape="rect" id="node26" href="$d0/dd1/epee__utils_8cpp.html" title="tests/unit_tests/epee\l_utils.cpp" alt="" coords="1639,511,1783,552"/>
+<area shape="rect" id="node27" href="$d2/d3d/epee__levin__protocol__handler__async_8cpp.html" title="tests/unit_tests/epee\l_levin_protocol_handler\l_async.cpp" alt="" coords="603,303,761,359"/>
+<area shape="rect" id="node28" href="$db/d03/test__peerlist_8cpp.html" title="tests/unit_tests/test\l_peerlist.cpp" alt="" coords="786,310,925,351"/>
+<area shape="rect" id="node30" href="$dc/d15/http__server__handlers__map2_8h.html" title="contrib/epee/include\l/net/http_server_handlers\l_map2.h" alt="" coords="3205,303,3375,359"/>
+<area shape="rect" id="node32" href="$d1/d73/tests_2unit__tests_2checkpoints_8cpp.html" title="tests/unit_tests/checkpoints.cpp" alt="" coords="3399,317,3610,344"/>
+<area shape="rect" id="node34" href="$d9/d5c/blockchain__db_8h.html" title="src/blockchain_db/blockchain_db.h" alt="" coords="4549,421,4775,448"/>
+<area shape="rect" id="node35" href="$d4/d72/blocksdat__file_8h.html" title="src/blockchain_utilities\l/blocksdat_file.h" alt="" coords="4970,511,5125,552"/>
+<area shape="rect" id="node36" href="$d1/d1b/src_2cryptonote__basic_2hardfork_8cpp.html" title="src/cryptonote_basic\l/hardfork.cpp" alt="" coords="4441,511,4584,552"/>
+<area shape="rect" id="node37" href="$da/da8/bootstrap__file_8h.html" title="src/blockchain_utilities\l/bootstrap_file.h" alt="" coords="4111,310,4266,351"/>
+<area shape="rect" id="node39" href="$d3/d11/cryptonote__basic__impl_8h.html" title="src/cryptonote_basic\l/cryptonote_basic_impl.h" alt="" coords="4291,310,4457,351"/>
+<area shape="rect" id="node40" href="$df/d48/cryptonote__boost__serialization_8h.html" title="src/cryptonote_basic\l/cryptonote_boost_serialization.h" alt="" coords="5085,310,5298,351"/>
+<area shape="rect" id="node42" href="$db/dd2/events_8h.html" title="src/cryptonote_basic\l/events.h" alt="" coords="4700,310,4843,351"/>
+<area shape="rect" id="node43" href="$d5/df9/hardfork_8h.html" title="src/cryptonote_basic\l/hardfork.h" alt="" coords="4481,310,4624,351"/>
+<area shape="rect" id="node44" href="$de/d13/miner_8h.html" title="src/cryptonote_basic\l/miner.h" alt="" coords="4867,310,5009,351"/>
+</map>

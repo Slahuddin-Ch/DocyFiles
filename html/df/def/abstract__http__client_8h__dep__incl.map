@@ -1,0 +1,51 @@
+<map id="contrib/epee/include/net/abstract_http_client.h" name="contrib/epee/include/net/abstract_http_client.h">
+<area shape="rect" id="node2" href="$d9/df2/http__client_8h.html" title="contrib/epee/include\l/net/http_client.h" alt="" coords="939,95,1077,136"/>
+<area shape="rect" id="node43" href="$d0/dd5/message__transporter_8h.html" title="src/wallet/message\l_transporter.h" alt="" coords="1835,184,1970,225"/>
+<area shape="rect" id="node44" href="$d1/dab/message__store_8h.html" title="src/wallet/message\l_store.h" alt="" coords="2151,273,2286,315"/>
+<area shape="rect" id="node48" href="$d5/d99/abstract__http__client_8cpp.html" title="contrib/epee/src/abstract\l_http_client.cpp" alt="" coords="2257,95,2423,136"/>
+<area shape="rect" id="node49" href="$d8/d7f/node__rpc__proxy_8h.html" title="src/wallet/node_rpc\l_proxy.h" alt="" coords="2019,95,2154,136"/>
+<area shape="rect" id="node3" href="$d2/dd7/download_8cpp.html" title="src/common/download.cpp" alt="" coords="1536,191,1715,218"/>
+<area shape="rect" id="node4" href="$dd/d3d/http__connection_8h.html" title="src/common/http_connection.h" alt="" coords="239,191,441,218"/>
+<area shape="rect" id="node5" href="$d4/d4a/rpc__client_8h.html" title="src/common/rpc_client.h" alt="" coords="119,281,284,307"/>
+<area shape="rect" id="node8" href="$d4/df9/src_2common_2util_8cpp.html" title="src/common/util.cpp" alt="" coords="517,191,657,218"/>
+<area shape="rect" id="node9" href="$de/d0b/transport_8hpp.html" title="src/device_trezor/trezor\l/transport.hpp" alt="" coords="1353,184,1511,225"/>
+<area shape="rect" id="node13" href="$dd/d56/http_8h.html" title="src/net/http.h" alt="" coords="872,191,971,218"/>
+<area shape="rect" id="node16" href="$d8/dd6/core__rpc__server_8h.html" title="src/rpc/core_rpc_server.h" alt="" coords="400,370,571,397"/>
+<area shape="rect" id="node22" href="$d9/d37/wallet__manager_8cpp.html" title="src/wallet/api/wallet\l_manager.cpp" alt="" coords="939,541,1077,583"/>
+<area shape="rect" id="node40" href="$d2/db5/bootstrap__node__selector_8h.html" title="src/rpc/bootstrap_node\l_selector.h" alt="" coords="1045,184,1200,225"/>
+<area shape="rect" id="node46" href="$d5/d3d/message__transporter_8cpp.html" title="src/wallet/message\l_transporter.cpp" alt="" coords="1835,273,1970,315"/>
+<area shape="rect" id="node47" href="$d7/d45/http-client_8cpp.html" title="tests/fuzz/http&#45;client.cpp" alt="" coords="681,191,847,218"/>
+<area shape="rect" id="node6" href="$d3/d65/rpc__command__executor_8h.html" title="src/daemon/rpc_command\l_executor.h" alt="" coords="5,452,181,493"/>
+<area shape="rect" id="node7" href="$d6/d61/command__parser__executor_8h.html" title="src/daemon/command\l_parser_executor.h" alt="" coords="81,541,231,583"/>
+<area shape="rect" id="node10" href="$d3/d85/debug__link_8hpp.html" title="src/device_trezor/trezor\l/debug_link.hpp" alt="" coords="1653,273,1811,315"/>
+<area shape="rect" id="node11" href="$d8/dd1/protocol_8hpp.html" title="src/device_trezor/trezor\l/protocol.hpp" alt="" coords="1265,541,1423,583"/>
+<area shape="rect" id="node12" href="$d1/da9/transport_8cpp.html" title="src/device_trezor/trezor\l/transport.cpp" alt="" coords="1470,273,1629,315"/>
+<area shape="rect" id="node14" href="$da/d69/src_2net_2http_8cpp.html" title="src/net/http.cpp" alt="" coords="547,281,661,307"/>
+<area shape="rect" id="node15" href="$d0/d25/bootstrap__daemon_8h.html" title="src/rpc/bootstrap_daemon.h" alt="" coords="736,281,920,307"/>
+<area shape="rect" id="node21" href="$da/d58/wallet__manager_8h.html" title="src/wallet/api/wallet\l_manager.h" alt="" coords="731,363,869,404"/>
+<area shape="rect" id="node23" href="$df/d3f/wallet2_8h.html" title="src/wallet/wallet2.h" alt="" coords="2039,370,2174,397"/>
+<area shape="rect" id="node17" href="$d2/d66/src_2daemon_2main_8cpp.html" title="src/daemon/main.cpp" alt="" coords="419,459,565,486"/>
+<area shape="rect" id="node18" href="$d0/d44/rpc_8h.html" title="src/daemon/rpc.h" alt="" coords="589,459,712,486"/>
+<area shape="rect" id="node19" href="$df/dde/core__rpc__server_8cpp.html" title="src/rpc/core_rpc_server.cpp" alt="" coords="736,459,920,486"/>
+<area shape="rect" id="node20" href="$d9/dec/transfers_8cpp.html" title="tests/daemon_tests\l/transfers.cpp" alt="" coords="257,452,394,493"/>
+<area shape="rect" id="node24" href="$da/de8/object__sizes_8cpp.html" title="src/debug_utilities\l/object_sizes.cpp" alt="" coords="2797,541,2923,583"/>
+<area shape="rect" id="node25" href="$de/dd5/device__cold_8hpp.html" title="src/device/device_cold.hpp" alt="" coords="1382,459,1562,486"/>
+<area shape="rect" id="node26" href="$d8/da4/wallet2_8cpp.html" title="src/wallet/wallet2.cpp" alt="" coords="1487,549,1635,575"/>
+<area shape="rect" id="node27" href="$d4/d44/gen__multisig_8cpp.html" title="Generates a set of multisig wallets. " alt="" coords="1638,452,1781,493"/>
+<area shape="rect" id="node28" href="$d6/d17/simplewallet_8h.html" title="Header file that declares simple_wallet class. " alt="" coords="3157,459,3360,486"/>
+<area shape="rect" id="node30" href="$d7/d21/address__book_8h.html" title="src/wallet/api/address\l_book.h" alt="" coords="1856,452,2005,493"/>
+<area shape="rect" id="node31" href="$da/dcd/address__book_8cpp.html" title="src/wallet/api/address\l_book.cpp" alt="" coords="1856,541,2005,583"/>
+<area shape="rect" id="node32" href="$d0/df4/wallet_8h.html" title="src/wallet/api/wallet.h" alt="" coords="2286,459,2434,486"/>
+<area shape="rect" id="node33" href="$d5/d86/src_2wallet_2api_2subaddress_8cpp.html" title="src/wallet/api/subaddress.cpp" alt="" coords="2073,549,2268,575"/>
+<area shape="rect" id="node34" href="$de/d56/subaddress__account_8cpp.html" title="src/wallet/api/subaddress\l_account.cpp" alt="" coords="2387,541,2557,583"/>
+<area shape="rect" id="node35" href="$dd/d9a/transaction__history_8cpp.html" title="src/wallet/api/transaction\l_history.cpp" alt="" coords="2594,541,2761,583"/>
+<area shape="rect" id="node36" href="$df/df8/pending__transaction_8h.html" title="src/wallet/api/pending\l_transaction.h" alt="" coords="2985,452,3133,493"/>
+<area shape="rect" id="node37" href="$de/d41/subaddress_8h.html" title="src/wallet/api/subaddress.h" alt="" coords="2080,459,2261,486"/>
+<area shape="rect" id="node38" href="$df/def/subaddress__account_8h.html" title="src/wallet/api/subaddress\l_account.h" alt="" coords="2509,452,2680,493"/>
+<area shape="rect" id="node39" href="$db/d2f/unsigned__transaction_8h.html" title="src/wallet/api/unsigned\l_transaction.h" alt="" coords="2805,452,2960,493"/>
+<area shape="rect" id="node29" href="$d4/d6b/simplewallet_8cpp.html" title="Source file that defines simple_wallet class. " alt="" coords="3219,549,3437,575"/>
+<area shape="rect" id="node41" href="$dc/d3d/src_2rpc_2bootstrap__node__selector_8cpp.html" title="src/rpc/bootstrap_node\l_selector.cpp" alt="" coords="1045,273,1200,315"/>
+<area shape="rect" id="node42" href="$d4/da7/tests_2unit__tests_2bootstrap__node__selector_8cpp.html" title="tests/unit_tests/bootstrap\l_node_selector.cpp" alt="" coords="1224,273,1395,315"/>
+<area shape="rect" id="node45" href="$da/d1c/message__store_8cpp.html" title="src/wallet/message\l_store.cpp" alt="" coords="2198,363,2333,404"/>
+<area shape="rect" id="node50" href="$db/d7d/node__rpc__proxy_8cpp.html" title="src/wallet/node_rpc\l_proxy.cpp" alt="" coords="2046,184,2181,225"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="GenericSchemaValidator&lt; SchemaDocumentType, OutputHandler, StateAllocator &gt;" name="GenericSchemaValidator&lt; SchemaDocumentType, OutputHandler, StateAllocator &gt;">
+<area shape="rect" id="node2" href="$db/def/classinternal_1_1ISchemaStateFactory.html" title="internal::ISchemaStateFactory\l\&lt; SchemaDocumentType::SchemaType \&gt;" alt="" coords="845,139,1113,181"/>
+<area shape="rect" id="node3" href="$d8/d89/classinternal_1_1ISchemaValidator.html" title="internal::ISchemaValidator" alt="" coords="892,205,1067,232"/>
+<area shape="rect" id="node4" href="$d2/d8a/classinternal_1_1IValidationErrorHandler.html" title="internal::IValidationError\lHandler\&lt; SchemaDocumentType\l::SchemaType \&gt;" alt="" coords="871,256,1087,312"/>
+<area shape="rect" id="node5" href="$d4/dc1/classGenericValue.html" title="GenericValue\&lt; EncodingType,\l StateAllocator \&gt;" alt="" coords="880,337,1079,378"/>
+<area shape="rect" id="node6" href="$d3/dbf/unionGenericValue_1_1Data.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Data" alt="" coords="533,397,704,438"/>
+<area shape="rect" id="node9" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="894,466,1065,507"/>
+<area shape="rect" id="node7" href="$dc/d5a/structGenericValue_1_1String.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::String" alt="" coords="296,266,467,307"/>
+<area shape="rect" id="node8" href="$d4/dbc/structGenericValue_1_1ArrayData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ArrayData" alt="" coords="1309,422,1479,463"/>
+<area shape="rect" id="node10" href="$d7/da7/structGenericValue_1_1ObjectData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ObjectData" alt="" coords="296,331,467,373"/>
+<area shape="rect" id="node11" href="$d7/dac/structGenericMember.html" title="Name&#45;value pair in a JSON object value. " alt="" coords="5,331,189,373"/>
+<area shape="rect" id="node12" href="$d8/df4/unionGenericValue_1_1Number.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Number" alt="" coords="296,397,467,438"/>
+<area shape="rect" id="node14" href="$dc/dfe/structGenericValue_1_1ShortString.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ShortString" alt="" coords="296,462,467,503"/>
+<area shape="rect" id="node15" href="$de/df8/structGenericValue_1_1Flag.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Flag" alt="" coords="296,527,467,569"/>
+<area shape="rect" id="node17" href="$d3/dab/classinternal_1_1Stack.html" title="internal::Stack\&lt; StateAllocator \&gt;" alt="" coords="873,11,1085,37"/>
+</map>

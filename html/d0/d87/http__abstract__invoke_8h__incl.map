@@ -1,0 +1,19 @@
+<map id="contrib/epee/include/storages/http_abstract_invoke.h" name="contrib/epee/include/storages/http_abstract_invoke.h">
+<area shape="rect" id="node5" href="$d3/ddf/byte__slice_8h.html" title="byte_slice.h" alt="" coords="427,295,519,322"/>
+<area shape="rect" id="node13" href="$dd/de8/portable__storage__template__helper_8h.html" title="portable_storage_template\l_helper.h" alt="" coords="538,199,713,240"/>
+<area shape="rect" id="node35" href="$da/d94/http__base_8h.html" title="net/http_base.h" alt="" coords="1867,206,1979,233"/>
+<area shape="rect" id="node39" href="$dc/d15/http__server__handlers__map2_8h.html" title="net/http_server_handlers\l_map2.h" alt="" coords="1273,109,1439,151"/>
+<area shape="rect" id="node10" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="476,385,537,411"/>
+<area shape="rect" id="node14" href="$df/dac/parserse__base__utils_8h.html" title="parserse_base_utils.h" alt="" coords="472,474,621,501"/>
+<area shape="rect" id="node16" href="$de/d05/portable__storage_8h.html" title="portable_storage.h" alt="" coords="1291,295,1421,322"/>
+<area shape="rect" id="node33" href="$db/d02/file__io__utils_8h.html" title="file_io_utils.h" alt="" coords="5,474,104,501"/>
+<area shape="rect" id="node17" href="$d3/da2/portable__storage__base_8h.html" title="portable_storage_base.h" alt="" coords="2142,474,2306,501"/>
+<area shape="rect" id="node21" href="$d5/da1/portable__storage__val__converters_8h.html" title="portable_storage_val\l_converters.h" alt="" coords="1158,377,1301,419"/>
+<area shape="rect" id="node28" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="1563,474,1669,501"/>
+<area shape="rect" id="node23" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="1795,474,1915,501"/>
+<area shape="rect" id="node26" href="$dc/d9e/warnings_8h.html" title="warnings.h" alt="" coords="1296,474,1381,501"/>
+<area shape="rect" id="node36" href="$d8/d78/memwipe_8h.html" title="memwipe.h" alt="" coords="1961,295,2050,322"/>
+<area shape="rect" id="node40" href="$d2/df5/jsonrpc__structs_8h.html" title="jsonrpc_structs.h" alt="" coords="1589,295,1712,322"/>
+<area shape="rect" id="node41" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="1688,377,1835,419"/>
+<area shape="rect" id="node43" href="$da/db4/keyvalue__serialization__overloads_8h.html" title="keyvalue_serialization\l_overloads.h" alt="" coords="2330,467,2481,508"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="src/device/device_cold.hpp" name="src/device/device_cold.hpp">
+<area shape="rect" id="node2" href="$d2/dc1/device__trezor__base_8hpp.html" title="src/device_trezor/device\l_trezor_base.hpp" alt="" coords="5,80,169,121"/>
+<area shape="rect" id="node4" href="$d8/dd1/protocol_8hpp.html" title="src/device_trezor/trezor\l/protocol.hpp" alt="" coords="193,80,352,121"/>
+<area shape="rect" id="node6" href="$d8/da4/wallet2_8cpp.html" title="src/wallet/wallet2.cpp" alt="" coords="376,87,524,114"/>
+<area shape="rect" id="node7" href="$da/d6c/trezor__tests_8cpp.html" title="tests/trezor/trezor\l_tests.cpp" alt="" coords="549,80,674,121"/>
+<area shape="rect" id="node3" href="$d5/d52/device__trezor__base_8cpp.html" title="src/device_trezor/device\l_trezor_base.cpp" alt="" coords="5,169,169,211"/>
+<area shape="rect" id="node5" href="$d4/d25/protocol_8cpp.html" title="src/device_trezor/trezor\l/protocol.cpp" alt="" coords="193,169,352,211"/>
+</map>

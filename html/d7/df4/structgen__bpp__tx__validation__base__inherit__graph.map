@@ -1,0 +1,19 @@
+<map id="gen_bpp_tx_validation_base" name="gen_bpp_tx_validation_base">
+<area shape="rect" id="node3" href="$da/d08/structgen__bpp__tx__invalid__16__16.html" title="gen_bpp_tx_invalid\l_16_16" alt="" coords="455,5,588,47"/>
+<area shape="rect" id="node4" href="$d2/de6/structgen__bpp__tx__invalid__1__1.html" title="gen_bpp_tx_invalid_1_1" alt="" coords="441,71,602,98"/>
+<area shape="rect" id="node5" href="$df/d89/structgen__bpp__tx__invalid__4__2__1.html" title="gen_bpp_tx_invalid\l_4_2_1" alt="" coords="455,123,588,164"/>
+<area shape="rect" id="node6" href="$d3/dba/structgen__bpp__tx__invalid__before__fork.html" title="gen_bpp_tx_invalid\l_before_fork" alt="" coords="455,188,588,229"/>
+<area shape="rect" id="node7" href="$d4/daa/structgen__bpp__tx__invalid__clsag__type.html" title="gen_bpp_tx_invalid\l_clsag_type" alt="" coords="455,253,588,295"/>
+<area shape="rect" id="node8" href="$d3/d4d/structgen__bpp__tx__invalid__empty__proofs.html" title="gen_bpp_tx_invalid\l_empty_proofs" alt="" coords="455,319,588,360"/>
+<area shape="rect" id="node9" href="$d9/d8b/structgen__bpp__tx__invalid__not__enough__proofs.html" title="gen_bpp_tx_invalid\l_not_enough_proofs" alt="" coords="452,384,591,425"/>
+<area shape="rect" id="node10" href="$d6/d55/structgen__bpp__tx__invalid__too__many__proofs.html" title="gen_bpp_tx_invalid\l_too_many_proofs" alt="" coords="455,449,588,491"/>
+<area shape="rect" id="node11" href="$dd/dfd/structgen__bpp__tx__invalid__wrong__amount.html" title="gen_bpp_tx_invalid\l_wrong_amount" alt="" coords="455,515,588,556"/>
+<area shape="rect" id="node12" href="$d4/dc8/structgen__bpp__tx__valid__16.html" title="gen_bpp_tx_valid_16" alt="" coords="449,581,593,607"/>
+<area shape="rect" id="node13" href="$d7/d98/structgen__bpp__tx__valid__2.html" title="gen_bpp_tx_valid_2" alt="" coords="453,631,590,658"/>
+<area shape="rect" id="node14" href="$d1/d99/structgen__bpp__tx__valid__3.html" title="gen_bpp_tx_valid_3" alt="" coords="453,682,590,709"/>
+<area shape="rect" id="node15" href="$d8/d1c/structgen__bpp__tx__valid__at__fork.html" title="gen_bpp_tx_valid_at_fork" alt="" coords="436,733,607,759"/>
+<area shape="rect" id="node16" href="$d7/d9e/structgen__bpp__txs__invalid__2__and__8__2__and__16__16__1.html" title="gen_bpp_txs_invalid\l_2_and_8_2_and_16_16_1" alt="" coords="433,784,609,825"/>
+<area shape="rect" id="node17" href="$d0/dfa/structgen__bpp__txs__valid__2__and__2.html" title="gen_bpp_txs_valid_2\l_and_2" alt="" coords="449,849,593,891"/>
+<area shape="rect" id="node18" href="$d1/df1/structgen__bpp__txs__valid__2__and__3__and__2__and__4.html" title="gen_bpp_txs_valid_2\l_and_3_and_2_and_4" alt="" coords="447,915,595,956"/>
+<area shape="rect" id="node2" href="$de/dc9/classtest__chain__unit__base.html" title="test_chain_unit_base" alt="" coords="5,490,151,517"/>
+</map>

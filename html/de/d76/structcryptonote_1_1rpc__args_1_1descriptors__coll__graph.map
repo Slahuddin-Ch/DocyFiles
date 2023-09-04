@@ -1,0 +1,5 @@
+<map id="cryptonote::rpc_args::descriptors" name="cryptonote::rpc_args::descriptors">
+<area shape="rect" id="node2" href="$d2/df4/structcommand__line_1_1arg__descriptor.html" title="command_line::arg_descriptor\l\&lt; std::vector\&lt; std::string \&gt; \&gt;" alt="" coords="5,5,201,47"/>
+<area shape="rect" id="node3" href="$d2/df4/structcommand__line_1_1arg__descriptor.html" title="command_line::arg_descriptor\l\&lt; bool \&gt;" alt="" coords="5,124,201,165"/>
+<area shape="rect" id="node4" href="$d2/df4/structcommand__line_1_1arg__descriptor.html" title="command_line::arg_descriptor\l\&lt; std::string \&gt;" alt="" coords="5,360,201,401"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="test_generate_key_image" name="test_generate_key_image">
+<area shape="rect" id="node2" href="$dc/d3f/classsingle__tx__test__base.html" title="single_tx_test_base" alt="" coords="1273,216,1412,243"/>
+<area shape="rect" id="node3" href="$dc/d6a/classcryptonote_1_1account__base.html" title="cryptonote::account_base" alt="" coords="953,183,1125,209"/>
+<area shape="rect" id="node4" href="$d9/dfd/structcryptonote_1_1account__keys.html" title="cryptonote::account_keys" alt="" coords="600,128,772,155"/>
+<area shape="rect" id="node5" href="$d5/dec/classhw_1_1device.html" title="hw::device" alt="" coords="293,5,378,32"/>
+<area shape="rect" id="node6" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="267,75,404,117"/>
+<area shape="rect" id="node7" href="$d1/da8/structepee_1_1mlocked.html" title="epee::mlocked\&lt; tools\l::scrubbed\&lt; ec_scalar \&gt; \&gt;" alt="" coords="248,141,423,182"/>
+<area shape="rect" id="node16" href="$dc/d1b/structcryptonote_1_1keypair.html" title="cryptonote::keypair" alt="" coords="796,88,929,115"/>
+<area shape="rect" id="node9" href="$dc/d00/classcryptonote_1_1transaction.html" title="cryptonote::transaction" alt="" coords="962,271,1117,297"/>
+<area shape="rect" id="node10" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="609,347,763,389"/>
+<area shape="rect" id="node12" href="$d1/d1e/structrct_1_1rctSig.html" title="rct::rctSig" alt="" coords="647,233,725,260"/>
+<area shape="rect" id="node13" href="$de/dcb/structrct_1_1rctSigBase.html" title="rct::rctSigBase" alt="" coords="281,207,390,233"/>
+<area shape="rect" id="node14" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="41,207,107,233"/>
+<area shape="rect" id="node15" href="$d0/d39/structrct_1_1rctSigPrunable.html" title="rct::rctSigPrunable" alt="" coords="270,257,401,284"/>
+</map>

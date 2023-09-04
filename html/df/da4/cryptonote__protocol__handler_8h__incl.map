@@ -1,0 +1,26 @@
+<map id="src/cryptonote_protocol/cryptonote_protocol_handler.h" name="src/cryptonote_protocol/cryptonote_protocol_handler.h">
+<area shape="rect" id="node4" href="$d3/ddf/byte__slice_8h.html" title="byte_slice.h" alt="" coords="593,370,685,397"/>
+<area shape="rect" id="node11" href="$d4/d2e/math__helper_8h.html" title="math_helper.h" alt="" coords="2757,191,2861,218"/>
+<area shape="rect" id="node21" href="$df/d66/levin__abstract__invoke2_8h.html" title="storages/levin_abstract\l_invoke2.h" alt="" coords="616,95,773,136"/>
+<area shape="rect" id="node26" href="$d2/da4/levin__base_8h.html" title="net/levin_base.h" alt="" coords="275,191,392,218"/>
+<area shape="rect" id="node31" href="$dc/d9e/warnings_8h.html" title="warnings.h" alt="" coords="1624,102,1709,129"/>
+<area shape="rect" id="node33" href="$d7/d49/cryptonote__protocol__defs_8h.html" title="cryptonote_protocol\l_defs.h" alt="" coords="1397,184,1533,225"/>
+<area shape="rect" id="node38" href="$d2/d5a/cryptonote__protocol__handler__common_8h.html" title="cryptonote_protocol\l_handler_common.h" alt="" coords="1309,95,1448,136"/>
+<area shape="rect" id="node40" href="$da/d62/connection__context_8h.html" title="cryptonote_basic/connection\l_context.h" alt="" coords="1899,184,2087,225"/>
+<area shape="rect" id="node43" href="$df/dc4/block__queue_8h.html" title="block_queue.h" alt="" coords="2428,191,2535,218"/>
+<area shape="rect" id="node45" href="$d0/d9e/perf__timer_8h.html" title="common/perf_timer.h" alt="" coords="73,370,218,397"/>
+<area shape="rect" id="node47" href="$d8/dc1/net__node__common_8h.html" title="p2p/net_node_common.h" alt="" coords="1137,191,1305,218"/>
+<area shape="rect" id="node9" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="469,459,531,486"/>
+<area shape="rect" id="node18" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="3401,281,3479,307"/>
+<area shape="rect" id="node20" href="$d7/dba/time__helper_8h.html" title="time_helper.h" alt="" coords="2821,370,2921,397"/>
+<area shape="rect" id="node22" href="$dd/de8/portable__storage__template__helper_8h.html" title="portable_storage_template\l_helper.h" alt="" coords="619,273,794,315"/>
+<area shape="rect" id="node27" href="$df/d2d/byte__stream_8h.html" title="byte_stream.h" alt="" coords="337,281,442,307"/>
+<area shape="rect" id="node28" href="$de/de6/net__utils__base_8h.html" title="net_utils_base.h" alt="" coords="1520,281,1637,307"/>
+<area shape="rect" id="node29" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="1423,459,1529,486"/>
+<area shape="rect" id="node30" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="1403,363,1549,404"/>
+<area shape="rect" id="node34" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic/cryptonote\l_basic.h" alt="" coords="1661,273,1848,315"/>
+<area shape="rect" id="node37" href="$dd/dba/blobdatatype_8h.html" title="cryptonote_basic/blobdatatype.h" alt="" coords="920,370,1131,397"/>
+<area shape="rect" id="node36" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="1656,370,1717,397"/>
+<area shape="rect" id="node39" href="$da/d9a/src_2cryptonote__protocol_2enums_8h.html" title="cryptonote_protocol\l/enums.h" alt="" coords="1259,273,1395,315"/>
+<area shape="rect" id="node49" href="$de/d1c/src_2cryptonote__protocol_2fwd_8h.html" title="cryptonote_protocol\l/fwd.h" alt="" coords="1048,273,1184,315"/>
+</map>

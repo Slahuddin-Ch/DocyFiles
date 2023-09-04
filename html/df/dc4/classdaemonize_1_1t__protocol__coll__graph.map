@@ -1,0 +1,42 @@
+<map id="daemonize::t_protocol" name="daemonize::t_protocol">
+<area shape="rect" id="node2" href="$d8/d08/classcryptonote_1_1t__cryptonote__protocol__handler.html" title="cryptonote::t_cryptonote\l_protocol_handler\&lt; cryptonote\l::core \&gt;" alt="" coords="2372,1769,2569,1825"/>
+<area shape="rect" id="node3" href="$d1/dd2/structcryptonote_1_1i__cryptonote__protocol.html" title="cryptonote::i_cryptonote\l_protocol" alt="" coords="1174,221,1337,262"/>
+<area shape="rect" id="node5" href="$db/d6a/classcryptonote_1_1core.html" title="handles core cryptonote functionality " alt="" coords="2047,751,2163,777"/>
+<area shape="rect" id="node33" href="$df/d98/structcryptonote_1_1cryptonote__protocol__stub.html" title="cryptonote::cryptonote\l_protocol_stub" alt="" coords="1607,221,1759,262"/>
+<area shape="rect" id="node4" href="$df/dc3/classcryptonote_1_1cryptonote__protocol__handler__base.html" title="cryptonote::cryptonote\l_protocol_handler_base" alt="" coords="2025,1835,2184,1877"/>
+<area shape="rect" id="node6" href="$da/da3/structcryptonote_1_1i__miner__handler.html" title="cryptonote::i_miner\l_handler" alt="" coords="1189,1178,1322,1219"/>
+<area shape="rect" id="node25" href="$d0/d3d/classcryptonote_1_1miner.html" title="cryptonote::miner" alt="" coords="1621,1387,1744,1413"/>
+<area shape="rect" id="node7" href="$da/d62/structcryptonote_1_1i__core__events.html" title="cryptonote::i_core\l_events" alt="" coords="1619,350,1746,391"/>
+<area shape="rect" id="node8" href="$d0/dc4/classcryptonote_1_1tx__memory__pool.html" title="Transaction pool, handles transactions which are not part of a block. " alt="" coords="1589,976,1776,1003"/>
+<area shape="rect" id="node10" href="$d1/dab/classcryptonote_1_1Blockchain.html" title="cryptonote::Blockchain" alt="" coords="1178,973,1333,1000"/>
+<area shape="rect" id="node11" href="$d7/d07/classcryptonote_1_1checkpoints.html" title="A container for blockchain checkpoints. " alt="" coords="788,776,949,803"/>
+<area shape="rect" id="node12" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="800,1243,937,1285"/>
+<area shape="rect" id="node14" href="$df/d71/classepee_1_1critical__section.html" title="epee::critical_section" alt="" coords="5,557,151,584"/>
+<area shape="rect" id="node19" href="$d0/d61/classcryptonote_1_1HardFork.html" title="cryptonote::HardFork" alt="" coords="404,637,549,664"/>
+<area shape="rect" id="node20" href="$de/db3/classcryptonote_1_1BlockchainDB.html" title="The BlockchainDB backing store interface declaration/contract. " alt="" coords="781,596,956,623"/>
+<area shape="rect" id="node15" href="$d4/de3/classtools_1_1data__cache.html" title="tools::data_cache\&lt;\l::crypto::hash, RCT\l_VER_CACHE_SIZE \&gt;" alt="" coords="788,933,949,989"/>
+<area shape="rect" id="node17" href="$de/d3a/structepee_1_1misc__utils_1_1rolling__median__t.html" title="epee::misc_utils::rolling\l_median_t\&lt; uint64_t \&gt;" alt="" coords="573,1269,732,1310"/>
+<area shape="rect" id="node21" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\&lt; 30 \&gt;" alt="" coords="1160,1113,1351,1154"/>
+<area shape="rect" id="node22" href="$d9/dde/classepee_1_1math__helper_1_1once__a__time.html" title="epee::math_helper::\lonce_a_time\&lt; get_constant\l_interval\&lt; default_interval\l *(uint64_t) 1000000 \&gt;, true \&gt;" alt="" coords="773,1602,965,1673"/>
+<area shape="rect" id="node26" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\&lt; 1 \&gt;" alt="" coords="1164,1617,1347,1658"/>
+<area shape="rect" id="node28" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\&lt; 2 \&gt;" alt="" coords="1164,1421,1347,1462"/>
+<area shape="rect" id="node29" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\&lt; 5 \&gt;" alt="" coords="1164,1486,1347,1527"/>
+<area shape="rect" id="node38" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\&lt; 43 \&gt;" alt="" coords="1375,1670,1565,1711"/>
+<area shape="rect" id="node39" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\&lt; 8 \&gt;" alt="" coords="1800,1721,1983,1762"/>
+<area shape="rect" id="node42" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 101 \&gt;" alt="" coords="1394,1819,1546,1875"/>
+<area shape="rect" id="node23" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *12, false \&gt;" alt="" coords="1607,416,1759,472"/>
+<area shape="rect" id="node24" href="$d9/dde/classepee_1_1math__helper_1_1once__a__time.html" title="epee::math_helper::\lonce_a_time\&lt; get_constant\l_interval\&lt; default_interval\l *(uint64_t) 1000000 \&gt;, start\l_immediate \&gt;" alt="" coords="1163,501,1347,587"/>
+<area shape="rect" id="node30" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 90, false \&gt;" alt="" coords="1607,496,1759,552"/>
+<area shape="rect" id="node31" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *5, true \&gt;" alt="" coords="1607,576,1759,632"/>
+<area shape="rect" id="node32" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *2, true \&gt;" alt="" coords="1607,656,1759,712"/>
+<area shape="rect" id="node34" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *12, true \&gt;" alt="" coords="1607,736,1759,792"/>
+<area shape="rect" id="node35" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *24 *7, false \&gt;" alt="" coords="1603,816,1762,872"/>
+<area shape="rect" id="node36" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *10, true \&gt;" alt="" coords="1607,896,1759,952"/>
+<area shape="rect" id="node27" href="$de/d13/structcryptonote_1_1miner_1_1miner__config.html" title="cryptonote::miner::\lminer_config" alt="" coords="1190,1551,1321,1593"/>
+<area shape="rect" id="node37" href="$d1/d1c/classtools_1_1PerformanceTimer.html" title="tools::PerformanceTimer" alt="" coords="2022,1901,2187,1928"/>
+<area shape="rect" id="node40" href="$dc/ddd/structnodetool_1_1i__p2p__endpoint.html" title="nodetool::i_p2p_endpoint\l\&lt; cryptonote::cryptonote\l_connection_context \&gt;" alt="" coords="1599,1995,1766,2051"/>
+<area shape="rect" id="node41" href="$d8/d84/structnodetool_1_1p2p__endpoint__stub.html" title="nodetool::p2p_endpoint\l_stub\&lt; cryptonote::cryptonote\l_connection_context \&gt;" alt="" coords="2007,1952,2203,2008"/>
+<area shape="rect" id="node43" href="$d0/d7f/classcryptonote_1_1block__queue.html" title="cryptonote::block_queue" alt="" coords="2023,2095,2187,2121"/>
+<area shape="rect" id="node44" href="$db/d60/classepee_1_1math__helper_1_1once__a__time__milliseconds.html" title="epee::math_helper::\lonce_a_time_milliseconds\l\&lt; 100 \&gt;" alt="" coords="2017,2145,2192,2201"/>
+<area shape="rect" id="node45" href="$d9/dde/classepee_1_1math__helper_1_1once__a__time.html" title="epee::math_helper::\lonce_a_time\&lt; get_constant\l_interval\&lt; default_interval\l *(uint64_t) 1000 \&gt;, true \&gt;" alt="" coords="1591,2138,1774,2209"/>
+</map>

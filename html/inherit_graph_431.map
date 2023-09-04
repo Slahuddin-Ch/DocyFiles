@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/dde/classepee_1_1math__helper_1_1once__a__time.html" title="epee::math_helper::\lonce_a_time\&lt; get_constant\l_interval\&lt; default_interval\l *(uint64_t) 1000000 \&gt;, start\l_immediate \&gt;" alt="" coords="5,366,189,451"/>
+<area shape="rect" id="node2" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; default_interval, start\l_immediate \&gt;" alt="" coords="239,5,395,76"/>
+<area shape="rect" id="node3" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 3600, false \&gt;" alt="" coords="241,101,393,157"/>
+<area shape="rect" id="node4" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *10, true \&gt;" alt="" coords="241,181,393,237"/>
+<area shape="rect" id="node5" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *30, false \&gt;" alt="" coords="241,261,393,317"/>
+<area shape="rect" id="node6" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *12, false \&gt;" alt="" coords="241,341,393,397"/>
+<area shape="rect" id="node7" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *12, true \&gt;" alt="" coords="241,421,393,477"/>
+<area shape="rect" id="node8" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *2, true \&gt;" alt="" coords="241,501,393,557"/>
+<area shape="rect" id="node9" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *24 *7, false \&gt;" alt="" coords="237,581,396,637"/>
+<area shape="rect" id="node10" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 60 *60 *5, true \&gt;" alt="" coords="241,661,393,717"/>
+<area shape="rect" id="node11" href="$dd/d7c/classepee_1_1math__helper_1_1once__a__time__seconds.html" title="epee::math_helper::\lonce_a_time_seconds\l\&lt; 90, false \&gt;" alt="" coords="241,741,393,797"/>
+</map>

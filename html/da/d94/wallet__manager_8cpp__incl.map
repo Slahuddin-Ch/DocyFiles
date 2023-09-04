@@ -1,0 +1,25 @@
+<map id="src/wallet/api/wallet_manager.cpp" name="src/wallet/api/wallet_manager.cpp">
+<area shape="rect" id="node2" href="$da/d58/wallet__manager_8h.html" title="wallet_manager.h" alt="" coords="1607,169,1731,196"/>
+<area shape="rect" id="node11" href="$d9/df2/http__client_8h.html" title="net/http_client.h" alt="" coords="816,319,931,345"/>
+<area shape="rect" id="node34" href="$d0/df4/wallet_8h.html" title="wallet.h" alt="" coords="2003,95,2069,121"/>
+<area shape="rect" id="node37" href="$d2/db6/common_2util_8h.html" title="common/util.h" alt="" coords="2269,393,2373,420"/>
+<area shape="rect" id="node44" href="$d5/df8/common__defines_8h.html" title="common_defines.h" alt="" coords="2094,95,2226,121"/>
+<area shape="rect" id="node45" href="$d4/db0/dns__utils_8h.html" title="common/dns_utils.h" alt="" coords="2993,475,3132,502"/>
+<area shape="rect" id="node48" href="$d9/da8/updates_8h.html" title="common/updates.h" alt="" coords="5,244,139,271"/>
+<area shape="rect" id="node49" href="$df/dfc/version_8h.html" title="version.h" alt="" coords="2499,95,2573,121"/>
+<area shape="rect" id="node3" href="$dc/d27/wallet2__api_8h.html" title="wallet/api/wallet2\l_api.h" alt="" coords="1811,468,1933,509"/>
+<area shape="rect" id="node10" href="$dd/d56/http_8h.html" title="net/http.h" alt="" coords="1680,244,1757,271"/>
+<area shape="rect" id="node20" href="$d7/dce/net__helper_8h.html" title="net_helper.h" alt="" coords="775,475,868,502"/>
+<area shape="rect" id="node21" href="$d2/d0c/http__client__base_8h.html" title="http_client_base.h" alt="" coords="1579,393,1707,420"/>
+<area shape="rect" id="node22" href="$d4/d3e/string__tools_8h.html" title="string_tools.h" alt="" coords="245,565,345,591"/>
+<area shape="rect" id="node23" href="$de/d2e/string__tools__lexical_8h.html" title="string_tools_lexical.h" alt="" coords="496,393,640,420"/>
+<area shape="rect" id="node24" href="$d0/dde/reg__exp__definer_8h.html" title="reg_exp_definer.h" alt="" coords="1245,393,1371,420"/>
+<area shape="rect" id="node25" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="1657,475,1735,502"/>
+<area shape="rect" id="node30" href="$d4/d4a/abstract__http__client_8h.html" title="abstract_http_client.h" alt="" coords="664,393,811,420"/>
+<area shape="rect" id="node31" href="$d5/dc8/http__auth_8h.html" title="http_auth.h" alt="" coords="390,475,477,502"/>
+<area shape="rect" id="node32" href="$da/d94/http__base_8h.html" title="http_base.h" alt="" coords="129,565,220,591"/>
+<area shape="rect" id="node33" href="$d0/d66/net__parse__helpers_8h.html" title="net_parse_helpers.h" alt="" coords="131,393,269,420"/>
+<area shape="rect" id="node35" href="$df/d3f/wallet2_8h.html" title="wallet/wallet2.h" alt="" coords="1933,169,2045,196"/>
+<area shape="rect" id="node42" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="2051,475,2112,502"/>
+<area shape="rect" id="node43" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="2457,475,2593,502"/>
+</map>

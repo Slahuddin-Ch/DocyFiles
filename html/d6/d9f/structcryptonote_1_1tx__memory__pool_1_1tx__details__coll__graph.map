@@ -1,0 +1,8 @@
+<map id="cryptonote::tx_memory_pool::tx_details" name="cryptonote::tx_memory_pool::tx_details">
+<area shape="rect" id="node2" href="$dc/d00/classcryptonote_1_1transaction.html" title="cryptonote::transaction" alt="" coords="122,303,277,329"/>
+<area shape="rect" id="node3" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="190,184,345,225"/>
+<area shape="rect" id="node5" href="$d1/d1e/structrct_1_1rctSig.html" title="rct::rctSig" alt="" coords="369,191,448,218"/>
+<area shape="rect" id="node6" href="$de/dcb/structrct_1_1rctSigBase.html" title="rct::rctSigBase" alt="" coords="254,95,363,121"/>
+<area shape="rect" id="node7" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="275,5,342,32"/>
+<area shape="rect" id="node8" href="$d0/d39/structrct_1_1rctSigPrunable.html" title="rct::rctSigPrunable" alt="" coords="387,95,518,121"/>
+</map>

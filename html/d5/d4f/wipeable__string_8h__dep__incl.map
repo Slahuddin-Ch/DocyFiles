@@ -1,0 +1,51 @@
+<map id="contrib/epee/include/wipeable_string.h" name="contrib/epee/include/wipeable_string.h">
+<area shape="rect" id="node2" href="$d0/d84/hex_8h.html" title="contrib/epee/include\l/hex.h" alt="" coords="856,95,995,136"/>
+<area shape="rect" id="node6" href="$d6/d17/simplewallet_8h.html" title="Header file that declares simple_wallet class. " alt="" coords="1380,631,1583,657"/>
+<area shape="rect" id="node10" href="$d4/df9/src_2common_2util_8cpp.html" title="src/common/util.cpp" alt="" coords="1783,370,1923,397"/>
+<area shape="rect" id="node11" href="$d0/dd5/message__transporter_8h.html" title="src/wallet/message\l_transporter.h" alt="" coords="2239,363,2374,404"/>
+<area shape="rect" id="node12" href="$d1/dab/message__store_8h.html" title="src/wallet/message\l_store.h" alt="" coords="1446,452,1581,493"/>
+<area shape="rect" id="node22" href="$d9/dea/cryptonote__format__utils_8cpp.html" title="src/cryptonote_basic\l/cryptonote_format_utils.cpp" alt="" coords="53,363,240,404"/>
+<area shape="rect" id="node32" href="$d9/d81/ringdb_8h.html" title="src/wallet/ringdb.h" alt="" coords="853,370,981,397"/>
+<area shape="rect" id="node35" href="$d2/d1a/mnemonics_8cpp.html" title="tests/unit_tests/mnemonics.cpp" alt="" coords="1005,370,1213,397"/>
+<area shape="rect" id="node39" href="$d3/d07/tests_2unit__tests_2wipeable__string_8cpp.html" title="tests/unit_tests/wipeable\l_string.cpp" alt="" coords="1182,184,1349,225"/>
+<area shape="rect" id="node40" href="$d5/dc8/http__auth_8h.html" title="contrib/epee/include\l/net/http_auth.h" alt="" coords="1992,95,2131,136"/>
+<area shape="rect" id="node42" href="$d9/d10/contrib_2epee_2src_2wipeable__string_8cpp.html" title="contrib/epee/src/wipeable\l_string.cpp" alt="" coords="2659,95,2829,136"/>
+<area shape="rect" id="node43" href="$d6/dda/password_8h.html" title="src/common/password.h" alt="" coords="2832,191,2997,218"/>
+<area shape="rect" id="node50" href="$d7/d96/electrum-words_8cpp.html" title="Mnemonic seed generation and wallet restoration from them. " alt="" coords="3651,95,3816,136"/>
+<area shape="rect" id="node3" href="$d4/d3e/string__tools_8h.html" title="contrib/epee/include\l/string_tools.h" alt="" coords="917,184,1056,225"/>
+<area shape="rect" id="node21" href="$d5/d04/string__tools_8cpp.html" title="contrib/epee/src/string\l_tools.cpp" alt="" coords="582,273,733,315"/>
+<area shape="rect" id="node24" href="$d0/dd1/epee__utils_8cpp.html" title="tests/unit_tests/epee\l_utils.cpp" alt="" coords="416,363,560,404"/>
+<area shape="rect" id="node27" href="$d4/dfd/hex_8cpp.html" title="contrib/epee/src/hex.cpp" alt="" coords="464,191,629,218"/>
+<area shape="rect" id="node28" href="$d7/d94/http__auth_8cpp.html" title="contrib/epee/src/http\l_auth.cpp" alt="" coords="1475,184,1616,225"/>
+<area shape="rect" id="node29" href="$db/d84/crypto_2crypto_8h.html" title="src/crypto/crypto.h" alt="" coords="376,281,507,307"/>
+<area shape="rect" id="node31" href="$d0/d1d/rctTypes_8h.html" title="src/ringct/rctTypes.h" alt="" coords="686,370,829,397"/>
+<area shape="rect" id="node36" href="$db/dfb/hash_8h.html" title="src/crypto/hash.h" alt="" coords="653,191,776,218"/>
+<area shape="rect" id="node37" href="$d8/d77/rpc__args_8cpp.html" title="src/rpc/rpc_args.cpp" alt="" coords="2565,370,2707,397"/>
+<area shape="rect" id="node38" href="$d2/dbc/json__object_8h.html" title="src/serialization/json\l_object.h" alt="" coords="172,184,313,225"/>
+<area shape="rect" id="node4" href="$d7/d81/console__handler_8h.html" title="contrib/epee/include\l/console_handler.h" alt="" coords="1551,541,1689,583"/>
+<area shape="rect" id="node8" href="$d9/df2/http__client_8h.html" title="contrib/epee/include\l/net/http_client.h" alt="" coords="1992,273,2131,315"/>
+<area shape="rect" id="node9" href="$d4/d4a/rpc__client_8h.html" title="src/common/rpc_client.h" alt="" coords="1948,370,2113,397"/>
+<area shape="rect" id="node13" href="$da/d1c/message__store_8cpp.html" title="src/wallet/message\l_store.cpp" alt="" coords="1341,541,1475,583"/>
+<area shape="rect" id="node17" href="$dc/d3b/http__protocol__handler_8inl.html" title="contrib/epee/include\l/net/http_protocol_handler.inl" alt="" coords="1627,273,1816,315"/>
+<area shape="rect" id="node19" href="$dc/dbd/http__base_8cpp.html" title="contrib/epee/src/http\l_base.cpp" alt="" coords="960,273,1101,315"/>
+<area shape="rect" id="node20" href="$d5/d01/mlog_8cpp.html" title="contrib/epee/src/mlog.cpp" alt="" coords="1126,281,1298,307"/>
+<area shape="rect" id="node23" href="$de/d12/rpc__command__executor_8cpp.html" title="src/daemon/rpc_command\l_executor.cpp" alt="" coords="2307,273,2483,315"/>
+<area shape="rect" id="node25" href="$db/d0f/tests_2unit__tests_2http_8cpp.html" title="tests/unit_tests/http.cpp" alt="" coords="1288,370,1451,397"/>
+<area shape="rect" id="node26" href="$da/d62/tests_2unit__tests_2ringdb_8cpp.html" title="tests/unit_tests/ringdb.cpp" alt="" coords="517,459,693,486"/>
+<area shape="rect" id="node5" href="$d4/d6b/simplewallet_8cpp.html" title="Source file that defines simple_wallet class. " alt="" coords="1442,713,1659,739"/>
+<area shape="rect" id="node7" href="$d6/d56/address__from__url_8cpp.html" title="tests/unit_tests/address\l_from_url.cpp" alt="" coords="1167,705,1329,747"/>
+<area shape="rect" id="node16" href="$d5/d3d/message__transporter_8cpp.html" title="src/wallet/message\l_transporter.cpp" alt="" coords="2161,452,2295,493"/>
+<area shape="rect" id="node14" href="$df/d3f/wallet2_8h.html" title="src/wallet/wallet2.h" alt="" coords="769,549,903,575"/>
+<area shape="rect" id="node15" href="$d8/da4/wallet2_8cpp.html" title="src/wallet/wallet2.cpp" alt="" coords="657,631,805,657"/>
+<area shape="rect" id="node18" href="$db/db3/http__protocol__handler_8h.html" title="contrib/epee/include\l/net/http_protocol_handler.h" alt="" coords="1577,363,1759,404"/>
+<area shape="rect" id="node30" href="$de/d31/gen__ssl__cert_8cpp.html" title="src/gen_ssl_cert/gen\l_ssl_cert.cpp" alt="" coords="2398,363,2541,404"/>
+<area shape="rect" id="node33" href="$dd/dab/blockchain__blackball_8cpp.html" title="src/blockchain_utilities\l/blockchain_blackball.cpp" alt="" coords="1009,452,1180,493"/>
+<area shape="rect" id="node34" href="$d8/d07/src_2wallet_2ringdb_8cpp.html" title="src/wallet/ringdb.cpp" alt="" coords="842,459,985,486"/>
+<area shape="rect" id="node41" href="$d4/d4a/abstract__http__client_8h.html" title="contrib/epee/include\l/net/abstract_http_client.h" alt="" coords="2059,184,2232,225"/>
+<area shape="rect" id="node44" href="$d0/d3b/password_8cpp.html" title="src/common/password.cpp" alt="" coords="3208,281,3387,307"/>
+<area shape="rect" id="node45" href="$dc/d69/src_2daemon_2daemon_8cpp.html" title="src/daemon/daemon.cpp" alt="" coords="3411,281,3576,307"/>
+<area shape="rect" id="node46" href="$d2/d66/src_2daemon_2main_8cpp.html" title="src/daemon/main.cpp" alt="" coords="2731,370,2877,397"/>
+<area shape="rect" id="node47" href="$d0/d63/rpc__args_8h.html" title="src/rpc/rpc_args.h" alt="" coords="2699,281,2826,307"/>
+<area shape="rect" id="node48" href="$d6/dea/tests_2trezor_2daemon_8h.html" title="tests/trezor/daemon.h" alt="" coords="3023,370,3172,397"/>
+<area shape="rect" id="node49" href="$d5/da5/tools_8h.html" title="tests/trezor/tools.h" alt="" coords="3053,281,3184,307"/>
+</map>

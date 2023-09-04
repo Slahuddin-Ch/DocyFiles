@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d9/dde/classepee_1_1math__helper_1_1once__a__time.html" title="epee::math_helper::\lonce_a_time\&lt; cryptonote\l::simple_wallet::get_random\l_interval\&lt; 90 *1000000, 115\l *1000000 \&gt;, true \&gt;" alt="" coords="5,5,191,91"/>
+<area shape="rect" id="node2" href="$db/d4f/classepee_1_1math__helper_1_1once__a__time__seconds__range.html" title="epee::math_helper::\lonce_a_time_seconds\l_range\&lt; cryptonote::simple\l_wallet::get_random_interval\l\&lt; 90 *1000000, 115 *1000000 \&gt; \&gt;" alt="" coords="239,5,456,91"/>
+</map>

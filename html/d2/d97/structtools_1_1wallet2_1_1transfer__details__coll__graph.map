@@ -1,0 +1,5 @@
+<map id="tools::wallet2::transfer_details" name="tools::wallet2::transfer_details">
+<area shape="rect" id="node2" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="5,95,160,136"/>
+<area shape="rect" id="node4" href="$d0/dad/structcryptonote_1_1subaddress__index.html" title="cryptonote::subaddress\l_index" alt="" coords="185,95,343,136"/>
+<area shape="rect" id="node5" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="368,102,435,129"/>
+</map>

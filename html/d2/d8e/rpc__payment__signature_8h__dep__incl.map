@@ -1,0 +1,10 @@
+<map id="src/rpc/rpc_payment_signature.h" name="src/rpc/rpc_payment_signature.h">
+<area shape="rect" id="node2" href="$de/d12/rpc__command__executor_8cpp.html" title="src/daemon/rpc_command\l_executor.cpp" alt="" coords="5,95,181,136"/>
+<area shape="rect" id="node3" href="$df/dde/core__rpc__server_8cpp.html" title="src/rpc/core_rpc_server.cpp" alt="" coords="205,102,389,129"/>
+<area shape="rect" id="node4" href="$df/d23/rpc__payment__signature_8cpp.html" title="src/rpc/rpc_payment\l_signature.cpp" alt="" coords="413,95,555,136"/>
+<area shape="rect" id="node5" href="$d4/d6b/simplewallet_8cpp.html" title="Source file that defines simple_wallet class. " alt="" coords="579,102,797,129"/>
+<area shape="rect" id="node6" href="$db/d7d/node__rpc__proxy_8cpp.html" title="src/wallet/node_rpc\l_proxy.cpp" alt="" coords="821,95,955,136"/>
+<area shape="rect" id="node7" href="$d8/da4/wallet2_8cpp.html" title="src/wallet/wallet2.cpp" alt="" coords="979,102,1127,129"/>
+<area shape="rect" id="node8" href="$d1/dd5/wallet__rpc__payments_8cpp.html" title="src/wallet/wallet_rpc\l_payments.cpp" alt="" coords="1152,95,1293,136"/>
+<area shape="rect" id="node9" href="$d4/d93/make__test__signature_8cc.html" title="tests/functional_tests\l/make_test_signature.cc" alt="" coords="1317,95,1483,136"/>
+</map>

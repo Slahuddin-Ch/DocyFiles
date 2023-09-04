@@ -1,0 +1,4 @@
+<map id="tools::wallet_rpc::COMMAND_RPC_GET_TRANSFER_BY_TXID::response_t" name="tools::wallet_rpc::COMMAND_RPC_GET_TRANSFER_BY_TXID::response_t">
+<area shape="rect" id="node2" href="$de/db0/structtools_1_1wallet__rpc_1_1transfer__entry.html" title="tools::wallet_rpc::\ltransfer_entry" alt="" coords="64,109,189,151"/>
+<area shape="rect" id="node3" href="$d0/dad/structcryptonote_1_1subaddress__index.html" title="cryptonote::subaddress\l_index" alt="" coords="47,5,206,47"/>
+</map>

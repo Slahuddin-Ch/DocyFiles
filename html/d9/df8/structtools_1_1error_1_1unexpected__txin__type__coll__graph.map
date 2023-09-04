@@ -1,0 +1,10 @@
+<map id="tools::error::unexpected_txin_type" name="tools::error::unexpected_txin_type">
+<area shape="rect" id="node2" href="$db/d49/structtools_1_1error_1_1wallet__internal__error.html" title="tools::error::wallet\l_internal_error" alt="" coords="95,288,222,329"/>
+<area shape="rect" id="node3" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_runtime_error" alt="" coords="5,191,144,218"/>
+<area shape="rect" id="node5" href="$dc/d00/classcryptonote_1_1transaction.html" title="cryptonote::transaction" alt="" coords="261,295,416,322"/>
+<area shape="rect" id="node6" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="276,184,431,225"/>
+<area shape="rect" id="node8" href="$d1/d1e/structrct_1_1rctSig.html" title="rct::rctSig" alt="" coords="455,191,534,218"/>
+<area shape="rect" id="node9" href="$de/dcb/structrct_1_1rctSigBase.html" title="rct::rctSigBase" alt="" coords="340,95,449,121"/>
+<area shape="rect" id="node10" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="361,5,428,32"/>
+<area shape="rect" id="node11" href="$d0/d39/structrct_1_1rctSigPrunable.html" title="rct::rctSigPrunable" alt="" coords="473,95,604,121"/>
+</map>

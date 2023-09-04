@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d3/d8a/classcryptonote_1_1db__txn__guard.html" title="cryptonote::db_txn\l_guard" alt="" coords="5,39,136,80"/>
+<area shape="rect" id="node2" href="$d5/df6/classcryptonote_1_1db__rtxn__guard.html" title="cryptonote::db_rtxn\l_guard" alt="" coords="187,5,321,47"/>
+<area shape="rect" id="node3" href="$d1/d60/classcryptonote_1_1db__wtxn__guard.html" title="cryptonote::db_wtxn\l_guard" alt="" coords="184,71,324,112"/>
+</map>

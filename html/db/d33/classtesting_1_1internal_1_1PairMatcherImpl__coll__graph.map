@@ -1,0 +1,10 @@
+<map id="testing::internal::PairMatcherImpl&lt; PairType &gt;" name="testing::internal::PairMatcherImpl&lt; PairType &gt;">
+<area shape="rect" id="node2" href="$d2/d3c/classtesting_1_1MatcherInterface.html" title="testing::MatcherInterface\l\&lt; PairType \&gt;" alt="" coords="763,5,929,47"/>
+<area shape="rect" id="node3" href="$d0/d35/classtesting_1_1MatcherDescriberInterface.html" title="testing::MatcherDescriber\lInterface" alt="" coords="505,5,677,47"/>
+<area shape="rect" id="node4" href="$d9/d0a/classtesting_1_1Matcher.html" title="testing::Matcher\&lt; const\l SecondType &amp;\&gt;" alt="" coords="766,71,926,112"/>
+<area shape="rect" id="node5" href="$db/d7e/classtesting_1_1internal_1_1MatcherBase.html" title="testing::internal::\lMatcherBase\&lt; const SecondType &amp; \&gt;" alt="" coords="468,71,713,112"/>
+<area shape="rect" id="node6" href="$d9/df4/classtesting_1_1internal_1_1linked__ptr.html" title="testing::internal::\llinked_ptr\&lt; const testing\l::MatcherInterface\&lt; T \&gt; \&gt;" alt="" coords="212,97,384,153"/>
+<area shape="rect" id="node9" href="$db/d7e/classtesting_1_1internal_1_1MatcherBase.html" title="testing::internal::\lMatcherBase\&lt; const FirstType &amp; \&gt;" alt="" coords="477,136,704,177"/>
+<area shape="rect" id="node7" href="$d7/d67/classtesting_1_1internal_1_1linked__ptr__internal.html" title="testing::internal::\llinked_ptr_internal" alt="" coords="5,104,132,145"/>
+<area shape="rect" id="node8" href="$d9/d0a/classtesting_1_1Matcher.html" title="testing::Matcher\&lt; const\l FirstType &amp;\&gt;" alt="" coords="766,136,926,177"/>
+</map>

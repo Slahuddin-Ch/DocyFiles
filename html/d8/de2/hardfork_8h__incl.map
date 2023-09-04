@@ -1,0 +1,22 @@
+<map id="src/cryptonote_basic/hardfork.h" name="src/cryptonote_basic/hardfork.h">
+<area shape="rect" id="node2" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="595,102,673,129"/>
+<area shape="rect" id="node9" href="$d7/d3e/hardforks_8h.html" title="hardforks/hardforks.h" alt="" coords="1099,102,1244,129"/>
+<area shape="rect" id="node14" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic/cryptonote\l_basic.h" alt="" coords="1910,95,2097,136"/>
+<area shape="rect" id="node10" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="1096,191,1161,218"/>
+<area shape="rect" id="node21" href="$d6/d10/variant_8h.html" title="for dealing with variants " alt="" coords="3069,445,3215,471"/>
+<area shape="rect" id="node33" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="2399,445,2565,471"/>
+<area shape="rect" id="node37" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="1207,348,1338,389"/>
+<area shape="rect" id="node40" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="1413,437,1532,479"/>
+<area shape="rect" id="node41" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="1774,348,1905,389"/>
+<area shape="rect" id="node42" href="$dd/d1a/serialization_2crypto_8h.html" title="serialization/crypto.h" alt="" coords="1877,273,2020,300"/>
+<area shape="rect" id="node43" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="1574,355,1683,382"/>
+<area shape="rect" id="node44" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="1607,445,1669,471"/>
+<area shape="rect" id="node45" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="1718,184,1865,225"/>
+<area shape="rect" id="node46" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="1666,273,1802,300"/>
+<area shape="rect" id="node47" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="2319,355,2439,382"/>
+<area shape="rect" id="node48" href="$d0/d1d/rctTypes_8h.html" title="ringct/rctTypes.h" alt="" coords="1370,273,1490,300"/>
+<area shape="rect" id="node49" href="$d5/d08/device_8hpp.html" title="device/device.hpp" alt="" coords="1567,191,1693,218"/>
+<area shape="rect" id="node50" href="$d1/d8f/src_2cryptonote__basic_2fwd_8h.html" title="cryptonote_basic/fwd.h" alt="" coords="2091,191,2249,218"/>
+<area shape="rect" id="node29" href="$dd/d50/serialization_8h.html" title="Simple DSL AAPI based on. " alt="" coords="2612,534,2715,561"/>
+<area shape="rect" id="node36" href="$d4/ddd/container_8h.html" title="container.h" alt="" coords="2399,534,2485,561"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="src/blockchain_utilities/bootstrap_serialization.h" name="src/blockchain_utilities/bootstrap_serialization.h">
+<area shape="rect" id="node2" href="$df/d48/cryptonote__boost__serialization_8h.html" title="cryptonote_basic/cryptonote\l_boost_serialization.h" alt="" coords="854,95,1041,136"/>
+<area shape="rect" id="node50" href="$d9/d69/difficulty__type_8h.html" title="serialization/difficulty\l_type.h" alt="" coords="24,273,168,315"/>
+<area shape="rect" id="node9" href="$d4/daa/portable__binary__iarchive_8hpp.html" title="boost/archive/portable\l_binary_iarchive.hpp" alt="" coords="3259,184,3410,225"/>
+<area shape="rect" id="node23" href="$db/d69/portable__binary__oarchive_8hpp.html" title="boost/archive/portable\l_binary_oarchive.hpp" alt="" coords="2410,184,2560,225"/>
+<area shape="rect" id="node28" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic.h" alt="" coords="882,191,1014,218"/>
+<area shape="rect" id="node42" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="824,370,933,397"/>
+<area shape="rect" id="node46" href="$d0/d1d/rctTypes_8h.html" title="ringct/rctTypes.h" alt="" coords="1669,281,1789,307"/>
+<area shape="rect" id="node47" href="$de/dbb/difficulty_8h.html" title="difficulty.h" alt="" coords="45,370,128,397"/>
+<area shape="rect" id="node48" href="$de/de9/unordered__containers__boost__serialization_8h.html" title="common/unordered_containers\l_boost_serialization.h" alt="" coords="1038,184,1238,225"/>
+<area shape="rect" id="node49" href="$d2/d9d/rctOps_8h.html" title="ringct/rctOps.h" alt="" coords="1418,191,1526,218"/>
+<area shape="rect" id="node18" href="$d5/df5/portable__binary__archive_8hpp.html" title="boost/archive/portable\l_binary_archive.hpp" alt="" coords="2574,273,2724,315"/>
+<area shape="rect" id="node35" href="$d6/d10/variant_8h.html" title="for dealing with variants " alt="" coords="532,459,678,486"/>
+<area shape="rect" id="node37" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="1326,459,1492,486"/>
+<area shape="rect" id="node38" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="1618,363,1749,404"/>
+<area shape="rect" id="node39" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="1074,452,1192,493"/>
+<area shape="rect" id="node40" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="957,363,1088,404"/>
+<area shape="rect" id="node41" href="$dd/d1a/serialization_2crypto_8h.html" title="serialization/crypto.h" alt="" coords="566,281,708,307"/>
+<area shape="rect" id="node43" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="446,459,508,486"/>
+<area shape="rect" id="node44" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="293,273,440,315"/>
+<area shape="rect" id="node45" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="313,541,449,568"/>
+<area shape="rect" id="node36" href="$dd/d50/serialization_8h.html" title="Simple DSL AAPI based on. " alt="" coords="646,541,748,568"/>
+</map>

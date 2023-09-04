@@ -1,0 +1,18 @@
+<map id="LookaheadParser" name="LookaheadParser">
+<area shape="rect" id="node2" href="$da/d47/classLookaheadParserHandler.html" title="LookaheadParserHandler" alt="" coords="1217,136,1385,163"/>
+<area shape="rect" id="node3" href="$dc/d9e/classGenericReader.html" title="GenericReader\&lt; UTF8\l\&lt; char \&gt;, UTF8\&lt; char\l \&gt;, CrtAllocator \&gt;" alt="" coords="946,36,1101,92"/>
+<area shape="rect" id="node4" href="$dc/dbb/structParseResult.html" title="Result of parsing (wraps ParseErrorCode) " alt="" coords="660,47,755,73"/>
+<area shape="rect" id="node6" href="$d3/dab/classinternal_1_1Stack.html" title="internal::Stack\&lt; CrtAllocator \&gt;" alt="" coords="608,97,807,124"/>
+<area shape="rect" id="node7" href="$d5/d8d/classCrtAllocator.html" title="C&#45;runtime library allocator. " alt="" coords="336,125,427,152"/>
+<area shape="rect" id="node8" href="$d2/d57/structGenericInsituStringStream.html" title="GenericInsituStringStream\l\&lt; UTF8\&lt; char \&gt; \&gt;" alt="" coords="936,129,1111,170"/>
+<area shape="rect" id="node9" href="$d4/dc1/classGenericValue.html" title="GenericValue\&lt; UTF8\&lt;\&gt; \&gt;" alt="" coords="937,217,1110,244"/>
+<area shape="rect" id="node10" href="$d3/dbf/unionGenericValue_1_1Data.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Data" alt="" coords="622,301,793,342"/>
+<area shape="rect" id="node13" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="938,270,1109,311"/>
+<area shape="rect" id="node11" href="$dc/d5a/structGenericValue_1_1String.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::String" alt="" coords="296,177,467,218"/>
+<area shape="rect" id="node12" href="$d4/dbc/structGenericValue_1_1ArrayData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ArrayData" alt="" coords="1216,303,1387,345"/>
+<area shape="rect" id="node14" href="$d7/da7/structGenericValue_1_1ObjectData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ObjectData" alt="" coords="296,242,467,283"/>
+<area shape="rect" id="node15" href="$d7/dac/structGenericMember.html" title="Name&#45;value pair in a JSON object value. " alt="" coords="5,242,189,283"/>
+<area shape="rect" id="node16" href="$d8/df4/unionGenericValue_1_1Number.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Number" alt="" coords="296,307,467,349"/>
+<area shape="rect" id="node18" href="$dc/dfe/structGenericValue_1_1ShortString.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ShortString" alt="" coords="296,373,467,414"/>
+<area shape="rect" id="node19" href="$de/df8/structGenericValue_1_1Flag.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Flag" alt="" coords="296,438,467,479"/>
+</map>

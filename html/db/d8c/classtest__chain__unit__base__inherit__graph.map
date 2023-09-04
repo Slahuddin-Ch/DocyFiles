@@ -1,0 +1,50 @@
+<map id="test_chain_unit_base" name="test_chain_unit_base">
+<area shape="rect" id="node2" href="$d9/d4c/structgen__block__accepted__base.html" title="gen_block_accepted\l_base\&lt; expected_blockchain\l_height \&gt;" alt="" coords="225,81,415,137"/>
+<area shape="rect" id="node3" href="$d9/d4c/structgen__block__accepted__base.html" title="gen_block_accepted\l_base\&lt; 2 \&gt;" alt="" coords="249,161,391,203"/>
+<area shape="rect" id="node8" href="$d9/d4c/structgen__block__accepted__base.html" title="gen_block_accepted\l_base\&lt; BLOCKCHAIN_TIMESTAMP\l_CHECK_WINDOW \&gt;" alt="" coords="199,245,441,301"/>
+<area shape="rect" id="node10" href="$df/d99/structgen__block__invalid__binary__format.html" title="gen_block_invalid_binary\l_format" alt="" coords="237,325,403,367"/>
+<area shape="rect" id="node11" href="$d9/d44/structgen__block__reward.html" title="gen_block_reward" alt="" coords="257,391,383,418"/>
+<area shape="rect" id="node12" href="$d7/d68/classgen__block__verification__base.html" title="gen_block_verification\l_base\&lt; invalid_block_idx \&gt;" alt="" coords="230,443,410,484"/>
+<area shape="rect" id="node13" href="$d7/d68/classgen__block__verification__base.html" title="gen_block_verification\l_base\&lt; 1 \&gt;" alt="" coords="245,508,395,549"/>
+<area shape="rect" id="node22" href="$d7/d68/classgen__block__verification__base.html" title="gen_block_verification\l_base\&lt; 3 \&gt;" alt="" coords="245,573,395,615"/>
+<area shape="rect" id="node23" href="$d7/d68/classgen__block__verification__base.html" title="gen_block_verification\l_base\&lt; BLOCKCHAIN_TIMESTAMP\l_CHECK_WINDOW \&gt;" alt="" coords="199,639,441,695"/>
+<area shape="rect" id="node24" href="$d7/d68/classgen__block__verification__base.html" title="gen_block_verification\l_base\&lt; CRYPTONOTE_MINED\l_MONEY_UNLOCK_WINDOW+1 \&gt;" alt="" coords="203,719,437,775"/>
+<area shape="rect" id="node25" href="$d7/d68/classgen__block__verification__base.html" title="gen_block_verification\l_base\&lt; CRYPTONOTE_MINED\l_MONEY_UNLOCK_WINDOW+2 \&gt;" alt="" coords="203,799,437,855"/>
+<area shape="rect" id="node26" href="$d4/d99/structgen__bp__tx__validation__base.html" title="gen_bp_tx_validation_base" alt="" coords="231,879,409,906"/>
+<area shape="rect" id="node27" href="$d9/dc8/structgen__bpp__tx__validation__base.html" title="gen_bpp_tx_validation_base" alt="" coords="227,930,413,957"/>
+<area shape="rect" id="node28" href="$d0/d32/classgen__chain__switch__1.html" title="gen_chain_switch_1" alt="" coords="250,981,390,1007"/>
+<area shape="rect" id="node29" href="$df/d95/classgen__double__spend__base.html" title="gen_double_spend_base\l\&lt; concrete_test \&gt;" alt="" coords="237,1032,403,1073"/>
+<area shape="rect" id="node30" href="$df/d95/classgen__double__spend__base.html" title="gen_double_spend_base\l\&lt; gen_double_spend_in\l_alt_chain_in_different\l_blocks\&lt; txs_keeped_by_block \&gt; \&gt;" alt="" coords="205,1097,435,1168"/>
+<area shape="rect" id="node31" href="$df/d95/classgen__double__spend__base.html" title="gen_double_spend_base\l\&lt; gen_double_spend_in\l_alt_chain_in_the_same\l_block\&lt; txs_keeped_by_block \&gt; \&gt;" alt="" coords="209,1192,431,1263"/>
+<area shape="rect" id="node32" href="$df/d95/classgen__double__spend__base.html" title="gen_double_spend_base\l\&lt; gen_double_spend_in\l_different_blocks\&lt; txs\l_keeped_by_block \&gt; \&gt;" alt="" coords="237,1287,403,1357"/>
+<area shape="rect" id="node33" href="$df/d95/classgen__double__spend__base.html" title="gen_double_spend_base\l\&lt; gen_double_spend_in\l_the_same_block\&lt; txs_keeped\l_by_block \&gt; \&gt;" alt="" coords="219,1381,421,1452"/>
+<area shape="rect" id="node34" href="$df/d95/classgen__double__spend__base.html" title="gen_double_spend_base\l\&lt; gen_double_spend_in\l_tx\&lt; txs_keeped_by_block \&gt; \&gt;" alt="" coords="219,1477,421,1533"/>
+<area shape="rect" id="node35" href="$d4/d23/classgen__double__spend__in__different__chains.html" title="gen_double_spend_in\l_different_chains" alt="" coords="247,1557,393,1599"/>
+<area shape="rect" id="node36" href="$d6/d35/structgen__multisig__tx__validation__base.html" title="gen_multisig_tx_validation_base" alt="" coords="215,1623,425,1650"/>
+<area shape="rect" id="node37" href="$d3/d71/structgen__rct2__tx__validation__base.html" title="gen_rct2_tx_validation_base" alt="" coords="227,1674,413,1701"/>
+<area shape="rect" id="node38" href="$d2/d53/structgen__rct__tx__validation__base.html" title="gen_rct_tx_validation_base" alt="" coords="230,1725,410,1751"/>
+<area shape="rect" id="node39" href="$dc/d39/classgen__ring__signature__1.html" title="gen_ring_signature_1" alt="" coords="247,1775,393,1802"/>
+<area shape="rect" id="node40" href="$d7/d71/classgen__ring__signature__2.html" title="gen_ring_signature_2" alt="" coords="247,1826,393,1853"/>
+<area shape="rect" id="node41" href="$de/dc3/classgen__ring__signature__big.html" title="gen_ring_signature_big" alt="" coords="243,1877,397,1903"/>
+<area shape="rect" id="node42" href="$d5/d29/classgen__simple__chain__001.html" title="gen_simple_chain_001" alt="" coords="243,1927,397,1954"/>
+<area shape="rect" id="node43" href="$d3/de6/classgen__simple__chain__split__1.html" title="gen_simple_chain_split_1" alt="" coords="235,1978,405,2005"/>
+<area shape="rect" id="node44" href="$d9/de9/classgen__trezor__base.html" title="gen_trezor_base" alt="" coords="261,2029,379,2055"/>
+<area shape="rect" id="node45" href="$dd/d78/structgen__uint__overflow__base.html" title="gen_uint_overflow_base" alt="" coords="239,2079,401,2106"/>
+<area shape="rect" id="node46" href="$dc/db3/structgen__v2__tx__validation__base.html" title="gen_v2_tx_validation_base" alt="" coords="231,2130,409,2157"/>
+<area shape="rect" id="node47" href="$db/df9/structget__tx__validation__base.html" title="get_tx_validation_base" alt="" coords="243,2181,397,2207"/>
+<area shape="rect" id="node48" href="$d7/dd4/classone__block.html" title="one_block" alt="" coords="279,2231,361,2258"/>
+<area shape="rect" id="node49" href="$d2/dbf/classtxpool__base.html" title="txpool_base" alt="" coords="274,2282,366,2309"/>
+<area shape="rect" id="node4" href="$d5/d66/structgen__block__big__minor__version.html" title="gen_block_big_minor\l_version" alt="" coords="521,5,665,47"/>
+<area shape="rect" id="node5" href="$dc/d6f/structgen__block__miner__tx__has__out__to__alice.html" title="gen_block_miner_tx\l_has_out_to_alice" alt="" coords="523,71,662,112"/>
+<area shape="rect" id="node6" href="$d8/d4a/structgen__block__miner__tx__out__has__no__view__tag__before__hf__view__tags.html" title="gen_block_miner_tx\l_out_has_no_view_tag\l_before_hf_view_tags" alt="" coords="515,137,670,193"/>
+<area shape="rect" id="node7" href="$d4/d92/structgen__block__miner__tx__out__has__view__tag__from__hf__view__tags.html" title="gen_block_miner_tx\l_out_has_view_tag_from\l_hf_view_tags" alt="" coords="509,217,676,273"/>
+<area shape="rect" id="node9" href="$d8/d32/structgen__block__ts__not__checked.html" title="gen_block_ts_not_checked" alt="" coords="503,297,683,323"/>
+<area shape="rect" id="node14" href="$d1/df4/structgen__block__big__major__version.html" title="gen_block_big_major\l_version" alt="" coords="521,348,665,389"/>
+<area shape="rect" id="node15" href="$db/ddb/structgen__block__has__invalid__tx.html" title="gen_block_has_invalid_tx" alt="" coords="507,414,678,441"/>
+<area shape="rect" id="node16" href="$de/dd8/structgen__block__height__is__high.html" title="gen_block_height_is_high" alt="" coords="507,465,678,491"/>
+<area shape="rect" id="node17" href="$d9/d3d/structgen__block__height__is__low.html" title="gen_block_height_is_low" alt="" coords="509,515,676,542"/>
+<area shape="rect" id="node18" href="$df/d4d/structgen__block__invalid__prev__id.html" title="gen_block_invalid_prev_id" alt="" coords="505,566,680,593"/>
+<area shape="rect" id="node19" href="$d4/dd9/structgen__block__is__too__big.html" title="gen_block_is_too_big" alt="" coords="519,617,666,643"/>
+<area shape="rect" id="node20" href="$d2/d67/structgen__block__late__v1__coinbase__tx.html" title="gen_block_late_v1_coinbase_tx" alt="" coords="489,667,696,694"/>
+<area shape="rect" id="node21" href="$d2/dd4/structgen__block__low__coinbase.html" title="gen_block_low_coinbase" alt="" coords="509,718,676,745"/>
+</map>

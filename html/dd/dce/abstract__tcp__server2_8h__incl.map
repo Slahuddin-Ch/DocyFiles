@@ -1,0 +1,15 @@
+<map id="contrib/epee/include/net/abstract_tcp_server2.h" name="contrib/epee/include/net/abstract_tcp_server2.h">
+<area shape="rect" id="node19" href="$d3/ddf/byte__slice_8h.html" title="byte_slice.h" alt="" coords="418,341,510,367"/>
+<area shape="rect" id="node24" href="$de/de6/net__utils__base_8h.html" title="net_utils_base.h" alt="" coords="896,251,1013,278"/>
+<area shape="rect" id="node35" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="1771,251,1850,278"/>
+<area shape="rect" id="node41" href="$d8/d85/connection__basic_8hpp.html" title="base for connection, contains e.g. the ratelimit hooks " alt="" coords="469,169,617,196"/>
+<area shape="rect" id="node43" href="$db/d39/network__throttle-detail_8hpp.html" title="implementaion for throttling of connection (count and rate&#45;limit speed etc) " alt="" coords="1593,95,1767,121"/>
+<area shape="rect" id="node50" href="$d4/dd0/abstract__tcp__server2_8inl.html" title="the connection templated&#45;class for one peer connection " alt="" coords="2694,169,2855,196"/>
+<area shape="rect" id="node22" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="679,430,740,457"/>
+<area shape="rect" id="node29" href="$d4/d29/contrib_2epee_2include_2net_2enums_8h.html" title="enums.h" alt="" coords="583,430,655,457"/>
+<area shape="rect" id="node30" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="1488,430,1595,457"/>
+<area shape="rect" id="node31" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="1549,333,1696,375"/>
+<area shape="rect" id="node34" href="$d5/d78/int-util_8h.html" title="int&#45;util.h" alt="" coords="849,341,917,367"/>
+<area shape="rect" id="node42" href="$dd/d94/net__ssl_8h.html" title="net/net_ssl.h" alt="" coords="382,251,479,278"/>
+<area shape="rect" id="node45" href="$d4/d12/network__throttle_8hpp.html" title="interface for throttling of connection (count and rate&#45;limit speed etc) " alt="" coords="1587,169,1727,196"/>
+</map>

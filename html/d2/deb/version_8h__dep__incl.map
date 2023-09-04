@@ -1,0 +1,45 @@
+<map id="src/version.h" name="src/version.h">
+<area shape="rect" id="node2" href="$da/d8b/blockchain__ancestry_8cpp.html" title="src/blockchain_utilities\l/blockchain_ancestry.cpp" alt="" coords="5,87,176,129"/>
+<area shape="rect" id="node3" href="$dd/dab/blockchain__blackball_8cpp.html" title="src/blockchain_utilities\l/blockchain_blackball.cpp" alt="" coords="200,87,371,129"/>
+<area shape="rect" id="node4" href="$d4/d42/blockchain__depth_8cpp.html" title="src/blockchain_utilities\l/blockchain_depth.cpp" alt="" coords="395,87,549,129"/>
+<area shape="rect" id="node5" href="$da/da8/bootstrap__file_8h.html" title="src/blockchain_utilities\l/bootstrap_file.h" alt="" coords="559,184,713,225"/>
+<area shape="rect" id="node6" href="$df/dfe/blockchain__export_8cpp.html" title="src/blockchain_utilities\l/blockchain_export.cpp" alt="" coords="738,273,894,315"/>
+<area shape="rect" id="node9" href="$dd/dc5/blockchain__utilities_8h.html" title="src/blockchain_utilities\l/blockchain_utilities.h" alt="" coords="624,87,779,129"/>
+<area shape="rect" id="node10" href="$d4/d72/blocksdat__file_8h.html" title="src/blockchain_utilities\l/blocksdat_file.h" alt="" coords="853,184,1008,225"/>
+<area shape="rect" id="node12" href="$d2/d00/blockchain__prune_8cpp.html" title="src/blockchain_utilities\l/blockchain_prune.cpp" alt="" coords="904,87,1059,129"/>
+<area shape="rect" id="node13" href="$da/d69/blockchain__prune__known__spent__data_8cpp.html" title="src/blockchain_utilities\l/blockchain_prune_known\l_spent_data.cpp" alt="" coords="1083,80,1255,136"/>
+<area shape="rect" id="node14" href="$d2/dc3/blockchain__stats_8cpp.html" title="src/blockchain_utilities\l/blockchain_stats.cpp" alt="" coords="1280,87,1435,129"/>
+<area shape="rect" id="node15" href="$d4/d6f/blockchain__usage_8cpp.html" title="src/blockchain_utilities\l/blockchain_usage.cpp" alt="" coords="1459,87,1613,129"/>
+<area shape="rect" id="node16" href="$d8/db3/cryptonote__core_8cpp.html" title="src/cryptonote_core\l/cryptonote_core.cpp" alt="" coords="1637,87,1781,129"/>
+<area shape="rect" id="node17" href="$de/d78/command__server_8cpp.html" title="src/daemon/command\l_server.cpp" alt="" coords="1806,87,1957,129"/>
+<area shape="rect" id="node18" href="$dc/d69/src_2daemon_2daemon_8cpp.html" title="src/daemon/daemon.cpp" alt="" coords="1981,95,2147,121"/>
+<area shape="rect" id="node19" href="$d4/d82/executor_8cpp.html" title="src/daemon/executor.cpp" alt="" coords="2171,95,2341,121"/>
+<area shape="rect" id="node20" href="$d2/d66/src_2daemon_2main_8cpp.html" title="src/daemon/main.cpp" alt="" coords="2365,95,2512,121"/>
+<area shape="rect" id="node21" href="$dc/db1/cn__deserialize_8cpp.html" title="src/debug_utilities\l/cn_deserialize.cpp" alt="" coords="2537,87,2671,129"/>
+<area shape="rect" id="node22" href="$d6/d91/dns__checks_8cpp.html" title="src/debug_utilities\l/dns_checks.cpp" alt="" coords="2695,87,2822,129"/>
+<area shape="rect" id="node23" href="$d6/d96/device__ledger_8cpp.html" title="src/device/device_ledger.cpp" alt="" coords="2846,95,3037,121"/>
+<area shape="rect" id="node24" href="$d4/d25/protocol_8cpp.html" title="src/device_trezor/trezor\l/protocol.cpp" alt="" coords="3061,87,3219,129"/>
+<area shape="rect" id="node25" href="$de/d31/gen__ssl__cert_8cpp.html" title="src/gen_ssl_cert/gen\l_ssl_cert.cpp" alt="" coords="3243,87,3386,129"/>
+<area shape="rect" id="node26" href="$d2/d65/net__node_8inl.html" title="src/p2p/net_node.inl" alt="" coords="3461,95,3600,121"/>
+<area shape="rect" id="node28" href="$d3/d71/core__proxy_8cpp.html" title="tests/core_proxy/core\l_proxy.cpp" alt="" coords="3273,184,3421,225"/>
+<area shape="rect" id="node31" href="$df/dde/core__rpc__server_8cpp.html" title="src/rpc/core_rpc_server.cpp" alt="" coords="3624,95,3808,121"/>
+<area shape="rect" id="node32" href="$df/d2e/daemon__handler_8cpp.html" title="src/rpc/daemon_handler.cpp" alt="" coords="3832,95,4019,121"/>
+<area shape="rect" id="node33" href="$d2/d58/src_2rpc_2rpc__version__str_8cpp.html" title="src/rpc/rpc_version\l_str.cpp" alt="" coords="4043,87,4176,129"/>
+<area shape="rect" id="node34" href="$d4/d6b/simplewallet_8cpp.html" title="Source file that defines simple_wallet class. " alt="" coords="4201,95,4418,121"/>
+<area shape="rect" id="node35" href="$d9/d37/wallet__manager_8cpp.html" title="src/wallet/api/wallet\l_manager.cpp" alt="" coords="4442,87,4579,129"/>
+<area shape="rect" id="node36" href="$dd/d12/wallet__args_8cpp.html" title="src/wallet/wallet_args.cpp" alt="" coords="4604,95,4777,121"/>
+<area shape="rect" id="node37" href="$d9/d54/wallet__rpc__server_8cpp.html" title="src/wallet/wallet_rpc\l_server.cpp" alt="" coords="4801,87,4943,129"/>
+<area shape="rect" id="node38" href="$d6/dea/tests_2trezor_2daemon_8h.html" title="tests/trezor/daemon.h" alt="" coords="4871,191,5020,218"/>
+<area shape="rect" id="node42" href="$d5/da5/tools_8h.html" title="tests/trezor/tools.h" alt="" coords="5017,95,5148,121"/>
+<area shape="rect" id="node44" href="$df/d20/tests_2unit__tests_2rpc__version__str_8cpp.html" title="tests/unit_tests/rpc\l_version_str.cpp" alt="" coords="5173,87,5307,129"/>
+<area shape="rect" id="node7" href="$da/d0e/blockchain__import_8cpp.html" title="src/blockchain_utilities\l/blockchain_import.cpp" alt="" coords="378,273,534,315"/>
+<area shape="rect" id="node8" href="$d2/da5/bootstrap__file_8cpp.html" title="src/blockchain_utilities\l/bootstrap_file.cpp" alt="" coords="559,273,713,315"/>
+<area shape="rect" id="node11" href="$d9/d30/blocksdat__file_8cpp.html" title="src/blockchain_utilities\l/blocksdat_file.cpp" alt="" coords="919,273,1073,315"/>
+<area shape="rect" id="node27" href="$d7/dcc/instanciations_8cpp.html" title="src/rpc/instanciations.cpp" alt="" coords="3445,191,3616,218"/>
+<area shape="rect" id="node29" href="$d2/dd4/tests_2unit__tests_2main_8cpp.html" title="tests/unit_tests/main.cpp" alt="" coords="3641,191,3810,218"/>
+<area shape="rect" id="node30" href="$de/d56/node__server_8cpp.html" title="tests/unit_tests/node\l_server.cpp" alt="" coords="3835,184,3979,225"/>
+<area shape="rect" id="node39" href="$d3/d11/tests_2trezor_2daemon_8cpp.html" title="tests/trezor/daemon.cpp" alt="" coords="5028,281,5191,307"/>
+<area shape="rect" id="node40" href="$d4/d89/trezor__tests_8h.html" title="tests/trezor/trezor\l_tests.h" alt="" coords="4879,273,5004,315"/>
+<area shape="rect" id="node41" href="$da/d6c/trezor__tests_8cpp.html" title="tests/trezor/trezor\l_tests.cpp" alt="" coords="5021,363,5147,404"/>
+<area shape="rect" id="node43" href="$d3/d62/tools_8cpp.html" title="tests/trezor/tools.cpp" alt="" coords="5045,191,5190,218"/>
+</map>

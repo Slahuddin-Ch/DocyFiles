@@ -1,0 +1,10 @@
+<map id="src/crypto/crypto_ops_builder/include/sodium/randombytes.h" name="src/crypto/crypto_ops_builder/include/sodium/randombytes.h">
+<area shape="rect" id="node2" href="$df/d8c/amd64-51-30k_2batch_8c.html" title="external/supercop/crypto\l_sign/ed25519/amd64&#45;51\l&#45;30k/batch.c" alt="" coords="5,109,172,165"/>
+<area shape="rect" id="node3" href="$dd/dc6/external_2supercop_2crypto__sign_2ed25519_2amd64-51-30k_2keypair_8c.html" title="external/supercop/crypto\l_sign/ed25519/amd64&#45;51\l&#45;30k/keypair.c" alt="" coords="196,109,363,165"/>
+<area shape="rect" id="node4" href="$df/dad/amd64-64-24k_2batch_8c.html" title="external/supercop/crypto\l_sign/ed25519/amd64&#45;64\l&#45;24k/batch.c" alt="" coords="387,109,553,165"/>
+<area shape="rect" id="node5" href="$d5/d6b/external_2supercop_2crypto__sign_2ed25519_2amd64-64-24k_2keypair_8c.html" title="external/supercop/crypto\l_sign/ed25519/amd64&#45;64\l&#45;24k/keypair.c" alt="" coords="577,109,744,165"/>
+<area shape="rect" id="node6" href="$d6/d3c/sodium_8h.html" title="src/crypto/crypto_ops\l_builder/include/sodium.h" alt="" coords="768,117,937,158"/>
+<area shape="rect" id="node8" href="$d7/dbd/src_2crypto_2crypto__ops__builder_2ref10_2keypair_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/keypair.c" alt="" coords="962,117,1119,158"/>
+<area shape="rect" id="node9" href="$d9/d9a/src_2crypto_2crypto__ops__builder_2ref10CommentedCombined_2keypair_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/keypair.c" alt="" coords="1144,109,1375,165"/>
+<area shape="rect" id="node7" href="$d4/d25/protocol_8cpp.html" title="src/device_trezor/trezor\l/protocol.cpp" alt="" coords="773,213,932,255"/>
+</map>

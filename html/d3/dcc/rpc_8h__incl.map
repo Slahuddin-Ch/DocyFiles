@@ -1,0 +1,34 @@
+<map id="src/daemon/rpc.h" name="src/daemon/rpc.h">
+<area shape="rect" id="node2" href="$d8/dd6/core__rpc__server_8h.html" title="rpc/core_rpc_server.h" alt="" coords="3250,80,3398,107"/>
+<area shape="rect" id="node6" href="$d0/d25/bootstrap__daemon_8h.html" title="bootstrap_daemon.h" alt="" coords="1953,169,2093,196"/>
+<area shape="rect" id="node14" href="$d9/df2/http__client_8h.html" title="net/http_client.h" alt="" coords="1148,370,1263,397"/>
+<area shape="rect" id="node33" href="$d1/d3f/http__server__impl__base_8h.html" title="net/http_server_impl\l_base.h" alt="" coords="2311,162,2451,203"/>
+<area shape="rect" id="node38" href="$dd/daf/core__rpc__server__commands__defs_8h.html" title="core_rpc_server_commands\l_defs.h" alt="" coords="3040,162,3227,203"/>
+<area shape="rect" id="node46" href="$df/d35/cryptonote__core_8h.html" title="cryptonote_core/cryptonote\l_core.h" alt="" coords="3882,162,4062,203"/>
+<area shape="rect" id="node48" href="$db/d3a/net__node_8h.html" title="p2p/net_node.h" alt="" coords="3269,169,3379,196"/>
+<area shape="rect" id="node49" href="$d0/d81/cryptonote__protocol__handler_8h.html" title="This is the original cryptonote protocol network&#45;events handler, modified by us. " alt="" coords="3403,155,3543,211"/>
+<area shape="rect" id="node50" href="$de/dc1/rpc__payment_8h.html" title="rpc_payment.h" alt="" coords="2585,273,2693,300"/>
+<area shape="rect" id="node13" href="$dd/d56/http_8h.html" title="net/http.h" alt="" coords="1525,273,1603,300"/>
+<area shape="rect" id="node30" href="$db/def/http__abstract__invoke_8h.html" title="storages/http_abstract\l_invoke.h" alt="" coords="219,452,371,493"/>
+<area shape="rect" id="node32" href="$d2/db5/bootstrap__node__selector_8h.html" title="bootstrap_node_selector.h" alt="" coords="1873,273,2047,300"/>
+<area shape="rect" id="node20" href="$d7/dce/net__helper_8h.html" title="net_helper.h" alt="" coords="512,549,605,575"/>
+<area shape="rect" id="node21" href="$d2/d0c/http__client__base_8h.html" title="http_client_base.h" alt="" coords="821,459,949,486"/>
+<area shape="rect" id="node22" href="$d4/d3e/string__tools_8h.html" title="string_tools.h" alt="" coords="43,459,143,486"/>
+<area shape="rect" id="node23" href="$de/d2e/string__tools__lexical_8h.html" title="string_tools_lexical.h" alt="" coords="973,459,1117,486"/>
+<area shape="rect" id="node24" href="$d0/dde/reg__exp__definer_8h.html" title="reg_exp_definer.h" alt="" coords="1696,459,1821,486"/>
+<area shape="rect" id="node25" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="2067,549,2146,575"/>
+<area shape="rect" id="node26" href="$d4/d4a/abstract__http__client_8h.html" title="abstract_http_client.h" alt="" coords="1424,459,1571,486"/>
+<area shape="rect" id="node27" href="$d5/dc8/http__auth_8h.html" title="http_auth.h" alt="" coords="1297,549,1383,575"/>
+<area shape="rect" id="node28" href="$da/d94/http__base_8h.html" title="http_base.h" alt="" coords="708,631,799,657"/>
+<area shape="rect" id="node29" href="$d0/d66/net__parse__helpers_8h.html" title="net_parse_helpers.h" alt="" coords="795,549,933,575"/>
+<area shape="rect" id="node31" href="$dc/d15/http__server__handlers__map2_8h.html" title="net/http_server_handlers\l_map2.h" alt="" coords="323,541,488,583"/>
+<area shape="rect" id="node36" href="$d5/d26/abstract__tcp__server2_8h.html" title="the connection templated&#45;class for one peer connection " alt="" coords="2383,273,2561,300"/>
+<area shape="rect" id="node37" href="$db/db3/http__protocol__handler_8h.html" title="http_protocol_handler.h" alt="" coords="1243,459,1400,486"/>
+<area shape="rect" id="node39" href="$d7/d49/cryptonote__protocol__defs_8h.html" title="cryptonote_protocol\l/cryptonote_protocol\l_defs.h" alt="" coords="3063,259,3203,315"/>
+<area shape="rect" id="node40" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic/cryptonote\l_basic.h" alt="" coords="2756,363,2943,404"/>
+<area shape="rect" id="node41" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="3080,459,3141,486"/>
+<area shape="rect" id="node42" href="$de/dbb/difficulty_8h.html" title="cryptonote_basic/difficulty.h" alt="" coords="3018,370,3203,397"/>
+<area shape="rect" id="node43" href="$d3/d0f/rpc__handler_8h.html" title="rpc/rpc_handler.h" alt="" coords="2609,370,2732,397"/>
+<area shape="rect" id="node44" href="$d6/dd0/varint_8h.html" title="provides the implementation of varint&#39;s " alt="" coords="3126,631,3245,657"/>
+<area shape="rect" id="node45" href="$d0/d9e/perf__timer_8h.html" title="common/perf_timer.h" alt="" coords="3381,273,3526,300"/>
+</map>

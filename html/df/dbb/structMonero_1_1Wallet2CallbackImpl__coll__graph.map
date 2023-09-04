@@ -1,0 +1,6 @@
+<map id="Monero::Wallet2CallbackImpl" name="Monero::Wallet2CallbackImpl">
+<area shape="rect" id="node2" href="$d1/db4/classtools_1_1i__wallet2__callback.html" title="tools::i_wallet2_callback" alt="" coords="5,81,169,108"/>
+<area shape="rect" id="node3" href="$dc/d08/classMonero_1_1WalletImpl.html" title="Monero::WalletImpl" alt="" coords="193,81,328,108"/>
+<area shape="rect" id="node4" href="$d0/d86/structMonero_1_1Wallet.html" title="Interface for wallet operations. " alt="" coords="205,5,316,32"/>
+<area shape="rect" id="node5" href="$d9/d40/structMonero_1_1WalletListener.html" title="Monero::WalletListener" alt="" coords="352,81,508,108"/>
+</map>

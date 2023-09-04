@@ -1,0 +1,7 @@
+<map id="randomx_vm" name="randomx_vm">
+<area shape="rect" id="node2" href="$d0/d3a/classrandomx_1_1VmBase.html" title="randomx::VmBase\&lt; Allocator,\l softAes \&gt;" alt="" coords="151,39,348,80"/>
+<area shape="rect" id="node3" href="$d6/dbf/classrandomx_1_1CompiledVm.html" title="randomx::CompiledVm\l\&lt; Allocator, softAes \&gt;" alt="" coords="400,5,555,47"/>
+<area shape="rect" id="node5" href="$d7/d72/classrandomx_1_1InterpretedVm.html" title="randomx::InterpretedVm\l\&lt; Allocator, softAes \&gt;" alt="" coords="396,71,559,112"/>
+<area shape="rect" id="node4" href="$db/daa/classrandomx_1_1CompiledLightVm.html" title="randomx::CompiledLightVm\l\&lt; Allocator, softAes, secureJit \&gt;" alt="" coords="607,5,817,47"/>
+<area shape="rect" id="node6" href="$d5/d3b/classrandomx_1_1InterpretedLightVm.html" title="randomx::InterpretedLight\lVm\&lt; Allocator, softAes \&gt;" alt="" coords="627,71,797,112"/>
+</map>

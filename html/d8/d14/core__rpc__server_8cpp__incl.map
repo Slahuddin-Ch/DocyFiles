@@ -1,0 +1,38 @@
+<map id="src/rpc/core_rpc_server.cpp" name="src/rpc/core_rpc_server.cpp">
+<area shape="rect" id="node5" href="$d5/dcc/include__base__utils_8h.html" title="include_base_utils.h" alt="" coords="2195,355,2335,382"/>
+<area shape="rect" id="node7" href="$d4/d3e/string__tools_8h.html" title="string_tools.h" alt="" coords="1035,355,1135,382"/>
+<area shape="rect" id="node15" href="$d8/dd6/core__rpc__server_8h.html" title="core_rpc_server.h" alt="" coords="1263,87,1390,114"/>
+<area shape="rect" id="node21" href="$db/def/http__abstract__invoke_8h.html" title="storages/http_abstract\l_invoke.h" alt="" coords="1485,437,1637,479"/>
+<area shape="rect" id="node25" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="2059,355,2120,382"/>
+<area shape="rect" id="node27" href="$d3/d0f/rpc__handler_8h.html" title="rpc/rpc_handler.h" alt="" coords="2187,273,2309,300"/>
+<area shape="rect" id="node28" href="$d0/d9e/perf__timer_8h.html" title="common/perf_timer.h" alt="" coords="1915,273,2061,300"/>
+<area shape="rect" id="node30" href="$dc/dfd/download_8h.html" title="common/download.h" alt="" coords="2486,273,2629,300"/>
+<area shape="rect" id="node31" href="$d8/dfd/command__line_8h.html" title="common/command_line.h" alt="" coords="396,273,567,300"/>
+<area shape="rect" id="node32" href="$db/d3a/net__node_8h.html" title="p2p/net_node.h" alt="" coords="607,184,718,211"/>
+<area shape="rect" id="node35" href="$d9/da8/updates_8h.html" title="common/updates.h" alt="" coords="2957,355,3091,382"/>
+<area shape="rect" id="node36" href="$d2/db6/common_2util_8h.html" title="common/util.h" alt="" coords="1685,273,1789,300"/>
+<area shape="rect" id="node37" href="$d5/d78/int-util_8h.html" title="int&#45;util.h" alt="" coords="3249,184,3317,211"/>
+<area shape="rect" id="node38" href="$d1/d9a/cryptonote__format__utils_8h.html" title="cryptonote_basic/cryptonote\l_format_utils.h" alt="" coords="2301,80,2488,121"/>
+<area shape="rect" id="node39" href="$d3/d11/cryptonote__basic__impl_8h.html" title="cryptonote_basic/cryptonote\l_basic_impl.h" alt="" coords="2173,177,2360,218"/>
+<area shape="rect" id="node40" href="$de/d26/account_8h.html" title="account.h" alt="" coords="2486,184,2565,211"/>
+<area shape="rect" id="node41" href="$db/d23/merge__mining_8h.html" title="cryptonote_basic/merge\l_mining.h" alt="" coords="2715,80,2877,121"/>
+<area shape="rect" id="node42" href="$d7/d52/tx__sanity__check_8h.html" title="cryptonote_core/tx\l_sanity_check.h" alt="" coords="2901,80,3032,121"/>
+<area shape="rect" id="node43" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="3056,87,3176,114"/>
+<area shape="rect" id="node44" href="$d4/de5/local__ip_8h.html" title="net/local_ip.h" alt="" coords="3200,87,3299,114"/>
+<area shape="rect" id="node45" href="$d4/d2b/parse_8h.html" title="net/parse.h" alt="" coords="563,445,650,471"/>
+<area shape="rect" id="node46" href="$d0/d63/rpc__args_8h.html" title="rpc/rpc_args.h" alt="" coords="306,184,411,211"/>
+<area shape="rect" id="node47" href="$dc/dcf/rpc__payment__costs_8h.html" title="rpc/rpc_payment_costs.h" alt="" coords="3425,87,3594,114"/>
+<area shape="rect" id="node48" href="$df/da1/rpc__payment__signature_8h.html" title="rpc/rpc_payment_signature.h" alt="" coords="3177,445,3367,471"/>
+<area shape="rect" id="node49" href="$d9/d27/core__rpc__server__error__codes_8h.html" title="core_rpc_server_error\l_codes.h" alt="" coords="3670,80,3818,121"/>
+<area shape="rect" id="node50" href="$df/dfc/version_8h.html" title="version.h" alt="" coords="3843,87,3917,114"/>
+<area shape="rect" id="node6" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="2111,445,2217,471"/>
+<area shape="rect" id="node8" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="1355,445,1410,471"/>
+<area shape="rect" id="node13" href="$d5/df4/mlocker_8h.html" title="mlocker.h" alt="" coords="1054,445,1133,471"/>
+<area shape="rect" id="node19" href="$d0/d25/bootstrap__daemon_8h.html" title="bootstrap_daemon.h" alt="" coords="1287,273,1427,300"/>
+<area shape="rect" id="node22" href="$d1/d3f/http__server__impl__base_8h.html" title="net/http_server_impl\l_base.h" alt="" coords="1202,177,1342,218"/>
+<area shape="rect" id="node23" href="$d9/df2/http__client_8h.html" title="net/http_client.h" alt="" coords="1047,273,1161,300"/>
+<area shape="rect" id="node24" href="$dd/daf/core__rpc__server__commands__defs_8h.html" title="core_rpc_server_commands\l_defs.h" alt="" coords="1861,177,2048,218"/>
+<area shape="rect" id="node29" href="$df/d35/cryptonote__core_8h.html" title="cryptonote_core/cryptonote\l_core.h" alt="" coords="946,177,1126,218"/>
+<area shape="rect" id="node33" href="$d0/d81/cryptonote__protocol__handler_8h.html" title="This is the original cryptonote protocol network&#45;events handler, modified by us. " alt="" coords="1469,169,1609,225"/>
+<area shape="rect" id="node34" href="$de/dc1/rpc__payment_8h.html" title="rpc_payment.h" alt="" coords="1451,273,1559,300"/>
+</map>

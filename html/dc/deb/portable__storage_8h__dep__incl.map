@@ -1,0 +1,51 @@
+<map id="contrib/epee/include/storages/portable_storage.h" name="contrib/epee/include/storages/portable_storage.h">
+<area shape="rect" id="node2" href="$dc/d15/http__server__handlers__map2_8h.html" title="contrib/epee/include\l/net/http_server_handlers\l_map2.h" alt="" coords="1311,199,1480,255"/>
+<area shape="rect" id="node32" href="$dd/de8/portable__storage__template__helper_8h.html" title="contrib/epee/include\l/storages/portable_storage\l_template_helper.h" alt="" coords="1777,95,1953,151"/>
+<area shape="rect" id="node46" href="$df/de2/portable__storage_8cpp.html" title="contrib/epee/src/portable\l_storage.cpp" alt="" coords="1977,102,2142,143"/>
+<area shape="rect" id="node47" href="$d6/dd6/i2p__address_8cpp.html" title="src/net/i2p_address.cpp" alt="" coords="2167,109,2328,136"/>
+<area shape="rect" id="node48" href="$de/d39/tor__address_8cpp.html" title="src/net/tor_address.cpp" alt="" coords="2352,109,2511,136"/>
+<area shape="rect" id="node49" href="$d2/d0d/epee__serialization_8cpp.html" title="tests/unit_tests/epee\l_serialization.cpp" alt="" coords="2535,102,2679,143"/>
+<area shape="rect" id="node50" href="$dd/d84/net_8cpp.html" title="tests/unit_tests/net.cpp" alt="" coords="2704,109,2863,136"/>
+<area shape="rect" id="node3" href="$d1/d3f/http__server__impl__base_8h.html" title="contrib/epee/include\l/net/http_server_impl\l_base.h" alt="" coords="1191,303,1335,359"/>
+<area shape="rect" id="node27" href="$db/def/http__abstract__invoke_8h.html" title="contrib/epee/include\l/storages/http_abstract\l_invoke.h" alt="" coords="1317,496,1473,552"/>
+<area shape="rect" id="node4" href="$d8/dd6/core__rpc__server_8h.html" title="src/rpc/core_rpc_server.h" alt="" coords="1873,697,2043,723"/>
+<area shape="rect" id="node11" href="$d0/dd5/message__transporter_8h.html" title="src/wallet/message\l_transporter.h" alt="" coords="827,407,961,448"/>
+<area shape="rect" id="node24" href="$dc/de0/wallet__rpc__server_8h.html" title="src/wallet/wallet_rpc\l_server.h" alt="" coords="1042,689,1183,731"/>
+<area shape="rect" id="node5" href="$d6/d61/command__parser__executor_8h.html" title="src/daemon/command\l_parser_executor.h" alt="" coords="1617,868,1768,909"/>
+<area shape="rect" id="node6" href="$d2/d66/src_2daemon_2main_8cpp.html" title="src/daemon/main.cpp" alt="" coords="2325,786,2471,813"/>
+<area shape="rect" id="node7" href="$d0/d44/rpc_8h.html" title="src/daemon/rpc.h" alt="" coords="1955,786,2078,813"/>
+<area shape="rect" id="node8" href="$d3/d65/rpc__command__executor_8h.html" title="src/daemon/rpc_command\l_executor.h" alt="" coords="1542,779,1718,820"/>
+<area shape="rect" id="node9" href="$df/dde/core__rpc__server_8cpp.html" title="src/rpc/core_rpc_server.cpp" alt="" coords="2102,786,2286,813"/>
+<area shape="rect" id="node10" href="$d9/dec/transfers_8cpp.html" title="tests/daemon_tests\l/transfers.cpp" alt="" coords="1793,779,1931,820"/>
+<area shape="rect" id="node12" href="$d1/dab/message__store_8h.html" title="src/wallet/message\l_store.h" alt="" coords="555,503,689,545"/>
+<area shape="rect" id="node26" href="$d5/d3d/message__transporter_8cpp.html" title="src/wallet/message\l_transporter.cpp" alt="" coords="827,503,961,545"/>
+<area shape="rect" id="node13" href="$d4/d6b/simplewallet_8cpp.html" title="Source file that defines simple_wallet class. " alt="" coords="808,786,1025,813"/>
+<area shape="rect" id="node14" href="$da/d1c/message__store_8cpp.html" title="src/wallet/message\l_store.cpp" alt="" coords="475,600,609,641"/>
+<area shape="rect" id="node15" href="$df/d3f/wallet2_8h.html" title="src/wallet/wallet2.h" alt="" coords="633,607,768,634"/>
+<area shape="rect" id="node16" href="$da/de8/object__sizes_8cpp.html" title="src/debug_utilities\l/object_sizes.cpp" alt="" coords="1263,779,1389,820"/>
+<area shape="rect" id="node17" href="$de/dd5/device__cold_8hpp.html" title="src/device/device_cold.hpp" alt="" coords="611,697,791,723"/>
+<area shape="rect" id="node18" href="$d8/dd1/protocol_8hpp.html" title="src/device_trezor/trezor\l/protocol.hpp" alt="" coords="421,779,580,820"/>
+<area shape="rect" id="node19" href="$d4/d44/gen__multisig_8cpp.html" title="Generates a set of multisig wallets. " alt="" coords="272,689,415,731"/>
+<area shape="rect" id="node20" href="$d6/d17/simplewallet_8h.html" title="Header file that declares simple_wallet class. " alt="" coords="815,697,1018,723"/>
+<area shape="rect" id="node21" href="$d7/d21/address__book_8h.html" title="src/wallet/api/address\l_book.h" alt="" coords="47,689,197,731"/>
+<area shape="rect" id="node22" href="$da/dcd/address__book_8cpp.html" title="src/wallet/api/address\l_book.cpp" alt="" coords="47,779,197,820"/>
+<area shape="rect" id="node23" href="$d0/df4/wallet_8h.html" title="src/wallet/api/wallet.h" alt="" coords="439,697,587,723"/>
+<area shape="rect" id="node25" href="$d9/d54/wallet__rpc__server_8cpp.html" title="src/wallet/wallet_rpc\l_server.cpp" alt="" coords="1050,779,1191,820"/>
+<area shape="rect" id="node28" href="$d4/d4a/rpc__client_8h.html" title="src/common/rpc_client.h" alt="" coords="1410,697,1575,723"/>
+<area shape="rect" id="node29" href="$d0/d25/bootstrap__daemon_8h.html" title="src/rpc/bootstrap_daemon.h" alt="" coords="1737,607,1921,634"/>
+<area shape="rect" id="node31" href="$db/d7d/node__rpc__proxy_8cpp.html" title="src/wallet/node_rpc\l_proxy.cpp" alt="" coords="1353,600,1488,641"/>
+<area shape="rect" id="node30" href="$db/da6/bootstrap__daemon_8cpp.html" title="src/rpc/bootstrap_daemon.cpp" alt="" coords="1600,697,1799,723"/>
+<area shape="rect" id="node33" href="$df/d66/levin__abstract__invoke2_8h.html" title="contrib/epee/include\l/storages/levin_abstract\l_invoke2.h" alt="" coords="2361,496,2523,552"/>
+<area shape="rect" id="node40" href="$d3/dac/src_2checkpoints_2checkpoints_8cpp.html" title="src/checkpoints/checkpoints.cpp" alt="" coords="1555,213,1769,240"/>
+<area shape="rect" id="node42" href="$d6/de3/miner_8cpp.html" title="src/cryptonote_basic\l/miner.cpp" alt="" coords="1793,206,1936,247"/>
+<area shape="rect" id="node43" href="$d4/dc2/load__from__binary_8cpp.html" title="tests/fuzz/load_from\l_binary.cpp" alt="" coords="1961,206,2102,247"/>
+<area shape="rect" id="node44" href="$d0/dfd/load__from__json_8cpp.html" title="tests/fuzz/load_from\l_json.cpp" alt="" coords="2126,206,2267,247"/>
+<area shape="rect" id="node45" href="$dd/d10/test__protocol__pack_8cpp.html" title="tests/unit_tests/test\l_protocol_pack.cpp" alt="" coords="2291,206,2430,247"/>
+<area shape="rect" id="node34" href="$d0/d81/cryptonote__protocol__handler_8h.html" title="This is the original cryptonote protocol network&#45;events handler, modified by us. " alt="" coords="1513,600,1713,641"/>
+<area shape="rect" id="node35" href="$db/d3a/net__node_8h.html" title="src/p2p/net_node.h" alt="" coords="2375,607,2509,634"/>
+<area shape="rect" id="node36" href="$d2/d65/net__node_8inl.html" title="src/p2p/net_node.inl" alt="" coords="2533,607,2671,634"/>
+<area shape="rect" id="node37" href="$df/dd9/fuzz_2levin_8cpp.html" title="tests/fuzz/levin.cpp" alt="" coords="2695,607,2831,634"/>
+<area shape="rect" id="node38" href="$d0/d00/clt_8cpp.html" title="tests/net_load_tests\l/clt.cpp" alt="" coords="2047,600,2187,641"/>
+<area shape="rect" id="node39" href="$dd/daa/srv_8cpp.html" title="tests/net_load_tests\l/srv.cpp" alt="" coords="2211,600,2351,641"/>
+<area shape="rect" id="node41" href="$d1/d73/tests_2unit__tests_2checkpoints_8cpp.html" title="tests/unit_tests/checkpoints.cpp" alt="" coords="1557,317,1767,344"/>
+</map>

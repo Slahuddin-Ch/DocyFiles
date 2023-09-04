@@ -1,0 +1,11 @@
+<map id="tools::error::wallet_rpc_error" name="tools::error::wallet_rpc_error">
+<area shape="rect" id="node4" href="$d0/d94/structtools_1_1error_1_1daemon__busy.html" title="tools::error::daemon_busy" alt="" coords="493,5,667,32"/>
+<area shape="rect" id="node5" href="$d3/d5e/structtools_1_1error_1_1get__histogram__error.html" title="tools::error::get_histogram\l_error" alt="" coords="493,57,667,98"/>
+<area shape="rect" id="node6" href="$d6/d8f/structtools_1_1error_1_1get__output__distribution.html" title="tools::error::get_output\l_distribution" alt="" coords="503,122,657,163"/>
+<area shape="rect" id="node7" href="$d0/da1/structtools_1_1error_1_1is__key__image__spent__error.html" title="tools::error::is_key\l_image_spent_error" alt="" coords="512,187,648,229"/>
+<area shape="rect" id="node8" href="$df/dcb/structtools_1_1error_1_1no__connection__to__daemon.html" title="tools::error::no_connection\l_to_daemon" alt="" coords="492,253,668,294"/>
+<area shape="rect" id="node9" href="$d9/df9/structtools_1_1error_1_1payment__required.html" title="tools::error::payment\l_required" alt="" coords="509,318,651,359"/>
+<area shape="rect" id="node10" href="$d7/d41/structtools_1_1error_1_1wallet__coded__rpc__error.html" title="tools::error::wallet\l_coded_rpc_error" alt="" coords="517,383,643,425"/>
+<area shape="rect" id="node11" href="$d2/def/structtools_1_1error_1_1wallet__generic__rpc__error.html" title="tools::error::wallet\l_generic_rpc_error" alt="" coords="515,449,645,490"/>
+<area shape="rect" id="node2" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_logic_error" alt="" coords="147,228,269,255"/>
+</map>

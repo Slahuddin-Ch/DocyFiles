@@ -1,0 +1,11 @@
+<map id="MDB_txn" name="MDB_txn">
+<area shape="rect" id="node6" href="$d1/d8b/structMDB__cursor.html" title="MDB_cursor" alt="" coords="121,427,216,453"/>
+<area shape="rect" id="node10" href="$d3/d60/structMDB__env.html" title="MDB_env" alt="" coords="723,427,803,453"/>
+<area shape="rect" id="node2" href="$d2/df9/structMDB__db.html" title="MDB_db" alt="" coords="20,169,93,196"/>
+<area shape="rect" id="node7" href="$d7/dab/structMDB__page.html" title="MDB_page" alt="" coords="308,169,394,196"/>
+<area shape="rect" id="node9" href="$de/d03/structMDB__ID2.html" title="MDB_ID2" alt="" coords="459,169,539,196"/>
+<area shape="rect" id="node11" href="$dd/d4e/structMDB__meta.html" title="MDB_meta" alt="" coords="906,169,994,196"/>
+<area shape="rect" id="node4" href="$d7/d35/structMDB__dbx.html" title="MDB_dbx" alt="" coords="802,169,882,196"/>
+<area shape="rect" id="node8" href="$da/d47/structMDB__reader.html" title="MDB_reader" alt="" coords="622,169,717,196"/>
+<area shape="rect" id="node12" href="$d5/dcb/structMDB__txninfo.html" title="MDB_txninfo" alt="" coords="1144,252,1243,279"/>
+</map>

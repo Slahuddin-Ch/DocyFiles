@@ -1,0 +1,5 @@
+<map id="tools::error::mms_error" name="tools::error::mms_error">
+<area shape="rect" id="node4" href="$dd/dbc/structtools_1_1error_1_1bitmessage__api__error.html" title="tools::error::bitmessage\l_api_error" alt="" coords="5,229,164,271"/>
+<area shape="rect" id="node5" href="$d8/d72/structtools_1_1error_1_1no__connection__to__bitmessage.html" title="tools::error::no_connection\l_to_bitmessage" alt="" coords="189,229,365,271"/>
+<area shape="rect" id="node2" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_logic_error" alt="" coords="119,80,242,107"/>
+</map>

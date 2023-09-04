@@ -1,0 +1,9 @@
+<map id="src/crypto/crypto_ops_builder/include/sodium/crypto_uint32.h" name="src/crypto/crypto_ops_builder/include/sodium/crypto_uint32.h">
+<area shape="rect" id="node2" href="$d2/dcc/ge__scalarmult__base_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/ge_scalarmult\l_base.c" alt="" coords="5,109,191,165"/>
+<area shape="rect" id="node3" href="$d1/d9e/sc__muladd_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/sc_muladd.c" alt="" coords="215,117,394,158"/>
+<area shape="rect" id="node4" href="$d5/d85/sc__reduce_8c.html" title="src/crypto/crypto_ops\l_builder/ref10/sc_reduce.c" alt="" coords="419,117,593,158"/>
+<area shape="rect" id="node5" href="$d3/dcb/ommentedCombined_2ge__scalarmult__base_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/ge_scalarmult_base.c" alt="" coords="617,109,848,165"/>
+<area shape="rect" id="node6" href="$d1/dcd/ommentedCombined_2sc__muladd_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/sc_muladd.c" alt="" coords="872,109,1103,165"/>
+<area shape="rect" id="node7" href="$d4/d1a/ommentedCombined_2sc__reduce_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/sc_reduce.c" alt="" coords="1127,109,1357,165"/>
+<area shape="rect" id="node8" href="$db/d5e/sc__sub_8xmr_8c.html" title="src/crypto/crypto_ops\l_builder/ref10CommentedCombined\l/sc_sub.xmr.c" alt="" coords="1381,109,1612,165"/>
+</map>

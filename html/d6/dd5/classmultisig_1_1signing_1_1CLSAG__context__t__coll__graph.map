@@ -1,0 +1,5 @@
+<map id="multisig::signing::CLSAG_context_t" name="multisig::signing::CLSAG_context_t">
+<area shape="rect" id="node2" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="5,95,72,121"/>
+<area shape="rect" id="node3" href="$d5/db6/structrct_1_1geDsmp.html" title="rct::geDsmp" alt="" coords="97,95,191,121"/>
+<area shape="rect" id="node4" href="$d3/d4e/structge__cached.html" title="ge_cached" alt="" coords="101,5,187,32"/>
+</map>

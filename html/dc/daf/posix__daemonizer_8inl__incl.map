@@ -1,0 +1,22 @@
+<map id="src/daemonizer/posix_daemonizer.inl" name="src/daemonizer/posix_daemonizer.inl">
+<area shape="rect" id="node2" href="$d9/dc2/scoped__message__writer_8h.html" title="common/scoped_message\l_writer.h" alt="" coords="60,95,239,136"/>
+<area shape="rect" id="node5" href="$d2/db6/common_2util_8h.html" title="common/util.h" alt="" coords="1019,102,1123,129"/>
+<area shape="rect" id="node48" href="$da/d06/posix__fork_8h.html" title="daemonizer/posix_fork.h" alt="" coords="1147,102,1311,129"/>
+<area shape="rect" id="node3" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="5,184,112,211"/>
+<area shape="rect" id="node15" href="$db/dfb/hash_8h.html" title="crypto/hash.h" alt="" coords="1124,184,1225,211"/>
+<area shape="rect" id="node45" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="1447,184,1583,211"/>
+<area shape="rect" id="node17" href="$db/d68/pod-class_8h.html" title="common/pod&#45;class.h" alt="" coords="1269,259,1411,285"/>
+<area shape="rect" id="node18" href="$d3/d3f/generic-ops_8h.html" title="generic&#45;ops.h" alt="" coords="974,259,1074,285"/>
+<area shape="rect" id="node23" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="1190,259,1245,285"/>
+<area shape="rect" id="node33" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="1079,341,1140,367"/>
+<area shape="rect" id="node36" href="$dc/dce/hash-ops_8h.html" title="hash&#45;ops.h" alt="" coords="471,259,558,285"/>
+<area shape="rect" id="node21" href="$d7/d40/include_2sodium_2crypto__verify__32_8h.html" title="sodium/crypto_verify_32.h" alt="" coords="705,341,879,367"/>
+<area shape="rect" id="node28" href="$d5/de3/wipeable__string_8h.html" title="wipeable_string.h" alt="" coords="1215,341,1337,367"/>
+<area shape="rect" id="node31" href="$d8/d78/memwipe_8h.html" title="memwipe.h" alt="" coords="1295,423,1385,449"/>
+<area shape="rect" id="node32" href="$d0/dfe/fnv1_8h.html" title="fnv1.h" alt="" coords="1409,423,1468,449"/>
+<area shape="rect" id="node38" href="$d9/d5e/stdbool_8h.html" title="stdbool.h" alt="" coords="432,423,507,449"/>
+<area shape="rect" id="node39" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="531,423,597,449"/>
+<area shape="rect" id="node42" href="$d5/d78/int-util_8h.html" title="int&#45;util.h" alt="" coords="299,341,367,367"/>
+<area shape="rect" id="node44" href="$dc/d9e/warnings_8h.html" title="warnings.h" alt="" coords="392,341,477,367"/>
+<area shape="rect" id="node43" href="$da/d66/string_8h.html" title="string.h" alt="" coords="342,423,407,449"/>
+</map>

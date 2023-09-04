@@ -1,0 +1,5 @@
+<map id="hw::trezor::exc::UnexpectedMessageException" name="hw::trezor::exc::UnexpectedMessageException">
+<area shape="rect" id="node2" href="$dc/d1e/classhw_1_1trezor_1_1exc_1_1ProtocolException.html" title="hw::trezor::exc::Protocol\lException" alt="" coords="29,244,194,285"/>
+<area shape="rect" id="node3" href="$d9/d73/classhw_1_1trezor_1_1exc_1_1CommunicationException.html" title="hw::trezor::exc::Communication\lException" alt="" coords="7,155,215,196"/>
+<area shape="rect" id="node4" href="$d6/d7c/classhw_1_1trezor_1_1exc_1_1TrezorException.html" title="hw::trezor::exc::TrezorException" alt="" coords="5,80,217,107"/>
+</map>

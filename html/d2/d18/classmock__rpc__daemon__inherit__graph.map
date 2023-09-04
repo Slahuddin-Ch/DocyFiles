@@ -1,0 +1,5 @@
+<map id="mock_rpc_daemon" name="mock_rpc_daemon">
+<area shape="rect" id="node2" href="$de/d8e/classcryptonote_1_1core__rpc__server.html" title="cryptonote::core_rpc\l_server" alt="" coords="467,20,608,61"/>
+<area shape="rect" id="node3" href="$d6/da3/classepee_1_1http__server__impl__base.html" title="epee::http_server_impl\l_base\&lt; core_rpc_server \&gt;" alt="" coords="244,20,419,61"/>
+<area shape="rect" id="node4" href="$df/ddf/structepee_1_1net__utils_1_1http_1_1i__http__server__handler.html" title="epee::net_utils::http\l::i_http_server_handler\l\&lt; epee::net_utils::connection\l_context_base \&gt;" alt="" coords="5,5,196,76"/>
+</map>

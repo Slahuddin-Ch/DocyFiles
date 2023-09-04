@@ -1,0 +1,5 @@
+<map id="tools::wallet2::tx_scan_info_t" name="tools::wallet2::tx_scan_info_t">
+<area shape="rect" id="node2" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="5,200,72,227"/>
+<area shape="rect" id="node3" href="$dc/d1b/structcryptonote_1_1keypair.html" title="cryptonote::keypair" alt="" coords="96,200,229,227"/>
+<area shape="rect" id="node4" href="$d1/da8/structepee_1_1mlocked.html" title="epee::mlocked\&lt; tools\l::scrubbed\&lt; ec_scalar \&gt; \&gt;" alt="" coords="75,96,250,137"/>
+</map>

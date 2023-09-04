@@ -1,0 +1,12 @@
+<map id="hw::trezor::exc::proto::FailureException" name="hw::trezor::exc::proto::FailureException">
+<area shape="rect" id="node6" href="$d9/d2e/classhw_1_1trezor_1_1exc_1_1proto_1_1CancelledException.html" title="hw::trezor::exc::proto\l::CancelledException" alt="" coords="1113,5,1260,47"/>
+<area shape="rect" id="node7" href="$d3/d34/classhw_1_1trezor_1_1exc_1_1proto_1_1FirmwareErrorException.html" title="hw::trezor::exc::proto\l::FirmwareErrorException" alt="" coords="1101,71,1272,112"/>
+<area shape="rect" id="node8" href="$da/d27/classhw_1_1trezor_1_1exc_1_1proto_1_1InvalidPinException.html" title="hw::trezor::exc::proto\l::InvalidPinException" alt="" coords="1113,136,1260,177"/>
+<area shape="rect" id="node9" href="$dc/d70/classhw_1_1trezor_1_1exc_1_1proto_1_1NotEnoughFundsException.html" title="hw::trezor::exc::proto\l::NotEnoughFundsException" alt="" coords="1092,201,1281,243"/>
+<area shape="rect" id="node10" href="$da/d5c/classhw_1_1trezor_1_1exc_1_1proto_1_1NotInitializedException.html" title="hw::trezor::exc::proto\l::NotInitializedException" alt="" coords="1105,267,1269,308"/>
+<area shape="rect" id="node11" href="$d2/d83/classhw_1_1trezor_1_1exc_1_1proto_1_1PinExpectedException.html" title="hw::trezor::exc::proto\l::PinExpectedException" alt="" coords="1105,332,1268,373"/>
+<area shape="rect" id="node12" href="$d1/d45/classhw_1_1trezor_1_1exc_1_1proto_1_1UnexpectedMessageException.html" title="hw::trezor::exc::proto\l::UnexpectedMessageException" alt="" coords="1081,397,1292,439"/>
+<area shape="rect" id="node2" href="$dc/d1e/classhw_1_1trezor_1_1exc_1_1ProtocolException.html" title="hw::trezor::exc::Protocol\lException" alt="" coords="673,201,839,243"/>
+<area shape="rect" id="node3" href="$d9/d73/classhw_1_1trezor_1_1exc_1_1CommunicationException.html" title="hw::trezor::exc::Communication\lException" alt="" coords="417,201,625,243"/>
+<area shape="rect" id="node4" href="$d6/d7c/classhw_1_1trezor_1_1exc_1_1TrezorException.html" title="hw::trezor::exc::TrezorException" alt="" coords="157,209,369,235"/>
+</map>

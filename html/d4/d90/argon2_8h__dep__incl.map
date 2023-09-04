@@ -1,0 +1,19 @@
+<map id="external/randomx/src/argon2.h" name="external/randomx/src/argon2.h">
+<area shape="rect" id="node2" href="$d2/da3/argon2__avx2_8c.html" title="external/randomx/src\l/argon2_avx2.c" alt="" coords="5,95,149,136"/>
+<area shape="rect" id="node3" href="$d8/d33/argon2__core_8h.html" title="external/randomx/src\l/argon2_core.h" alt="" coords="224,95,368,136"/>
+<area shape="rect" id="node5" href="$d7/dc2/argon2__ref_8c.html" title="external/randomx/src\l/argon2_ref.c" alt="" coords="27,184,171,225"/>
+<area shape="rect" id="node6" href="$dd/d75/dataset_8cpp.html" title="external/randomx/src\l/dataset.cpp" alt="" coords="363,184,507,225"/>
+<area shape="rect" id="node7" href="$d0/d35/argon2__ssse3_8c.html" title="external/randomx/src\l/argon2_ssse3.c" alt="" coords="443,95,587,136"/>
+<area shape="rect" id="node8" href="$dc/d6a/dataset_8hpp.html" title="external/randomx/src\l/dataset.hpp" alt="" coords="872,95,1016,136"/>
+<area shape="rect" id="node4" href="$d6/d13/argon2__core_8c.html" title="external/randomx/src\l/argon2_core.c" alt="" coords="195,184,339,225"/>
+<area shape="rect" id="node9" href="$d4/d69/randomx_8cpp.html" title="external/randomx/src\l/randomx.cpp" alt="" coords="1224,363,1368,404"/>
+<area shape="rect" id="node10" href="$dd/dc1/vm__compiled_8hpp.html" title="external/randomx/src\l/vm_compiled.hpp" alt="" coords="1333,184,1477,225"/>
+<area shape="rect" id="node13" href="$d3/d97/runtime-distr_8cpp.html" title="external/randomx/src\l/tests/runtime&#45;distr.cpp" alt="" coords="1685,273,1841,315"/>
+<area shape="rect" id="node15" href="$d9/d2c/external_2randomx_2src_2tests_2benchmark_8cpp.html" title="external/randomx/src\l/tests/benchmark.cpp" alt="" coords="531,184,679,225"/>
+<area shape="rect" id="node16" href="$d9/d1e/tests_8cpp.html" title="external/randomx/src\l/tests/tests.cpp" alt="" coords="704,184,848,225"/>
+<area shape="rect" id="node17" href="$d4/d2a/vm__interpreted_8cpp.html" title="external/randomx/src\l/vm_interpreted.cpp" alt="" coords="872,184,1016,225"/>
+<area shape="rect" id="node18" href="$d1/d56/vm__interpreted__light_8cpp.html" title="external/randomx/src\l/vm_interpreted_light.cpp" alt="" coords="1040,184,1208,225"/>
+<area shape="rect" id="node11" href="$d8/d69/vm__compiled__light_8hpp.html" title="external/randomx/src\l/vm_compiled_light.hpp" alt="" coords="1502,273,1661,315"/>
+<area shape="rect" id="node14" href="$d9/db3/vm__compiled_8cpp.html" title="external/randomx/src\l/vm_compiled.cpp" alt="" coords="1333,273,1477,315"/>
+<area shape="rect" id="node12" href="$d4/d3c/vm__compiled__light_8cpp.html" title="external/randomx/src\l/vm_compiled_light.cpp" alt="" coords="1502,363,1661,404"/>
+</map>

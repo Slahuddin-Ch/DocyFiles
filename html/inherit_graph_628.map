@@ -1,0 +1,23 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d47/structget__test__options_3_01gen__bpp__tx__validation__base_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_validation_base \&gt;" alt="" coords="5,527,183,569"/>
+<area shape="rect" id="node2" href="$d3/d3e/structget__bpp__versioned__test__options.html" title="get_bpp_versioned_test\l_options\&lt; test_version \&gt;" alt="" coords="284,414,451,455"/>
+<area shape="rect" id="node3" href="$d3/d3e/structget__bpp__versioned__test__options.html" title="get_bpp_versioned_test\l_options\&lt; HF_VERSION_BULLETPROOF\l_PLUS &#45; 1 \&gt;" alt="" coords="231,480,504,536"/>
+<area shape="rect" id="node5" href="$d3/d3e/structget__bpp__versioned__test__options.html" title="get_bpp_versioned_test\l_options\&lt; HF_VERSION_BULLETPROOF\l_PLUS \&gt;" alt="" coords="231,560,504,616"/>
+<area shape="rect" id="node20" href="$d3/d3e/structget__bpp__versioned__test__options.html" title="get_bpp_versioned_test\l_options\&lt; HF_VERSION_BULLETPROOF\l_PLUS+1 \&gt;" alt="" coords="231,848,504,904"/>
+<area shape="rect" id="node4" href="$d3/dc2/structget__test__options_3_01gen__bpp__tx__invalid__before__fork_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_before\l_fork \&gt;" alt="" coords="568,5,723,61"/>
+<area shape="rect" id="node6" href="$da/da5/structget__test__options_3_01gen__bpp__tx__invalid__16__16_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_16_16 \&gt;" alt="" coords="562,86,729,127"/>
+<area shape="rect" id="node7" href="$df/dff/structget__test__options_3_01gen__bpp__tx__invalid__1__1_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_1_1 \&gt;" alt="" coords="569,151,721,193"/>
+<area shape="rect" id="node8" href="$dc/d5e/structget__test__options_3_01gen__bpp__tx__invalid__4__2__1_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_4_2_1 \&gt;" alt="" coords="562,217,729,258"/>
+<area shape="rect" id="node9" href="$d6/d03/structget__test__options_3_01gen__bpp__tx__invalid__empty__proofs_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_empty\l_proofs \&gt;" alt="" coords="568,283,723,339"/>
+<area shape="rect" id="node10" href="$d2/dfa/structget__test__options_3_01gen__bpp__tx__invalid__not__enough__proofs_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_not_enough\l_proofs \&gt;" alt="" coords="552,363,739,419"/>
+<area shape="rect" id="node11" href="$de/d7b/structget__test__options_3_01gen__bpp__tx__invalid__too__many__proofs_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_too_many\l_proofs \&gt;" alt="" coords="557,443,733,499"/>
+<area shape="rect" id="node12" href="$db/d7b/structget__test__options_3_01gen__bpp__tx__invalid__wrong__amount_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_wrong\l_amount \&gt;" alt="" coords="568,523,723,579"/>
+<area shape="rect" id="node13" href="$dd/d45/structget__test__options_3_01gen__bpp__tx__valid__16_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_valid_16 \&gt;" alt="" coords="570,603,721,645"/>
+<area shape="rect" id="node14" href="$d8/db8/structget__test__options_3_01gen__bpp__tx__valid__2_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_valid_2 \&gt;" alt="" coords="570,669,721,710"/>
+<area shape="rect" id="node15" href="$db/d5b/structget__test__options_3_01gen__bpp__tx__valid__3_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_valid_3 \&gt;" alt="" coords="570,734,721,775"/>
+<area shape="rect" id="node16" href="$da/dea/structget__test__options_3_01gen__bpp__tx__valid__at__fork_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_valid_at_fork \&gt;" alt="" coords="565,799,726,841"/>
+<area shape="rect" id="node17" href="$dd/d31/structget__test__options_3_01gen__bpp__txs__invalid__2__and__8__2__and__16__16__1_01_4.html" title="get_test_options\&lt; gen\l_bpp_txs_invalid_2_and\l_8_2_and_16_16_1 \&gt;" alt="" coords="565,865,726,921"/>
+<area shape="rect" id="node18" href="$df/d4a/structget__test__options_3_01gen__bpp__txs__valid__2__and__2_01_4.html" title="get_test_options\&lt; gen\l_bpp_txs_valid_2_and_2 \&gt;" alt="" coords="557,946,734,987"/>
+<area shape="rect" id="node19" href="$dc/d66/structget__test__options_3_01gen__bpp__txs__valid__2__and__3__and__2__and__4_01_4.html" title="get_test_options\&lt; gen\l_bpp_txs_valid_2_and\l_3_and_2_and_4 \&gt;" alt="" coords="570,1012,721,1068"/>
+<area shape="rect" id="node21" href="$dc/dc0/structget__test__options_3_01gen__bpp__tx__invalid__clsag__type_01_4.html" title="get_test_options\&lt; gen\l_bpp_tx_invalid_clsag\l_type \&gt;" alt="" coords="570,1092,721,1148"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="hw::trezor::protocol::tx::TData" name="hw::trezor::protocol::tx::TData">
+<area shape="rect" id="node2" href="$db/dcf/structtools_1_1wallet2_1_1tx__construction__data.html" title="tools::wallet2::tx\l_construction_data" alt="" coords="762,64,894,105"/>
+<area shape="rect" id="node3" href="$d5/d61/structcryptonote_1_1tx__destination__entry.html" title="cryptonote::tx_destination\l_entry" alt="" coords="409,5,581,47"/>
+<area shape="rect" id="node4" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="177,5,315,47"/>
+<area shape="rect" id="node5" href="$d9/db8/structrct_1_1RCTConfig.html" title="rct::RCTConfig" alt="" coords="440,71,551,98"/>
+<area shape="rect" id="node6" href="$dc/d00/classcryptonote_1_1transaction.html" title="cryptonote::transaction" alt="" coords="751,262,905,289"/>
+<area shape="rect" id="node7" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="418,289,573,331"/>
+<area shape="rect" id="node9" href="$d1/d1e/structrct_1_1rctSig.html" title="rct::rctSig" alt="" coords="456,355,535,382"/>
+<area shape="rect" id="node10" href="$de/dcb/structrct_1_1rctSigBase.html" title="rct::rctSigBase" alt="" coords="191,305,301,331"/>
+<area shape="rect" id="node11" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="5,305,72,331"/>
+<area shape="rect" id="node12" href="$d0/d39/structrct_1_1rctSigPrunable.html" title="rct::rctSigPrunable" alt="" coords="181,355,311,382"/>
+</map>

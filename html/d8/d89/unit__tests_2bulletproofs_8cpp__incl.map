@@ -1,0 +1,32 @@
+<map id="tests/unit_tests/bulletproofs.cpp" name="tests/unit_tests/bulletproofs.cpp">
+<area shape="rect" id="node3" href="$d4/d3e/string__tools_8h.html" title="string_tools.h" alt="" coords="433,423,533,449"/>
+<area shape="rect" id="node18" href="$d2/d9d/rctOps_8h.html" title="ringct/rctOps.h" alt="" coords="1826,162,1934,189"/>
+<area shape="rect" id="node35" href="$d0/d8f/rctSigs_8h.html" title="ringct/rctSigs.h" alt="" coords="1913,80,2023,107"/>
+<area shape="rect" id="node36" href="$d0/d9c/src_2ringct_2bulletproofs_8h.html" title="ringct/bulletproofs.h" alt="" coords="1280,80,1416,107"/>
+<area shape="rect" id="node37" href="$dd/dba/blobdatatype_8h.html" title="cryptonote_basic/blobdatatype.h" alt="" coords="41,251,252,278"/>
+<area shape="rect" id="node39" href="$d1/d9a/cryptonote__format__utils_8h.html" title="cryptonote_basic/cryptonote\l_format_utils.h" alt="" coords="877,155,1064,196"/>
+<area shape="rect" id="node45" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="2224,341,2331,367"/>
+<area shape="rect" id="node48" href="$d5/d08/device_8hpp.html" title="device/device.hpp" alt="" coords="1183,162,1310,189"/>
+<area shape="rect" id="node4" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="681,497,735,524"/>
+<area shape="rect" id="node14" href="$d5/df4/mlocker_8h.html" title="mlocker.h" alt="" coords="1078,497,1157,524"/>
+<area shape="rect" id="node10" href="$d5/de3/wipeable__string_8h.html" title="wipeable_string.h" alt="" coords="888,579,1011,606"/>
+<area shape="rect" id="node13" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="240,579,301,606"/>
+<area shape="rect" id="node21" href="$d3/d3f/generic-ops_8h.html" title="crypto/generic&#45;ops.h" alt="" coords="1506,497,1646,524"/>
+<area shape="rect" id="node25" href="$d1/d79/random_8h.html" title="crypto/random.h" alt="" coords="1434,423,1550,449"/>
+<area shape="rect" id="node26" href="$d6/dd8/keccak_8h.html" title="crypto/keccak.h" alt="" coords="2085,341,2200,367"/>
+<area shape="rect" id="node29" href="$d7/d7b/rctCryptoOps_8h.html" title="rctCryptoOps.h" alt="" coords="1647,251,1758,278"/>
+<area shape="rect" id="node31" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="1164,341,1273,367"/>
+<area shape="rect" id="node34" href="$d0/d1d/rctTypes_8h.html" title="rctTypes.h" alt="" coords="1487,251,1571,278"/>
+<area shape="rect" id="node24" href="$d7/d40/include_2sodium_2crypto__verify__32_8h.html" title="sodium/crypto_verify_32.h" alt="" coords="1442,579,1617,606"/>
+<area shape="rect" id="node27" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="2086,423,2151,449"/>
+<area shape="rect" id="node28" href="$da/d66/string_8h.html" title="string.h" alt="" coords="2175,423,2241,449"/>
+<area shape="rect" id="node30" href="$de/d75/crypto-ops_8h.html" title="crypto/crypto&#45;ops.h" alt="" coords="1635,341,1770,367"/>
+<area shape="rect" id="node33" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="943,423,1004,449"/>
+<area shape="rect" id="node40" href="$d3/d11/cryptonote__basic__impl_8h.html" title="cryptonote_basic_impl.h" alt="" coords="889,251,1052,278"/>
+<area shape="rect" id="node41" href="$db/d33/tx__extra_8h.html" title="tx_extra.h" alt="" coords="1180,251,1260,278"/>
+<area shape="rect" id="node42" href="$de/d26/account_8h.html" title="account.h" alt="" coords="1077,251,1155,278"/>
+<area shape="rect" id="node43" href="$db/d48/subaddress__index_8h.html" title="subaddress_index.h" alt="" coords="327,251,465,278"/>
+<area shape="rect" id="node44" href="$d5/dcc/include__base__utils_8h.html" title="include_base_utils.h" alt="" coords="1834,251,1974,278"/>
+<area shape="rect" id="node49" href="$de/df3/chacha_8h.html" title="crypto/chacha.h" alt="" coords="1845,341,1960,367"/>
+<area shape="rect" id="node50" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="783,423,919,449"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="tools::error::tx_too_big" name="tools::error::tx_too_big">
+<area shape="rect" id="node2" href="$d5/d06/structtools_1_1error_1_1transfer__error.html" title="tools::error::transfer\l_error" alt="" coords="75,288,211,329"/>
+<area shape="rect" id="node3" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_logic_error" alt="" coords="5,191,128,218"/>
+<area shape="rect" id="node5" href="$dc/d00/classcryptonote_1_1transaction.html" title="cryptonote::transaction" alt="" coords="247,295,401,322"/>
+<area shape="rect" id="node6" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="260,184,415,225"/>
+<area shape="rect" id="node8" href="$d1/d1e/structrct_1_1rctSig.html" title="rct::rctSig" alt="" coords="439,191,518,218"/>
+<area shape="rect" id="node9" href="$de/dcb/structrct_1_1rctSigBase.html" title="rct::rctSigBase" alt="" coords="324,95,433,121"/>
+<area shape="rect" id="node10" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="345,5,412,32"/>
+<area shape="rect" id="node11" href="$d0/d39/structrct_1_1rctSigPrunable.html" title="rct::rctSigPrunable" alt="" coords="457,95,588,121"/>
+</map>

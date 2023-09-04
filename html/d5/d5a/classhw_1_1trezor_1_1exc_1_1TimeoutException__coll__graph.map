@@ -1,0 +1,4 @@
+<map id="hw::trezor::exc::TimeoutException" name="hw::trezor::exc::TimeoutException">
+<area shape="rect" id="node2" href="$d9/d73/classhw_1_1trezor_1_1exc_1_1CommunicationException.html" title="hw::trezor::exc::Communication\lException" alt="" coords="7,155,215,196"/>
+<area shape="rect" id="node3" href="$d6/d7c/classhw_1_1trezor_1_1exc_1_1TrezorException.html" title="hw::trezor::exc::TrezorException" alt="" coords="5,80,217,107"/>
+</map>

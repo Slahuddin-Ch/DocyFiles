@@ -1,0 +1,12 @@
+<map id="gen_trezor_1utxo_paymentid_short" name="gen_trezor_1utxo_paymentid_short">
+<area shape="rect" id="node2" href="$d9/de9/classgen__trezor__base.html" title="gen_trezor_base" alt="" coords="1139,168,1257,195"/>
+<area shape="rect" id="node3" href="$de/dc9/classtest__chain__unit__base.html" title="test_chain_unit_base" alt="" coords="828,5,973,32"/>
+<area shape="rect" id="node5" href="$dc/d6a/classcryptonote_1_1account__base.html" title="cryptonote::account_base" alt="" coords="815,140,987,167"/>
+<area shape="rect" id="node6" href="$d9/dfd/structcryptonote_1_1account__keys.html" title="cryptonote::account_keys" alt="" coords="544,140,716,167"/>
+<area shape="rect" id="node7" href="$d5/dec/classhw_1_1device.html" title="hw::device" alt="" coords="237,81,322,108"/>
+<area shape="rect" id="node8" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="211,133,348,174"/>
+<area shape="rect" id="node9" href="$d1/da8/structepee_1_1mlocked.html" title="epee::mlocked\&lt; tools\l::scrubbed\&lt; ec_scalar \&gt; \&gt;" alt="" coords="192,198,367,239"/>
+<area shape="rect" id="node11" href="$d9/db8/structrct_1_1RCTConfig.html" title="rct::RCTConfig" alt="" coords="845,191,956,217"/>
+<area shape="rect" id="node12" href="$d2/dd9/classtest__generator.html" title="test_generator" alt="" coords="848,241,953,268"/>
+<area shape="rect" id="node13" href="$de/d73/classblock__tracker.html" title="block_tracker" alt="" coords="851,292,951,319"/>
+</map>

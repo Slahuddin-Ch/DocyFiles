@@ -1,0 +1,51 @@
+<map id="src/serialization/serialization.h" name="src/serialization/serialization.h">
+<area shape="rect" id="node2" href="$d6/d0c/multisig__kex__msg__serialization_8h.html" title="src/multisig/multisig\l_kex_msg_serialization.h" alt="" coords="1286,341,1455,382"/>
+<area shape="rect" id="node3" href="$da/de6/multisig__kex__msg_8cpp.html" title="src/multisig/multisig\l_kex_msg.cpp" alt="" coords="1282,437,1421,479"/>
+<area shape="rect" id="node4" href="$d2/d5c/p2p__protocol__defs_8h.html" title="src/p2p/p2p_protocol\l_defs.h" alt="" coords="584,341,727,382"/>
+<area shape="rect" id="node13" href="$d5/d75/containers_8h.html" title="src/serialization/containers.h" alt="" coords="1520,177,1708,203"/>
+<area shape="rect" id="node16" href="$d1/dab/message__store_8h.html" title="src/wallet/message\l_store.h" alt="" coords="1788,437,1923,479"/>
+<area shape="rect" id="node21" href="$dd/d1a/serialization_2crypto_8h.html" title="src/serialization/crypto.h" alt="" coords="1890,259,2054,285"/>
+<area shape="rect" id="node24" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="2321,80,2462,121"/>
+<area shape="rect" id="node27" href="$d6/d10/variant_8h.html" title="for dealing with variants " alt="" coords="2586,87,2752,114"/>
+<area shape="rect" id="node28" href="$d9/d69/difficulty__type_8h.html" title="src/serialization/difficulty\l_type.h" alt="" coords="2818,80,2984,121"/>
+<area shape="rect" id="node30" href="$d3/d41/pair_8h.html" title="src/serialization/pair.h" alt="" coords="1112,348,1261,375"/>
+<area shape="rect" id="node31" href="$da/d66/string_8h.html" title="src/serialization/string.h" alt="" coords="3918,348,4078,375"/>
+<area shape="rect" id="node50" href="$d2/d20/tuple_8h.html" title="src/serialization/tuple.h" alt="" coords="880,259,1036,285"/>
+<area shape="rect" id="node5" href="$d2/d77/connection__context_8cpp.html" title="src/cryptonote_basic\l/connection_context.cpp" alt="" coords="372,437,536,479"/>
+<area shape="rect" id="node6" href="$da/de8/object__sizes_8cpp.html" title="src/debug_utilities\l/object_sizes.cpp" alt="" coords="947,601,1074,643"/>
+<area shape="rect" id="node7" href="$db/d3a/net__node_8h.html" title="src/p2p/net_node.h" alt="" coords="722,527,856,553"/>
+<area shape="rect" id="node8" href="$df/d90/net__node_8cpp.html" title="src/p2p/net_node.cpp" alt="" coords="321,609,468,635"/>
+<area shape="rect" id="node9" href="$d3/d4b/net__peerlist_8h.html" title="src/p2p/net_peerlist.h" alt="" coords="826,445,973,471"/>
+<area shape="rect" id="node10" href="$d8/dc1/net__node__common_8h.html" title="src/p2p/net_node_common.h" alt="" coords="560,445,751,471"/>
+<area shape="rect" id="node11" href="$d2/d65/net__node_8inl.html" title="src/p2p/net_node.inl" alt="" coords="37,445,176,471"/>
+<area shape="rect" id="node12" href="$d4/d23/net__peerlist__boost__serialization_8h.html" title="src/p2p/net_peerlist\l_boost_serialization.h" alt="" coords="200,437,348,479"/>
+<area shape="rect" id="node14" href="$d8/d86/cryptonote__basic_8h.html" title="src/cryptonote_basic\l/cryptonote_basic.h" alt="" coords="2379,341,2522,382"/>
+<area shape="rect" id="node15" href="$de/dc1/rpc__payment_8h.html" title="src/rpc/rpc_payment.h" alt="" coords="1612,445,1764,471"/>
+<area shape="rect" id="node17" href="$df/d3f/wallet2_8h.html" title="src/wallet/wallet2.h" alt="" coords="1788,527,1923,553"/>
+<area shape="rect" id="node18" href="$d6/d5a/serialization_8cpp.html" title="tests/unit_tests/serialization.cpp" alt="" coords="2465,609,2676,635"/>
+<area shape="rect" id="node19" href="$d1/d5a/varint_8cpp.html" title="tests/unit_tests/varint.cpp" alt="" coords="2458,445,2632,471"/>
+<area shape="rect" id="node20" href="$d0/d1d/rctTypes_8h.html" title="src/ringct/rctTypes.h" alt="" coords="2211,259,2354,285"/>
+<area shape="rect" id="node22" href="$dd/dab/blockchain__blackball_8cpp.html" title="src/blockchain_utilities\l/blockchain_blackball.cpp" alt="" coords="2082,341,2253,382"/>
+<area shape="rect" id="node23" href="$da/d69/blockchain__prune__known__spent__data_8cpp.html" title="src/blockchain_utilities\l/blockchain_prune_known\l_spent_data.cpp" alt="" coords="1886,333,2058,389"/>
+<area shape="rect" id="node25" href="$d9/d57/debug__archive_8h.html" title="src/serialization/debug\l_archive.h" alt="" coords="2429,169,2581,211"/>
+<area shape="rect" id="node26" href="$d7/d29/json__utils_8h.html" title="src/serialization/json\l_utils.h" alt="" coords="2213,169,2354,211"/>
+<area shape="rect" id="node29" href="$d9/dc9/bootstrap__serialization_8h.html" title="src/blockchain_utilities\l/bootstrap_serialization.h" alt="" coords="2859,169,3026,211"/>
+<area shape="rect" id="node32" href="$d5/d78/int-util_8h.html" title="contrib/epee/include\l/int&#45;util.h" alt="" coords="4432,437,4570,479"/>
+<area shape="rect" id="node33" href="$dd/d85/buffer_8cpp.html" title="contrib/epee/src/buffer.cpp" alt="" coords="4595,445,4772,471"/>
+<area shape="rect" id="node34" href="$de/dcd/memwipe_8c.html" title="contrib/epee/src/memwipe.c" alt="" coords="4797,445,4984,471"/>
+<area shape="rect" id="node35" href="$d6/dd0/net__ssl_8cpp.html" title="contrib/epee/src/net\l_ssl.cpp" alt="" coords="5008,437,5146,479"/>
+<area shape="rect" id="node36" href="$d9/d10/contrib_2epee_2src_2wipeable__string_8cpp.html" title="contrib/epee/src/wipeable\l_string.cpp" alt="" coords="5170,437,5341,479"/>
+<area shape="rect" id="node37" href="$d4/d49/mdb_8c.html" title="Lightning memory&#45;mapped database library. " alt="" coords="5366,437,5498,479"/>
+<area shape="rect" id="node38" href="$d3/d49/mdb__drop_8c.html" title="external/db_drivers\l/liblmdb/mdb_drop.c" alt="" coords="5522,437,5661,479"/>
+<area shape="rect" id="node39" href="$da/da5/mdb__dump_8c.html" title="external/db_drivers\l/liblmdb/mdb_dump.c" alt="" coords="5685,437,5832,479"/>
+<area shape="rect" id="node40" href="$d7/d7f/mdb__load_8c.html" title="external/db_drivers\l/liblmdb/mdb_load.c" alt="" coords="5856,437,5994,479"/>
+<area shape="rect" id="node41" href="$d1/d8e/mdb__stat_8c.html" title="external/db_drivers\l/liblmdb/mdb_stat.c" alt="" coords="2858,437,2994,479"/>
+<area shape="rect" id="node42" href="$d5/d3f/midl_8c.html" title="ldap bdb back&#45;end ID List functions " alt="" coords="3019,437,3151,479"/>
+<area shape="rect" id="node43" href="$dc/d62/mtest3_8c.html" title="external/db_drivers\l/liblmdb/mtest3.c" alt="" coords="3175,437,3307,479"/>
+<area shape="rect" id="node44" href="$d5/d58/mtest4_8c.html" title="external/db_drivers\l/liblmdb/mtest4.c" alt="" coords="3331,437,3463,479"/>
+<area shape="rect" id="node45" href="$d5/d67/mtest5_8c.html" title="external/db_drivers\l/liblmdb/mtest5.c" alt="" coords="3487,437,3619,479"/>
+<area shape="rect" id="node46" href="$d4/d7a/mtest6_8c.html" title="external/db_drivers\l/liblmdb/mtest6.c" alt="" coords="3643,437,3775,479"/>
+<area shape="rect" id="node47" href="$d8/d4d/minissdpd_2asyncsendto_8c.html" title="external/miniupnp/minissdpd\l/asyncsendto.c" alt="" coords="3800,437,3986,479"/>
+<area shape="rect" id="node48" href="$d5/d79/minissdpd_2daemonize_8c.html" title="external/miniupnp/minissdpd\l/daemonize.c" alt="" coords="4010,437,4197,479"/>
+<area shape="rect" id="node49" href="$de/d89/minissdpd_2getifaddr_8c.html" title="external/miniupnp/minissdpd\l/getifaddr.c" alt="" coords="4221,437,4408,479"/>
+</map>

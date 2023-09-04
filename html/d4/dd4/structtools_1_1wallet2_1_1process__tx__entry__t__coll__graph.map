@@ -1,0 +1,9 @@
+<map id="tools::wallet2::process_tx_entry_t" name="tools::wallet2::process_tx_entry_t">
+<area shape="rect" id="node2" href="$d8/d2d/structcryptonote_1_1COMMAND__RPC__GET__TRANSACTIONS_1_1entry.html" title="cryptonote::COMMAND\l_RPC_GET_TRANSACTIONS\l::entry" alt="" coords="5,288,211,344"/>
+<area shape="rect" id="node3" href="$dc/d00/classcryptonote_1_1transaction.html" title="cryptonote::transaction" alt="" coords="235,303,389,329"/>
+<area shape="rect" id="node4" href="$d5/dd5/classcryptonote_1_1transaction__prefix.html" title="cryptonote::transaction\l_prefix" alt="" coords="235,184,389,225"/>
+<area shape="rect" id="node6" href="$d1/d1e/structrct_1_1rctSig.html" title="rct::rctSig" alt="" coords="414,191,493,218"/>
+<area shape="rect" id="node7" href="$de/dcb/structrct_1_1rctSigBase.html" title="rct::rctSigBase" alt="" coords="295,95,404,121"/>
+<area shape="rect" id="node8" href="$df/dbc/structrct_1_1key.html" title="rct::key" alt="" coords="316,5,383,32"/>
+<area shape="rect" id="node9" href="$d0/d39/structrct_1_1rctSigPrunable.html" title="rct::rctSigPrunable" alt="" coords="428,95,559,121"/>
+</map>

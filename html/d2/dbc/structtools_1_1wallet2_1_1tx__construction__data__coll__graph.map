@@ -1,0 +1,5 @@
+<map id="tools::wallet2::tx_construction_data" name="tools::wallet2::tx_construction_data">
+<area shape="rect" id="node2" href="$d5/d61/structcryptonote_1_1tx__destination__entry.html" title="cryptonote::tx_destination\l_entry" alt="" coords="5,109,177,151"/>
+<area shape="rect" id="node3" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="23,5,160,47"/>
+<area shape="rect" id="node4" href="$d9/db8/structrct_1_1RCTConfig.html" title="rct::RCTConfig" alt="" coords="201,117,312,143"/>
+</map>

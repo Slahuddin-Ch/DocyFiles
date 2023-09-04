@@ -1,0 +1,6 @@
+<map id="cryptonote::db_rtxn_guard" name="cryptonote::db_rtxn_guard">
+<area shape="rect" id="node2" href="$d3/d8a/classcryptonote_1_1db__txn__guard.html" title="cryptonote::db_txn\l_guard" alt="" coords="7,213,138,255"/>
+<area shape="rect" id="node3" href="$de/db3/classcryptonote_1_1BlockchainDB.html" title="The BlockchainDB backing store interface declaration/contract. " alt="" coords="21,95,196,121"/>
+<area shape="rect" id="node5" href="$d0/d61/classcryptonote_1_1HardFork.html" title="cryptonote::HardFork" alt="" coords="175,221,320,247"/>
+<area shape="rect" id="node4" href="$df/d71/classepee_1_1critical__section.html" title="epee::critical_section" alt="" coords="105,5,251,32"/>
+</map>

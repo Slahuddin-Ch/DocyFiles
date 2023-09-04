@@ -1,0 +1,5 @@
+<map id="cryptonote::COMMAND_RPC_GET_LAST_BLOCK_HEADER::response_t" name="cryptonote::COMMAND_RPC_GET_LAST_BLOCK_HEADER::response_t">
+<area shape="rect" id="node2" href="$dd/d38/structcryptonote_1_1rpc__access__response__base.html" title="cryptonote::rpc_access\l_response_base" alt="" coords="28,81,187,123"/>
+<area shape="rect" id="node3" href="$df/daf/structcryptonote_1_1rpc__response__base.html" title="cryptonote::rpc_response_base" alt="" coords="5,5,209,32"/>
+<area shape="rect" id="node4" href="$de/dac/structcryptonote_1_1block__header__response.html" title="cryptonote::block_header\l_response" alt="" coords="211,81,379,123"/>
+</map>

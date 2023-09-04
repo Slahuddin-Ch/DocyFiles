@@ -1,0 +1,5 @@
+<map id="tools::error::wallet_internal_error" name="tools::error::wallet_internal_error">
+<area shape="rect" id="node4" href="$de/dad/structtools_1_1error_1_1unexpected__txin__type.html" title="tools::error::unexpected\l_txin_type" alt="" coords="5,244,164,285"/>
+<area shape="rect" id="node5" href="$d5/d0f/structtools_1_1error_1_1wallet__not__initialized.html" title="tools::error::wallet\l_not_initialized" alt="" coords="188,244,315,285"/>
+<area shape="rect" id="node2" href="$d6/db7/structtools_1_1error_1_1wallet__error__base.html" title="wallet_runtime_error" alt="" coords="98,80,237,107"/>
+</map>

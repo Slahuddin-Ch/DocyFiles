@@ -1,0 +1,29 @@
+<map id="tools::wallet2" name="tools::wallet2">
+<area shape="rect" id="node2" href="$df/d48/classserializable__unordered__multimap.html" title="serializable_unordered\l_multimap\&lt; crypto::hash,\l tools::wallet2::pool_payment\l_details \&gt;" alt="" coords="946,5,1138,76"/>
+<area shape="rect" id="node4" href="$d7/d07/classcryptonote_1_1checkpoints.html" title="A container for blockchain checkpoints. " alt="" coords="961,101,1123,127"/>
+<area shape="rect" id="node5" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, std\l::string \&gt;" alt="" coords="960,151,1124,207"/>
+<area shape="rect" id="node7" href="$dd/d09/structcryptonote_1_1account__public__address.html" title="cryptonote::account\l_public_address" alt="" coords="211,235,348,276"/>
+<area shape="rect" id="node14" href="$d9/dfd/structcryptonote_1_1account__keys.html" title="cryptonote::account_keys" alt="" coords="551,282,723,309"/>
+<area shape="rect" id="node8" href="$d0/d13/structtools_1_1rpc__payment__state__t.html" title="tools::rpc_payment\l_state_t" alt="" coords="571,333,704,375"/>
+<area shape="rect" id="node22" href="$de/dff/classtools_1_1NodeRPCProxy.html" title="tools::NodeRPCProxy" alt="" coords="966,435,1118,462"/>
+<area shape="rect" id="node9" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l crypto::key_image \&gt;" alt="" coords="954,578,1130,634"/>
+<area shape="rect" id="node11" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l cryptonote::subaddress\l_index \&gt;" alt="" coords="954,659,1130,729"/>
+<area shape="rect" id="node13" href="$dc/d6a/classcryptonote_1_1account__base.html" title="cryptonote::account_base" alt="" coords="956,285,1128,311"/>
+<area shape="rect" id="node15" href="$d5/dec/classhw_1_1device.html" title="hw::device" alt="" coords="237,311,322,338"/>
+<area shape="rect" id="node16" href="$d1/da8/structepee_1_1mlocked.html" title="epee::mlocked\&lt; tools\l::scrubbed\&lt; ec_scalar \&gt; \&gt;" alt="" coords="192,459,367,500"/>
+<area shape="rect" id="node18" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; std::string, std\l::string \&gt;" alt="" coords="967,754,1117,810"/>
+<area shape="rect" id="node20" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::key_image,\l size_t \&gt;" alt="" coords="953,834,1131,890"/>
+<area shape="rect" id="node23" href="$d1/df6/classepee_1_1net__utils_1_1http_1_1abstract__http__client.html" title="epee::net_utils::http\l::abstract_http_client" alt="" coords="565,399,709,440"/>
+<area shape="rect" id="node24" href="$db/d53/classtools_1_1hashchain.html" title="tools::hashchain" alt="" coords="983,914,1101,941"/>
+<area shape="rect" id="node26" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l serializable_map\&lt; uint64\l_t, crypto::key_image \&gt; \&gt;" alt="" coords="954,1072,1130,1143"/>
+<area shape="rect" id="node28" href="$d1/db4/classtools_1_1i__wallet2__callback.html" title="tools::i_wallet2_callback" alt="" coords="960,1167,1124,1194"/>
+<area shape="rect" id="node29" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::public_key,\l size_t \&gt;" alt="" coords="954,1218,1130,1274"/>
+<area shape="rect" id="node31" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, std\l::vector\&lt; epee::mlocked \&gt; \&gt;" alt="" coords="949,1298,1135,1354"/>
+<area shape="rect" id="node33" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, tools\l::wallet2::confirmed_transfer\l_details \&gt;" alt="" coords="949,1379,1135,1449"/>
+<area shape="rect" id="node35" href="$da/d0a/classmms_1_1message__store.html" title="mms::message_store" alt="" coords="968,1474,1116,1501"/>
+<area shape="rect" id="node36" href="$d3/d94/classmms_1_1message__transporter.html" title="mms::message_transporter" alt="" coords="547,1474,728,1501"/>
+<area shape="rect" id="node37" href="$d1/d73/classepee_1_1wipeable__string.html" title="epee::wipeable_string" alt="" coords="205,1474,353,1501"/>
+<area shape="rect" id="node38" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, epee\l::mlocked \&gt;" alt="" coords="955,1525,1129,1581"/>
+<area shape="rect" id="node40" href="$dc/da0/classserializable__unordered__map.html" title="serializable_unordered\l_map\&lt; crypto::hash, tools\l::wallet2::unconfirmed_transfer\l_details \&gt;" alt="" coords="941,1605,1143,1676"/>
+<area shape="rect" id="node42" href="$df/d48/classserializable__unordered__multimap.html" title="serializable_unordered\l_multimap\&lt; crypto::hash,\l payment_details \&gt;" alt="" coords="957,1701,1127,1757"/>
+</map>

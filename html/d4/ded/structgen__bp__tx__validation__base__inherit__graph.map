@@ -1,0 +1,21 @@
+<map id="gen_bp_tx_validation_base" name="gen_bp_tx_validation_base">
+<area shape="rect" id="node3" href="$d4/d54/structgen__bp__tx__invalid__16__16.html" title="gen_bp_tx_invalid_16_16" alt="" coords="457,5,625,32"/>
+<area shape="rect" id="node4" href="$d3/d0e/structgen__bp__tx__invalid__1__1.html" title="gen_bp_tx_invalid_1_1" alt="" coords="464,56,619,83"/>
+<area shape="rect" id="node5" href="$d9/dab/structgen__bp__tx__invalid__1__from__12.html" title="gen_bp_tx_invalid_1\l_from_12" alt="" coords="471,107,611,149"/>
+<area shape="rect" id="node6" href="$df/dfc/structgen__bp__tx__invalid__4__2__1.html" title="gen_bp_tx_invalid_4_2_1" alt="" coords="457,173,625,200"/>
+<area shape="rect" id="node7" href="$dc/d60/structgen__bp__tx__invalid__borromean__type.html" title="gen_bp_tx_invalid_borromean_type" alt="" coords="428,224,655,251"/>
+<area shape="rect" id="node8" href="$d7/d8f/structgen__bp__tx__invalid__bulletproof2__type.html" title="gen_bp_tx_invalid_bulletproof2_type" alt="" coords="425,275,657,301"/>
+<area shape="rect" id="node9" href="$d5/d69/structgen__bp__tx__invalid__clsag__type.html" title="gen_bp_tx_invalid_clsag_type" alt="" coords="443,325,639,352"/>
+<area shape="rect" id="node10" href="$d9/d8b/structgen__bp__tx__invalid__empty__proofs.html" title="gen_bp_tx_invalid_empty\l_proofs" alt="" coords="457,377,626,418"/>
+<area shape="rect" id="node11" href="$d1/d93/structgen__bp__tx__invalid__not__enough__proofs.html" title="gen_bp_tx_invalid_not\l_enough_proofs" alt="" coords="466,442,617,483"/>
+<area shape="rect" id="node12" href="$d0/db0/structgen__bp__tx__invalid__too__many__proofs.html" title="gen_bp_tx_invalid_too\l_many_proofs" alt="" coords="466,507,617,549"/>
+<area shape="rect" id="node13" href="$de/d55/structgen__bp__tx__invalid__wrong__amount.html" title="gen_bp_tx_invalid_wrong\l_amount" alt="" coords="457,573,625,614"/>
+<area shape="rect" id="node14" href="$dd/d21/structgen__bp__tx__valid__16.html" title="gen_bp_tx_valid_16" alt="" coords="473,639,610,665"/>
+<area shape="rect" id="node15" href="$d6/dd5/structgen__bp__tx__valid__1__before__12.html" title="gen_bp_tx_valid_1_before_12" alt="" coords="444,689,639,716"/>
+<area shape="rect" id="node16" href="$da/d61/structgen__bp__tx__valid__2.html" title="gen_bp_tx_valid_2" alt="" coords="476,740,607,767"/>
+<area shape="rect" id="node17" href="$dd/d7b/structgen__bp__tx__valid__3.html" title="gen_bp_tx_valid_3" alt="" coords="476,791,607,817"/>
+<area shape="rect" id="node18" href="$d1/d7b/structgen__bp__txs__invalid__2__and__8__2__and__16__16__1.html" title="gen_bp_txs_invalid\l_2_and_8_2_and_16_16_1" alt="" coords="453,842,629,883"/>
+<area shape="rect" id="node19" href="$d4/d4f/structgen__bp__txs__valid__2__and__2.html" title="gen_bp_txs_valid_2\l_and_2" alt="" coords="473,907,610,949"/>
+<area shape="rect" id="node20" href="$d3/da8/structgen__bp__txs__valid__2__and__3__and__2__and__4.html" title="gen_bp_txs_valid_2\l_and_3_and_2_and_4" alt="" coords="467,973,615,1014"/>
+<area shape="rect" id="node2" href="$de/dc9/classtest__chain__unit__base.html" title="test_chain_unit_base" alt="" coords="5,483,151,509"/>
+</map>

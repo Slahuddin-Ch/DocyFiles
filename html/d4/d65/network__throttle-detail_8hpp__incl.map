@@ -1,0 +1,14 @@
+<map id="contrib/epee/include/net/network_throttle&#45;detail.hpp" name="contrib/epee/include/net/network_throttle&#45;detail.hpp">
+<area shape="rect" id="node3" href="$d4/d12/network__throttle_8hpp.html" title="interface for throttling of connection (count and rate&#45;limit speed etc) " alt="" coords="2210,109,2350,136"/>
+<area shape="rect" id="node12" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="2427,191,2506,218"/>
+<area shape="rect" id="node18" href="$de/de6/net__utils__base_8h.html" title="net/net_utils_base.h" alt="" coords="968,191,1107,218"/>
+<area shape="rect" id="node32" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="593,370,700,397"/>
+<area shape="rect" id="node46" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="1748,191,1868,218"/>
+<area shape="rect" id="node24" href="$d3/ddf/byte__slice_8h.html" title="byte_slice.h" alt="" coords="295,281,387,307"/>
+<area shape="rect" id="node30" href="$d4/d29/contrib_2epee_2include_2net_2enums_8h.html" title="enums.h" alt="" coords="673,281,745,307"/>
+<area shape="rect" id="node33" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="1228,273,1375,315"/>
+<area shape="rect" id="node37" href="$d5/d78/int-util_8h.html" title="int&#45;util.h" alt="" coords="1450,281,1518,307"/>
+<area shape="rect" id="node28" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="457,370,519,397"/>
+<area shape="rect" id="node36" href="$da/db4/keyvalue__serialization__overloads_8h.html" title="keyvalue_serialization\l_overloads.h" alt="" coords="1178,363,1329,404"/>
+<area shape="rect" id="node39" href="$d9/d5e/stdbool_8h.html" title="stdbool.h" alt="" coords="1447,370,1521,397"/>
+</map>

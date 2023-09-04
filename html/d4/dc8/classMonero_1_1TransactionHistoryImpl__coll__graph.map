@@ -1,0 +1,5 @@
+<map id="Monero::TransactionHistoryImpl" name="Monero::TransactionHistoryImpl">
+<area shape="rect" id="node2" href="$d0/de6/structMonero_1_1TransactionHistory.html" title="The TransactionHistory &#45; interface for displaying transaction history. " alt="" coords="5,81,188,108"/>
+<area shape="rect" id="node3" href="$dc/d08/classMonero_1_1WalletImpl.html" title="Monero::WalletImpl" alt="" coords="212,81,347,108"/>
+<area shape="rect" id="node4" href="$d0/d86/structMonero_1_1Wallet.html" title="Interface for wallet operations. " alt="" coords="224,5,335,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="hw::trezor::Transport" name="hw::trezor::Transport">
+<area shape="rect" id="node2" href="$dc/dd8/classhw_1_1trezor_1_1BridgeTransport.html" title="hw::trezor::BridgeTransport" alt="" coords="5,80,185,107"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhw_1_1trezor_1_1UdpTransport.html" title="hw::trezor::UdpTransport" alt="" coords="209,80,376,107"/>
+</map>

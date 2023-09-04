@@ -1,0 +1,28 @@
+<map id="src/device_trezor/device_trezor_base.hpp" name="src/device_trezor/device_trezor_base.hpp">
+<area shape="rect" id="node4" href="$d5/d08/device_8hpp.html" title="device/device.hpp" alt="" coords="1066,184,1193,211"/>
+<area shape="rect" id="node33" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="196,266,332,293"/>
+<area shape="rect" id="node36" href="$d3/d65/device__default_8hpp.html" title="device/device_default.hpp" alt="" coords="1104,102,1277,129"/>
+<area shape="rect" id="node37" href="$de/dd5/device__cold_8hpp.html" title="device/device_cold.hpp" alt="" coords="1386,102,1545,129"/>
+<area shape="rect" id="node49" href="$d3/d86/trezor_8hpp.html" title="trezor.hpp" alt="" coords="1953,102,2033,129"/>
+<area shape="rect" id="node5" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="1037,355,1147,382"/>
+<area shape="rect" id="node23" href="$de/df3/chacha_8h.html" title="crypto/chacha.h" alt="" coords="2320,355,2435,382"/>
+<area shape="rect" id="node25" href="$d0/d1d/rctTypes_8h.html" title="ringct/rctTypes.h" alt="" coords="1129,266,1249,293"/>
+<area shape="rect" id="node11" href="$db/d68/pod-class_8h.html" title="common/pod&#45;class.h" alt="" coords="938,527,1081,553"/>
+<area shape="rect" id="node12" href="$d8/d78/memwipe_8h.html" title="memwipe.h" alt="" coords="1406,445,1495,471"/>
+<area shape="rect" id="node13" href="$d5/df4/mlocker_8h.html" title="mlocker.h" alt="" coords="558,445,637,471"/>
+<area shape="rect" id="node15" href="$d3/d3f/generic-ops_8h.html" title="generic&#45;ops.h" alt="" coords="814,527,914,553"/>
+<area shape="rect" id="node18" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="1207,527,1262,553"/>
+<area shape="rect" id="node19" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="1337,601,1399,628"/>
+<area shape="rect" id="node21" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="1117,445,1179,471"/>
+<area shape="rect" id="node22" href="$d1/d79/random_8h.html" title="random.h" alt="" coords="458,445,534,471"/>
+<area shape="rect" id="node16" href="$d7/d40/include_2sodium_2crypto__verify__32_8h.html" title="sodium/crypto_verify_32.h" alt="" coords="777,601,951,628"/>
+<area shape="rect" id="node24" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="2223,445,2289,471"/>
+<area shape="rect" id="node27" href="$de/d75/crypto-ops_8h.html" title="crypto/crypto&#45;ops.h" alt="" coords="1577,355,1711,382"/>
+<area shape="rect" id="node28" href="$d6/dd8/keccak_8h.html" title="crypto/keccak.h" alt="" coords="2181,355,2296,382"/>
+<area shape="rect" id="node29" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="1889,355,2055,382"/>
+<area shape="rect" id="node30" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="1323,348,1453,389"/>
+<area shape="rect" id="node31" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="1621,445,1728,471"/>
+<area shape="rect" id="node32" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="1835,437,1965,479"/>
+<area shape="rect" id="node38" href="$df/d3f/wallet2_8h.html" title="wallet/wallet2.h" alt="" coords="1479,184,1591,211"/>
+<area shape="rect" id="node50" href="$db/d7c/trezor__defs_8hpp.html" title="trezor/trezor_defs.hpp" alt="" coords="1971,184,2120,211"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d0/d97/classhw_1_1trezor_1_1Transport.html" title="hw::trezor::Transport" alt="" coords="5,31,148,57"/>
+<area shape="rect" id="node2" href="$dc/dd8/classhw_1_1trezor_1_1BridgeTransport.html" title="hw::trezor::BridgeTransport" alt="" coords="196,5,376,32"/>
+<area shape="rect" id="node3" href="$d5/dd7/classhw_1_1trezor_1_1UdpTransport.html" title="hw::trezor::UdpTransport" alt="" coords="203,56,369,83"/>
+</map>

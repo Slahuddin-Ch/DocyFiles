@@ -1,0 +1,10 @@
+<map id="GenericValue&lt; Encoding, Allocator &gt;::Data" name="GenericValue&lt; Encoding, Allocator &gt;::Data">
+<area shape="rect" id="node4" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="789,97,960,139"/>
+<area shape="rect" id="node2" href="$dc/d5a/structGenericValue_1_1String.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::String" alt="" coords="296,5,467,47"/>
+<area shape="rect" id="node3" href="$d4/dbc/structGenericValue_1_1ArrayData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ArrayData" alt="" coords="1065,136,1236,177"/>
+<area shape="rect" id="node5" href="$d7/da7/structGenericValue_1_1ObjectData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ObjectData" alt="" coords="296,71,467,112"/>
+<area shape="rect" id="node6" href="$d7/dac/structGenericMember.html" title="Name&#45;value pair in a JSON object value. " alt="" coords="5,71,189,112"/>
+<area shape="rect" id="node7" href="$d8/df4/unionGenericValue_1_1Number.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Number" alt="" coords="296,136,467,177"/>
+<area shape="rect" id="node9" href="$dc/dfe/structGenericValue_1_1ShortString.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ShortString" alt="" coords="296,201,467,243"/>
+<area shape="rect" id="node10" href="$de/df8/structGenericValue_1_1Flag.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Flag" alt="" coords="296,267,467,308"/>
+</map>

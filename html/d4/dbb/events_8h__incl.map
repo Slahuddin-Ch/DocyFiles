@@ -1,0 +1,28 @@
+<map id="src/cryptonote_basic/events.h" name="src/cryptonote_basic/events.h">
+<area shape="rect" id="node2" href="$db/dfb/hash_8h.html" title="crypto/hash.h" alt="" coords="765,459,867,486"/>
+<area shape="rect" id="node29" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic/cryptonote\l_basic.h" alt="" coords="1680,95,1867,136"/>
+<area shape="rect" id="node5" href="$db/d68/pod-class_8h.html" title="common/pod&#45;class.h" alt="" coords="743,549,886,575"/>
+<area shape="rect" id="node6" href="$d3/d3f/generic-ops_8h.html" title="generic&#45;ops.h" alt="" coords="1230,549,1330,575"/>
+<area shape="rect" id="node11" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="962,549,1017,575"/>
+<area shape="rect" id="node19" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="1092,638,1153,665"/>
+<area shape="rect" id="node23" href="$dc/dce/hash-ops_8h.html" title="hash&#45;ops.h" alt="" coords="193,549,279,575"/>
+<area shape="rect" id="node10" href="$d7/d40/include_2sodium_2crypto__verify__32_8h.html" title="sodium/crypto_verify_32.h" alt="" coords="1370,638,1545,665"/>
+<area shape="rect" id="node17" href="$d5/de3/wipeable__string_8h.html" title="wipeable_string.h" alt="" coords="585,638,708,665"/>
+<area shape="rect" id="node25" href="$d9/d5e/stdbool_8h.html" title="stdbool.h" alt="" coords="5,720,80,747"/>
+<area shape="rect" id="node26" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="106,720,171,747"/>
+<area shape="rect" id="node27" href="$d5/d78/int-util_8h.html" title="int&#45;util.h" alt="" coords="130,638,198,665"/>
+<area shape="rect" id="node28" href="$dc/d9e/warnings_8h.html" title="warnings.h" alt="" coords="375,638,460,665"/>
+<area shape="rect" id="node34" href="$d6/d10/variant_8h.html" title="for dealing with variants " alt="" coords="2154,459,2299,486"/>
+<area shape="rect" id="node39" href="$d5/d75/containers_8h.html" title="serialization/containers.h" alt="" coords="2114,370,2281,397"/>
+<area shape="rect" id="node40" href="$d1/da9/binary__archive_8h.html" title="serialization/binary\l_archive.h" alt="" coords="1348,452,1479,493"/>
+<area shape="rect" id="node41" href="$d9/d8d/json__archive_8h.html" title="JSON archive. " alt="" coords="1858,452,1977,493"/>
+<area shape="rect" id="node42" href="$d9/d57/debug__archive_8h.html" title="serialization/debug\l_archive.h" alt="" coords="1908,363,2039,404"/>
+<area shape="rect" id="node43" href="$dd/d1a/serialization_2crypto_8h.html" title="serialization/crypto.h" alt="" coords="1451,281,1594,307"/>
+<area shape="rect" id="node44" href="$db/d84/crypto_2crypto_8h.html" title="crypto/crypto.h" alt="" coords="1155,370,1264,397"/>
+<area shape="rect" id="node45" href="$d8/d5a/keyvalue__serialization_8h.html" title="serialization/keyvalue\l_serialization.h" alt="" coords="2315,273,2461,315"/>
+<area shape="rect" id="node46" href="$d0/da5/cryptonote__config_8h.html" title="cryptonote_config.h" alt="" coords="1037,281,1173,307"/>
+<area shape="rect" id="node47" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="2681,370,2801,397"/>
+<area shape="rect" id="node48" href="$d0/d1d/rctTypes_8h.html" title="ringct/rctTypes.h" alt="" coords="1619,281,1739,307"/>
+<area shape="rect" id="node49" href="$d5/d08/device_8hpp.html" title="device/device.hpp" alt="" coords="1249,191,1375,218"/>
+<area shape="rect" id="node50" href="$d1/d8f/src_2cryptonote__basic_2fwd_8h.html" title="cryptonote_basic/fwd.h" alt="" coords="2309,191,2467,218"/>
+</map>

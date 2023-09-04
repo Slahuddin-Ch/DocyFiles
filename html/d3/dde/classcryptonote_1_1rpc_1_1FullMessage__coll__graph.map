@@ -1,0 +1,18 @@
+<map id="cryptonote::rpc::FullMessage" name="cryptonote::rpc::FullMessage">
+<area shape="rect" id="node2" href="$da/dc7/classGenericDocument.html" title="GenericDocument\&lt; UTF8\&lt;\&gt; \&gt;" alt="" coords="1300,461,1500,487"/>
+<area shape="rect" id="node3" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="967,284,1165,325"/>
+<area shape="rect" id="node4" href="$d3/dbf/unionGenericValue_1_1Data.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Data" alt="" coords="586,167,757,208"/>
+<area shape="rect" id="node7" href="$d4/dc1/classGenericValue.html" title="Represents a JSON value. Use Value for UTF8 encoding and default allocator. " alt="" coords="981,112,1151,153"/>
+<area shape="rect" id="node5" href="$dc/d5a/structGenericValue_1_1String.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::String" alt="" coords="296,5,467,47"/>
+<area shape="rect" id="node6" href="$d4/dbc/structGenericValue_1_1ArrayData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ArrayData" alt="" coords="1315,147,1485,188"/>
+<area shape="rect" id="node8" href="$d7/da7/structGenericValue_1_1ObjectData.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ObjectData" alt="" coords="296,71,467,112"/>
+<area shape="rect" id="node9" href="$d7/dac/structGenericMember.html" title="Name&#45;value pair in a JSON object value. " alt="" coords="5,71,189,112"/>
+<area shape="rect" id="node10" href="$d8/df4/unionGenericValue_1_1Number.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Number" alt="" coords="296,136,467,177"/>
+<area shape="rect" id="node12" href="$dc/dfe/structGenericValue_1_1ShortString.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::ShortString" alt="" coords="296,201,467,243"/>
+<area shape="rect" id="node13" href="$de/df8/structGenericValue_1_1Flag.html" title="GenericValue\&lt; Encoding,\l Allocator \&gt;::Flag" alt="" coords="296,267,467,308"/>
+<area shape="rect" id="node14" href="$dc/dbb/structParseResult.html" title="Result of parsing (wraps ParseErrorCode) " alt="" coords="825,667,920,694"/>
+<area shape="rect" id="node16" href="$d3/dab/classinternal_1_1Stack.html" title="internal::Stack\&lt; CrtAllocator \&gt;" alt="" coords="967,357,1165,383"/>
+<area shape="rect" id="node18" href="$da/d46/classMemoryPoolAllocator.html" title="MemoryPoolAllocator\&lt;\&gt;" alt="" coords="985,461,1147,487"/>
+<area shape="rect" id="node19" href="$da/d0b/structMemoryPoolAllocator_1_1ChunkHeader.html" title="Chunk header for perpending to each chunk. " alt="" coords="564,551,779,592"/>
+<area shape="rect" id="node17" href="$d5/d8d/classCrtAllocator.html" title="C&#45;runtime library allocator. " alt="" coords="626,378,717,405"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="src/daemon/daemon.cpp" name="src/daemon/daemon.cpp">
+<area shape="rect" id="node5" href="$df/d9e/misc__log__ex_8h.html" title="misc_log_ex.h" alt="" coords="641,184,748,211"/>
+<area shape="rect" id="node6" href="$da/df5/src_2daemon_2daemon_8h.html" title="daemon/daemon.h" alt="" coords="30,87,159,114"/>
+<area shape="rect" id="node8" href="$da/dd7/daemon__handler_8h.html" title="rpc/daemon_handler.h" alt="" coords="1034,87,1185,114"/>
+<area shape="rect" id="node27" href="$db/d71/zmq__pub_8h.html" title="rpc/zmq_pub.h" alt="" coords="1989,184,2097,211"/>
+<area shape="rect" id="node34" href="$d8/dcb/zmq__server_8h.html" title="rpc/zmq_server.h" alt="" coords="1691,87,1813,114"/>
+<area shape="rect" id="node36" href="$d6/dda/password_8h.html" title="common/password.h" alt="" coords="2317,184,2459,211"/>
+<area shape="rect" id="node38" href="$d2/db6/common_2util_8h.html" title="common/util.h" alt="" coords="3209,281,3313,307"/>
+<area shape="rect" id="node42" href="$db/dd2/events_8h.html" title="cryptonote_basic/events.h" alt="" coords="2131,87,2306,114"/>
+<area shape="rect" id="node43" href="$d5/dc4/core_8h.html" title="daemon/core.h" alt="" coords="1329,87,1437,114"/>
+<area shape="rect" id="node44" href="$d7/d7c/command__line__args_8h.html" title="daemon/command_line\l_args.h" alt="" coords="2821,177,2977,218"/>
+<area shape="rect" id="node45" href="$d3/dec/p2p_8h.html" title="daemon/p2p.h" alt="" coords="2635,87,2739,114"/>
+<area shape="rect" id="node46" href="$d2/d5e/protocol_8h.html" title="daemon/protocol.h" alt="" coords="3001,184,3130,211"/>
+<area shape="rect" id="node47" href="$d0/d44/rpc_8h.html" title="daemon/rpc.h" alt="" coords="2915,87,3016,114"/>
+<area shape="rect" id="node48" href="$dd/d47/command__server_8h.html" title="daemon/command_server.h" alt="" coords="3041,87,3223,114"/>
+<area shape="rect" id="node49" href="$dd/d94/net__ssl_8h.html" title="net/net_ssl.h" alt="" coords="1815,184,1913,211"/>
+<area shape="rect" id="node50" href="$df/dfc/version_8h.html" title="version.h" alt="" coords="3299,87,3373,114"/>
+<area shape="rect" id="node9" href="$d3/ddf/byte__slice_8h.html" title="byte_slice.h" alt="" coords="850,281,942,307"/>
+<area shape="rect" id="node14" href="$d8/ddc/daemon__messages_8h.html" title="daemon_messages.h" alt="" coords="471,184,617,211"/>
+<area shape="rect" id="node15" href="$d5/d18/daemon__rpc__version_8h.html" title="rpc/daemon_rpc_version.h" alt="" coords="346,281,521,307"/>
+<area shape="rect" id="node16" href="$d3/d0f/rpc__handler_8h.html" title="rpc/rpc_handler.h" alt="" coords="960,184,1083,211"/>
+<area shape="rect" id="node18" href="$df/d35/cryptonote__core_8h.html" title="cryptonote_core/cryptonote\l_core.h" alt="" coords="1107,177,1287,218"/>
+<area shape="rect" id="node24" href="$d0/d81/cryptonote__protocol__handler_8h.html" title="This is the original cryptonote protocol network&#45;events handler, modified by us. " alt="" coords="1313,169,1453,225"/>
+<area shape="rect" id="node25" href="$db/d3a/net__node_8h.html" title="p2p/net_node.h" alt="" coords="2634,184,2745,211"/>
+<area shape="rect" id="node13" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="900,363,961,389"/>
+<area shape="rect" id="node19" href="$d1/d8f/src_2cryptonote__basic_2fwd_8h.html" title="cryptonote_basic/fwd.h" alt="" coords="1119,281,1276,307"/>
+<area shape="rect" id="node20" href="$d8/dfd/command__line_8h.html" title="common/command_line.h" alt="" coords="2913,281,3084,307"/>
+<area shape="rect" id="node23" href="$d4/d4f/src_2rpc_2fwd_8h.html" title="rpc/fwd.h" alt="" coords="1018,281,1094,307"/>
+<area shape="rect" id="node31" href="$d9/de6/zmq_8h.html" title="net/zmq.h" alt="" coords="2097,281,2177,307"/>
+<area shape="rect" id="node33" href="$de/dbb/difficulty_8h.html" title="cryptonote_basic/difficulty.h" alt="" coords="1453,281,1638,307"/>
+<area shape="rect" id="node37" href="$d5/de3/wipeable__string_8h.html" title="wipeable_string.h" alt="" coords="2327,281,2449,307"/>
+</map>

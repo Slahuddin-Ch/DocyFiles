@@ -1,0 +1,21 @@
+<map id="get_tx_validation_base" name="get_tx_validation_base">
+<area shape="rect" id="node3" href="$d7/d8b/structgen__tx__big__version.html" title="gen_tx_big_version" alt="" coords="421,5,556,32"/>
+<area shape="rect" id="node4" href="$d8/dfc/structgen__tx__check__input__unlock__time.html" title="gen_tx_check_input\l_unlock_time" alt="" coords="419,57,558,98"/>
+<area shape="rect" id="node5" href="$d6/d73/structgen__tx__has__inputs__no__outputs.html" title="gen_tx_has_inputs_no\l_outputs" alt="" coords="413,122,565,163"/>
+<area shape="rect" id="node6" href="$d7/d0e/structgen__tx__input__is__not__txin__to__key.html" title="gen_tx_input_is_not\l_txin_to_key" alt="" coords="419,187,558,229"/>
+<area shape="rect" id="node7" href="$d1/d7a/structgen__tx__input__wo__key__offsets.html" title="gen_tx_input_wo_key\l_offsets" alt="" coords="415,253,563,294"/>
+<area shape="rect" id="node8" href="$d2/d5b/structgen__tx__invalid__input__amount.html" title="gen_tx_invalid_input\l_amount" alt="" coords="419,318,559,359"/>
+<area shape="rect" id="node9" href="$d3/d98/structgen__tx__key__image__is__invalid.html" title="gen_tx_key_image_is\l_invalid" alt="" coords="415,383,563,425"/>
+<area shape="rect" id="node10" href="$d8/dbe/structgen__tx__key__image__not__derive__from__tx__key.html" title="gen_tx_key_image_not\l_derive_from_tx_key" alt="" coords="411,449,567,490"/>
+<area shape="rect" id="node11" href="$d8/d1d/structgen__tx__key__offest__points__to__foreign__key.html" title="gen_tx_key_offest_points\l_to_foreign_key" alt="" coords="403,514,574,555"/>
+<area shape="rect" id="node12" href="$d2/d0d/structgen__tx__mixed__key__offest__not__exist.html" title="gen_tx_mixed_key_offest\l_not_exist" alt="" coords="403,579,574,621"/>
+<area shape="rect" id="node13" href="$d6/d24/structgen__tx__no__inputs__has__outputs.html" title="gen_tx_no_inputs_has\l_outputs" alt="" coords="413,645,565,686"/>
+<area shape="rect" id="node14" href="$dc/d6c/structgen__tx__no__inputs__no__outputs.html" title="gen_tx_no_inputs_no\l_outputs" alt="" coords="416,710,561,751"/>
+<area shape="rect" id="node15" href="$d5/d1f/structgen__tx__output__is__not__txout__to__key.html" title="gen_tx_output_is_not\l_txout_to_key" alt="" coords="415,775,562,817"/>
+<area shape="rect" id="node16" href="$d4/d1e/structgen__tx__output__with__zero__amount.html" title="gen_tx_output_with\l_zero_amount" alt="" coords="421,841,556,882"/>
+<area shape="rect" id="node17" href="$db/d25/structgen__tx__sender__key__offest__not__exist.html" title="gen_tx_sender_key_offest\l_not_exist" alt="" coords="401,906,576,947"/>
+<area shape="rect" id="node18" href="$df/d25/structgen__tx__signatures__are__invalid.html" title="gen_tx_signatures_are\l_invalid" alt="" coords="412,971,565,1013"/>
+<area shape="rect" id="node19" href="$dd/d7f/structgen__tx__txout__to__key__has__invalid__key.html" title="gen_tx_txout_to_key\l_has_invalid_key" alt="" coords="417,1037,560,1078"/>
+<area shape="rect" id="node20" href="$d1/dfc/structgen__tx__unlock__time.html" title="gen_tx_unlock_time" alt="" coords="419,1103,558,1129"/>
+<area shape="rect" id="node2" href="$de/dc9/classtest__chain__unit__base.html" title="test_chain_unit_base" alt="" coords="5,555,151,581"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/d2c/classmulti__tx__test__base.html" title="multi_tx_test_base\l\&lt; a_ring_size \&gt;" alt="" coords="5,68,137,109"/>
+<area shape="rect" id="node2" href="$d6/da0/classtest__check__tx__signature.html" title="test_check_tx_signature\l\&lt; a_ring_size, a_outputs,\l a_rct, range_proof_type,\l bp_version \&gt;" alt="" coords="190,5,359,76"/>
+<area shape="rect" id="node3" href="$d8/d26/classtest__check__tx__signature__aggregated__bulletproofs.html" title="test_check_tx_signature\l_aggregated_bulletproofs\l\&lt; a_ring_size, a_outputs,\l a_num_txes, extra_outs \&gt;" alt="" coords="185,100,364,171"/>
+</map>

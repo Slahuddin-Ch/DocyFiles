@@ -1,0 +1,51 @@
+<map id="contrib/epee/include/span.h" name="contrib/epee/include/span.h">
+<area shape="rect" id="node2" href="$d3/ddf/byte__slice_8h.html" title="contrib/epee/include\l/byte_slice.h" alt="" coords="1415,95,1553,136"/>
+<area shape="rect" id="node3" href="$df/d2d/byte__stream_8h.html" title="contrib/epee/include\l/byte_stream.h" alt="" coords="1859,191,1997,233"/>
+<area shape="rect" id="node4" href="$d2/da4/levin__base_8h.html" title="contrib/epee/include\l/net/levin_base.h" alt="" coords="981,295,1120,337"/>
+<area shape="rect" id="node5" href="$df/d66/levin__abstract__invoke2_8h.html" title="contrib/epee/include\l/storages/levin_abstract\l_invoke2.h" alt="" coords="863,392,1025,448"/>
+<area shape="rect" id="node8" href="$d9/d34/unit__tests_2levin_8cpp.html" title="tests/unit_tests/levin.cpp" alt="" coords="3259,503,3427,530"/>
+<area shape="rect" id="node11" href="$df/de2/portable__storage_8cpp.html" title="contrib/epee/src/portable\l_storage.cpp" alt="" coords="459,295,624,337"/>
+<area shape="rect" id="node14" href="$d2/dbc/json__object_8h.html" title="src/serialization/json\l_object.h" alt="" coords="3036,295,3177,337"/>
+<area shape="rect" id="node15" href="$d0/dd1/epee__utils_8cpp.html" title="tests/unit_tests/epee\l_utils.cpp" alt="" coords="2607,399,2751,441"/>
+<area shape="rect" id="node20" href="$dd/de8/portable__storage__template__helper_8h.html" title="contrib/epee/include\l/storages/portable_storage\l_template_helper.h" alt="" coords="723,184,899,240"/>
+<area shape="rect" id="node21" href="$d2/d9d/levin__notify_8h.html" title="src/cryptonote_protocol\l/levin_notify.h" alt="" coords="3569,295,3727,337"/>
+<area shape="rect" id="node25" href="$d8/dcb/zmq__server_8h.html" title="src/rpc/zmq_server.h" alt="" coords="151,407,297,433"/>
+<area shape="rect" id="node27" href="$d0/d84/hex_8h.html" title="contrib/epee/include\l/hex.h" alt="" coords="3139,95,3277,136"/>
+<area shape="rect" id="node28" href="$d5/d04/string__tools_8cpp.html" title="contrib/epee/src/string\l_tools.cpp" alt="" coords="3398,191,3549,233"/>
+<area shape="rect" id="node29" href="$db/d84/crypto_2crypto_8h.html" title="src/crypto/crypto.h" alt="" coords="3252,303,3383,329"/>
+<area shape="rect" id="node30" href="$d0/d1d/rctTypes_8h.html" title="src/ringct/rctTypes.h" alt="" coords="3890,407,4033,433"/>
+<area shape="rect" id="node31" href="$db/dfb/hash_8h.html" title="src/crypto/hash.h" alt="" coords="2788,199,2911,225"/>
+<area shape="rect" id="node32" href="$db/df4/src_2cryptonote__core_2tx__pool_8h.html" title="src/cryptonote_core\l/tx_pool.h" alt="" coords="2722,295,2859,337"/>
+<area shape="rect" id="node33" href="$df/d35/cryptonote__core_8h.html" title="src/cryptonote_core\l/cryptonote_core.h" alt="" coords="2775,399,2913,441"/>
+<area shape="rect" id="node34" href="$de/d65/blockchain_8h.html" title="src/cryptonote_core\l/blockchain.h" alt="" coords="2561,295,2698,337"/>
+<area shape="rect" id="node35" href="$d5/d08/buffer_8h.html" title="contrib/epee/include\l/net/buffer.h" alt="" coords="2925,95,3064,136"/>
+<area shape="rect" id="node36" href="$de/d05/portable__storage_8h.html" title="contrib/epee/include\l/storages/portable_storage.h" alt="" coords="692,95,879,136"/>
+<area shape="rect" id="node37" href="$d2/d0d/epee__serialization_8cpp.html" title="tests/unit_tests/epee\l_serialization.cpp" alt="" coords="504,191,648,233"/>
+<area shape="rect" id="node38" href="$dc/d20/blocks_8h.html" title="src/blocks/blocks.h" alt="" coords="3463,102,3598,129"/>
+<area shape="rect" id="node39" href="$dd/dba/blobdatatype_8h.html" title="src/cryptonote_basic\l/blobdatatype.h" alt="" coords="3625,191,3767,233"/>
+<area shape="rect" id="node40" href="$dc/d2d/i__core__events_8h.html" title="src/cryptonote_core\l/i_core_events.h" alt="" coords="3407,295,3545,337"/>
+<area shape="rect" id="node41" href="$dc/d98/key__stream_8h.html" title="src/lmdb/key_stream.h" alt="" coords="4213,199,4368,225"/>
+<area shape="rect" id="node42" href="$dd/d77/lmdb_2util_8h.html" title="src/lmdb/util.h" alt="" coords="3783,102,3887,129"/>
+<area shape="rect" id="node43" href="$df/da2/value__stream_8h.html" title="src/lmdb/value_stream.h" alt="" coords="4148,102,4313,129"/>
+<area shape="rect" id="node44" href="$dd/d61/dandelionpp_8h.html" title="src/net/dandelionpp.h" alt="" coords="3752,303,3899,329"/>
+<area shape="rect" id="node45" href="$dc/d07/socks_8h.html" title="src/net/socks.h" alt="" coords="4012,102,4124,129"/>
+<area shape="rect" id="node46" href="$d9/de6/zmq_8h.html" title="src/net/zmq.h" alt="" coords="59,102,162,129"/>
+<area shape="rect" id="node47" href="$db/d71/zmq__pub_8h.html" title="src/rpc/zmq_pub.h" alt="" coords="5,199,136,225"/>
+<area shape="rect" id="node48" href="$d0/d4a/bulletproofs_8cc.html" title="src/ringct/bulletproofs.cc" alt="" coords="4388,102,4553,129"/>
+<area shape="rect" id="node49" href="$d9/d17/bulletproofs__plus_8cc.html" title="src/ringct/bulletproofs\l_plus.cc" alt="" coords="4577,95,4724,136"/>
+<area shape="rect" id="node50" href="$d1/da9/binary__archive_8h.html" title="src/serialization/binary\l_archive.h" alt="" coords="3961,191,4113,233"/>
+<area shape="rect" id="node6" href="$d0/d81/cryptonote__protocol__handler_8h.html" title="This is the original cryptonote protocol network&#45;events handler, modified by us. " alt="" coords="1139,496,1339,537"/>
+<area shape="rect" id="node7" href="$da/dd7/daemon__handler_8h.html" title="src/rpc/daemon_handler.h" alt="" coords="1743,585,1915,612"/>
+<area shape="rect" id="node9" href="$d5/df9/byte__slice_8cpp.html" title="contrib/epee/src/byte\l_slice.cpp" alt="" coords="1803,295,1947,337"/>
+<area shape="rect" id="node13" href="$d2/d0d/message_8h.html" title="src/rpc/message.h" alt="" coords="1648,303,1779,329"/>
+<area shape="rect" id="node16" href="$d5/d26/abstract__tcp__server2_8h.html" title="the connection templated&#45;class for one peer connection " alt="" coords="1192,399,1373,441"/>
+<area shape="rect" id="node17" href="$de/de6/net__utils__base_8h.html" title="contrib/epee/include\l/net/net_utils_base.h" alt="" coords="1177,191,1319,233"/>
+<area shape="rect" id="node18" href="$d8/d85/connection__basic_8hpp.html" title="base for connection, contains e.g. the ratelimit hooks " alt="" coords="1195,295,1370,337"/>
+<area shape="rect" id="node19" href="$db/def/http__abstract__invoke_8h.html" title="contrib/epee/include\l/storages/http_abstract\l_invoke.h" alt="" coords="750,288,906,344"/>
+<area shape="rect" id="node22" href="$dd/d74/levin__notify_8cpp.html" title="src/cryptonote_protocol\l/levin_notify.cpp" alt="" coords="3406,399,3565,441"/>
+<area shape="rect" id="node23" href="$d1/d1c/zmq_8cpp.html" title="src/net/zmq.cpp" alt="" coords="313,199,429,225"/>
+<area shape="rect" id="node24" href="$d3/d0f/rpc__handler_8h.html" title="src/rpc/rpc_handler.h" alt="" coords="2240,303,2384,329"/>
+<area shape="rect" id="node26" href="$d1/d29/zmq__server_8cpp.html" title="src/rpc/zmq_server.cpp" alt="" coords="145,503,303,530"/>
+<area shape="rect" id="node10" href="$d9/dc9/byte__stream_8cpp.html" title="contrib/epee/src/byte\l_stream.cpp" alt="" coords="2021,295,2165,337"/>
+<area shape="rect" id="node12" href="$d8/ddc/daemon__messages_8h.html" title="src/rpc/daemon_messages.h" alt="" coords="1734,407,1925,433"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Monero::PendingTransactionImpl" name="Monero::PendingTransactionImpl">
+<area shape="rect" id="node2" href="$dd/d43/structMonero_1_1PendingTransaction.html" title="Transaction&#45;like interface for sending money. " alt="" coords="5,81,193,108"/>
+<area shape="rect" id="node3" href="$dc/d08/classMonero_1_1WalletImpl.html" title="Monero::WalletImpl" alt="" coords="217,81,352,108"/>
+<area shape="rect" id="node4" href="$d0/d86/structMonero_1_1Wallet.html" title="Interface for wallet operations. " alt="" coords="229,5,340,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="cryptonote::mdb_txn_cursors" name="cryptonote::mdb_txn_cursors">
+<area shape="rect" id="node2" href="$d1/d8b/structMDB__cursor.html" title="MDB_cursor" alt="" coords="630,305,725,332"/>
+<area shape="rect" id="node7" href="$d9/dba/structMDB__txn.html" title="MDB_txn" alt="" coords="519,594,596,621"/>
+<area shape="rect" id="node3" href="$d2/df9/structMDB__db.html" title="MDB_db" alt="" coords="285,155,358,181"/>
+<area shape="rect" id="node9" href="$de/d03/structMDB__ID2.html" title="MDB_ID2" alt="" coords="105,305,185,332"/>
+<area shape="rect" id="node10" href="$d7/dab/structMDB__page.html" title="MDB_page" alt="" coords="419,155,506,181"/>
+<area shape="rect" id="node11" href="$d3/d60/structMDB__env.html" title="MDB_env" alt="" coords="599,705,679,732"/>
+<area shape="rect" id="node12" href="$dd/d4e/structMDB__meta.html" title="MDB_meta" alt="" coords="1060,155,1148,181"/>
+<area shape="rect" id="node5" href="$d7/d35/structMDB__dbx.html" title="MDB_dbx" alt="" coords="852,155,932,181"/>
+<area shape="rect" id="node8" href="$da/d47/structMDB__reader.html" title="MDB_reader" alt="" coords="558,223,653,249"/>
+<area shape="rect" id="node13" href="$d5/dcb/structMDB__txninfo.html" title="MDB_txninfo" alt="" coords="1205,454,1304,481"/>
+</map>

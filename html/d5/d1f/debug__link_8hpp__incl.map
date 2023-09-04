@@ -1,0 +1,29 @@
+<map id="src/device_trezor/trezor/debug_link.hpp" name="src/device_trezor/trezor/debug_link.hpp">
+<area shape="rect" id="node2" href="$de/d0b/transport_8hpp.html" title="transport.hpp" alt="" coords="1977,95,2076,121"/>
+<area shape="rect" id="node9" href="$d9/df2/http__client_8h.html" title="net/http_client.h" alt="" coords="981,177,1096,203"/>
+<area shape="rect" id="node27" href="$db/df5/document_8h.html" title="rapidjson/document.h" alt="" coords="2449,177,2596,203"/>
+<area shape="rect" id="node38" href="$d9/d53/writer_8h.html" title="rapidjson/writer.h" alt="" coords="2837,177,2958,203"/>
+<area shape="rect" id="node41" href="$d7/dde/stringbuffer_8h.html" title="stringbuffer.h" alt="" coords="3264,259,3363,285"/>
+<area shape="rect" id="node42" href="$da/d49/exceptions_8hpp.html" title="exceptions.hpp" alt="" coords="1865,259,1975,285"/>
+<area shape="rect" id="node44" href="$db/d7c/trezor__defs_8hpp.html" title="trezor_defs.hpp" alt="" coords="2000,259,2112,285"/>
+<area shape="rect" id="node45" href="$d2/d3a/messages__map_8hpp.html" title="messages_map.hpp" alt="" coords="1957,177,2096,203"/>
+<area shape="rect" id="node17" href="$d7/dce/net__helper_8h.html" title="net_helper.h" alt="" coords="1101,333,1195,360"/>
+<area shape="rect" id="node18" href="$d2/d0c/http__client__base_8h.html" title="http_client_base.h" alt="" coords="1336,259,1464,285"/>
+<area shape="rect" id="node19" href="$d4/d3e/string__tools_8h.html" title="string_tools.h" alt="" coords="1377,408,1477,435"/>
+<area shape="rect" id="node20" href="$de/d2e/string__tools__lexical_8h.html" title="string_tools_lexical.h" alt="" coords="1488,259,1632,285"/>
+<area shape="rect" id="node21" href="$d0/dde/reg__exp__definer_8h.html" title="reg_exp_definer.h" alt="" coords="851,259,976,285"/>
+<area shape="rect" id="node22" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="934,333,1013,360"/>
+<area shape="rect" id="node23" href="$d4/d4a/abstract__http__client_8h.html" title="abstract_http_client.h" alt="" coords="269,259,416,285"/>
+<area shape="rect" id="node24" href="$d5/dc8/http__auth_8h.html" title="http_auth.h" alt="" coords="241,333,327,360"/>
+<area shape="rect" id="node25" href="$da/d94/http__base_8h.html" title="http_base.h" alt="" coords="141,408,232,435"/>
+<area shape="rect" id="node26" href="$d0/d66/net__parse__helpers_8h.html" title="net_parse_helpers.h" alt="" coords="5,333,144,360"/>
+<area shape="rect" id="node28" href="$d6/dda/reader_8h.html" title="reader.h" alt="" coords="2488,259,2557,285"/>
+<area shape="rect" id="node30" href="$d8/d4d/encodedstream_8h.html" title="encodedstream.h" alt="" coords="2387,333,2509,360"/>
+<area shape="rect" id="node31" href="$dd/d3c/memorystream_8h.html" title="memorystream.h" alt="" coords="2388,408,2508,435"/>
+<area shape="rect" id="node32" href="$dd/dbc/meta_8h.html" title="internal/meta.h" alt="" coords="2662,333,2770,360"/>
+<area shape="rect" id="node35" href="$d2/d60/strfunc_8h.html" title="internal/strfunc.h" alt="" coords="2790,259,2909,285"/>
+<area shape="rect" id="node29" href="$d8/d95/stream_8h.html" title="stream.h" alt="" coords="2699,490,2773,517"/>
+<area shape="rect" id="node33" href="$d7/de0/stack_8h.html" title="internal/stack.h" alt="" coords="2942,333,3053,360"/>
+<area shape="rect" id="node39" href="$d2/ded/dtoa_8h.html" title="internal/dtoa.h" alt="" coords="3085,259,3189,285"/>
+<area shape="rect" id="node40" href="$de/d79/itoa_8h.html" title="itoa.h" alt="" coords="3094,333,3149,360"/>
+</map>

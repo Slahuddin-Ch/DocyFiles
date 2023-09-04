@@ -1,0 +1,23 @@
+<map id="src/cryptonote_core/blockchain.h" name="src/cryptonote_core/blockchain.h">
+<area shape="rect" id="node15" href="$d4/d7a/span_8h.html" title="span.h" alt="" coords="2236,549,2297,575"/>
+<area shape="rect" id="node20" href="$d6/ded/syncobj_8h.html" title="syncobj.h" alt="" coords="2749,295,2827,322"/>
+<area shape="rect" id="node27" href="$d4/d3e/string__tools_8h.html" title="string_tools.h" alt="" coords="1867,295,1967,322"/>
+<area shape="rect" id="node33" href="$df/d47/rolling__median_8h.html" title="rolling_median.h" alt="" coords="2951,102,3067,129"/>
+<area shape="rect" id="node37" href="$d8/d86/cryptonote__basic_8h.html" title="cryptonote_basic/cryptonote\l_basic.h" alt="" coords="1475,288,1661,329"/>
+<area shape="rect" id="node39" href="$db/dfb/hash_8h.html" title="hash.h" alt="" coords="2236,385,2297,411"/>
+<area shape="rect" id="node40" href="$d2/df1/powerof_8h.html" title="common/powerof.h" alt="" coords="3092,102,3225,129"/>
+<area shape="rect" id="node41" href="$d2/db6/common_2util_8h.html" title="common/util.h" alt="" coords="2989,295,3093,322"/>
+<area shape="rect" id="node42" href="$d7/d49/cryptonote__protocol__defs_8h.html" title="cryptonote_protocol\l/cryptonote_protocol\l_defs.h" alt="" coords="1658,184,1798,240"/>
+<area shape="rect" id="node43" href="$dd/daf/core__rpc__server__commands__defs_8h.html" title="rpc/core_rpc_server\l_commands_defs.h" alt="" coords="1925,95,2062,136"/>
+<area shape="rect" id="node44" href="$de/dbb/difficulty_8h.html" title="cryptonote_basic/difficulty.h" alt="" coords="2077,199,2262,225"/>
+<area shape="rect" id="node45" href="$da/d84/cryptonote__tx__utils_8h.html" title="cryptonote_tx_utils.h" alt="" coords="3514,102,3657,129"/>
+<area shape="rect" id="node46" href="$d3/d9d/tx__verification__utils_8h.html" title="tx_verification_utils.h" alt="" coords="1489,199,1634,225"/>
+<area shape="rect" id="node47" href="$db/d42/verification__context_8h.html" title="cryptonote_basic/verification\l_context.h" alt="" coords="3681,95,3869,136"/>
+<area shape="rect" id="node48" href="$d8/dd7/checkpoints_8h.html" title="checkpoints/checkpoints.h" alt="" coords="2415,102,2593,129"/>
+<area shape="rect" id="node49" href="$d5/df9/hardfork_8h.html" title="cryptonote_basic/hardfork.h" alt="" coords="2389,199,2571,225"/>
+<area shape="rect" id="node50" href="$d9/d5c/blockchain__db_8h.html" title="blockchain_db/blockchain_db.h" alt="" coords="2137,102,2340,129"/>
+<area shape="rect" id="node28" href="$d0/d84/hex_8h.html" title="hex.h" alt="" coords="1909,467,1963,493"/>
+<area shape="rect" id="node31" href="$d5/df4/mlocker_8h.html" title="mlocker.h" alt="" coords="2082,385,2161,411"/>
+<area shape="rect" id="node34" href="$d1/dfc/misc__language_8h.html" title="misc_language.h" alt="" coords="1735,385,1855,411"/>
+<area shape="rect" id="node36" href="$df/dd8/stdint_8h.html" title="stdint.h" alt="" coords="3095,199,3161,225"/>
+</map>
