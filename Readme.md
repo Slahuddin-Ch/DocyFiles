@@ -19,7 +19,6 @@ I have created a `Doxyfile` to facilitate the generation of code documentation f
     sudo apt-get install doxygen
     ```
   
-    ![Doxygen Installation Screenshot](INSERT_DOXYGEN_INSTALLATION_SCREENSHOT_URL_HERE)
 
 ## How to Use
 
