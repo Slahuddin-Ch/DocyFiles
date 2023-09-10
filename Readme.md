@@ -2,7 +2,6 @@
 
 I have created a `Doxyfile` to facilitate the generation of code documentation for the Monero project. Below are some of the key details and snapshots of the generated documentation.
 
-![META 1 Logo](logo.jpg)
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
